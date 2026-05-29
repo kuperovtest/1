@@ -1,117 +1,117 @@
 
 # ─── Кастомные Telegram-эмодзи (только для текста сообщений) ─────────────────
 _E = {
-    "cross":        '<tg-emoji emoji-id="5210952531676504517">❌</tg-emoji>',
-    "check":        '<tg-emoji emoji-id="5902002809573740949">✅</tg-emoji>',
-    "bridge":       '<tg-emoji emoji-id="5814556334829343625">🪙</tg-emoji>',
-    "usdt":         '<tg-emoji emoji-id="5814556334829343625">🪙</tg-emoji>',
-    "btc":          '<tg-emoji emoji-id="5816788957614053645">🪙</tg-emoji>',
-    "money_bag":    '<tg-emoji emoji-id="5375296873982604963">💰</tg-emoji>',
-    "person":       '<tg-emoji emoji-id="6032693626394382504">👤</tg-emoji>',
-    "person2":      '<tg-emoji emoji-id="5884366771913233289">👤</tg-emoji>',
-    "down":         '<tg-emoji emoji-id="5406745015365943482">⬇️</tg-emoji>',
-    "star":         '<tg-emoji emoji-id="5924870095925942277">⭐️</tg-emoji>',
-    "diamond":      '<tg-emoji emoji-id="5427168083074628963">💎</tg-emoji>',
-    "people":       '<tg-emoji emoji-id="6032609071373226027">👥</tg-emoji>',
-    "writing":      '<tg-emoji emoji-id="5197269100878907942">✍️</tg-emoji>',
-    "back":         '<tg-emoji emoji-id="5924683191834121281">🔙</tg-emoji>',
-    "cart":         '<tg-emoji emoji-id="5312361253610475399">🛒</tg-emoji>',
-    "handshake":    '<tg-emoji emoji-id="5395732581780040886">🤝</tg-emoji>',
-    "edit":         '<tg-emoji emoji-id="5395444784611480792">✏️</tg-emoji>',
-    "card":         '<tg-emoji emoji-id="5445353829304387411">💳</tg-emoji>',
-    "package":      '<tg-emoji emoji-id="5778672437122045013">📦</tg-emoji>',
-    "chat":         '<tg-emoji emoji-id="5443038326535759644">💬</tg-emoji>',
-    "chart":        '<tg-emoji emoji-id="5190806721286657692">📊</tg-emoji>',
-    "megaphone":    '<tg-emoji emoji-id="5424818078833715060">📣</tg-emoji>',
-    "flag_ru":      '<tg-emoji emoji-id="5449408995691341691">🇷🇺</tg-emoji>',
-    "flag_ua":      '<tg-emoji emoji-id="5447309366568953338">🇺🇦</tg-emoji>',
-    "flag_kz":      '<tg-emoji emoji-id="5228718354658769982">🇰🇿</tg-emoji>',
-    "flag_by":      '<tg-emoji emoji-id="5382219601054544127">🇧🇾</tg-emoji>',
-    "link":         '<tg-emoji emoji-id="5902449142575141204">🔗</tg-emoji>',
-    "timer":        '<tg-emoji emoji-id="5386367538735104399">⌛</tg-emoji>',
-    "hammer":       '<tg-emoji emoji-id="5836997023554870252">🔨</tg-emoji>',
-    "crown":        '<tg-emoji emoji-id="5217822164362739968">👑</tg-emoji>',
-    "bell":         '<tg-emoji emoji-id="5458603043203327669">🔔</tg-emoji>',
-    "no":           '<tg-emoji emoji-id="5260293700088511294">⛔️</tg-emoji>',
-    "coin":         '<tg-emoji emoji-id="5224257782013769471">💰</tg-emoji>',
-    "tag":          '<tg-emoji emoji-id="5888620056551625531">🏷</tg-emoji>',
-    "mail":         '<tg-emoji emoji-id="5253742260054409879">✉️</tg-emoji>',
-    "mailbox":      '<tg-emoji emoji-id="5350421256627838238">📬</tg-emoji>',
-    "question":     '<tg-emoji emoji-id="5436113877181941026">❓</tg-emoji>',
-    "tv":           '<tg-emoji emoji-id="6039391078136681499">📺</tg-emoji>',
-    "pin":          '<tg-emoji emoji-id="5397782960512444700">📌</tg-emoji>',
-    "finish":       '<tg-emoji emoji-id="5411520005386806155">🏁</tg-emoji>',
-    "globe":        '<tg-emoji emoji-id="5776233299424843260">🌐</tg-emoji>',
-    "star2":        '<tg-emoji emoji-id="5924870095925942277">⭐️</tg-emoji>',
-    "warning":      '<tg-emoji emoji-id="5420323339723881652">⚠️</tg-emoji>',
-    "sparkle":      '<tg-emoji emoji-id="5325547803936572038">✨</tg-emoji>',
-    "flag_us":      '<tg-emoji emoji-id="5202021044105257611">🇺🇸</tg-emoji>',
-    "globe2":       '<tg-emoji emoji-id="5447410659077661506">🌐</tg-emoji>',
-    "gift":         '<tg-emoji emoji-id="6037175527846975726">🎁</tg-emoji>',
-    "confetti":     '<tg-emoji emoji-id="5193018401810822951">🎉</tg-emoji>',
-    "target":       '<tg-emoji emoji-id="5310278924616356636">🎯</tg-emoji>',
-    "bank":         '<tg-emoji emoji-id="5332455502917949981">🏦</tg-emoji>',
-    "broken_heart": '<tg-emoji emoji-id="5316583309541651465">💔</tg-emoji>',
-    "heart_spark":  '<tg-emoji emoji-id="5470080737711502911">💖</tg-emoji>',
-    "heart":        '<tg-emoji emoji-id="5406926593698312391">❤️</tg-emoji>',
-    "heart_gift":   '<tg-emoji emoji-id="5192879906295397710">💝</tg-emoji>',
-    "briefcase":    '<tg-emoji emoji-id="5445221832074483553">💼</tg-emoji>',
-    "writing2":     '<tg-emoji emoji-id="5470060791883374114">✍️</tg-emoji>',
-    "scroll":       '<tg-emoji emoji-id="6043874504302661409">📤</tg-emoji>',
-    "outbox":       '<tg-emoji emoji-id="6043874504302661409">📤</tg-emoji>',
-    "inbox":        '<tg-emoji emoji-id="6039420807900303010">📥</tg-emoji>',
-    "shield":       '<tg-emoji emoji-id="5893365724830765382">🛡</tg-emoji>',
-    "flying_money": '<tg-emoji emoji-id="5375296873982604963">💰</tg-emoji>',
-    "gear":         '<tg-emoji emoji-id="5902432207519093015">⚙️</tg-emoji>',
-    "lock":         '<tg-emoji emoji-id="5296369303661067030">🔒</tg-emoji>',
-    "sparkle2":     '<tg-emoji emoji-id="5778647930038653243">✨</tg-emoji>',
-    "plane":        '<tg-emoji emoji-id="5927118708873892465">✈️</tg-emoji>',
-    "gem":          '<tg-emoji emoji-id="5891105528356018797">💎</tg-emoji>',
-    "shield2":      '<tg-emoji emoji-id="5902016123972358349">🛡</tg-emoji>',
-    "phone":        '<tg-emoji emoji-id="5895652322469482989">📱</tg-emoji>',
-    "phone2":       '<tg-emoji emoji-id="5895266423952904371">📱</tg-emoji>',
-    "check2":       '<tg-emoji emoji-id="5895514131896733546">✅</tg-emoji>',
-    "cross2":       '<tg-emoji emoji-id="5893163582194978381">❌</tg-emoji>',
-    "check3":       '<tg-emoji emoji-id="5895713431264170680">✅</tg-emoji>',
-    "cross3":       '<tg-emoji emoji-id="5893081007153746175">❌</tg-emoji>',
-    "briefcase2":   '<tg-emoji emoji-id="5893255507380014983">💼</tg-emoji>',
-    "sleep":        '<tg-emoji emoji-id="5774138454896022007">💤</tg-emoji>',
-    "money2":       '<tg-emoji emoji-id="5893473283696759404">💰</tg-emoji>',
-    "search":       '<tg-emoji emoji-id="5893382531037794941">🔎</tg-emoji>',
-    "pin2":         '<tg-emoji emoji-id="5895440460322706085">📌</tg-emoji>',
-    "idea":         '<tg-emoji emoji-id="5893290369629556374">💡</tg-emoji>',
-    "phone3":       '<tg-emoji emoji-id="5893100690988863311">📱</tg-emoji>',
-    "coin2":        '<tg-emoji emoji-id="6039802097916974085">🪙</tg-emoji>',
-    "gear2":        '<tg-emoji emoji-id="5893161718179173515">⚙️</tg-emoji>',
-    "check4":       '<tg-emoji emoji-id="5893431652578758294">✅</tg-emoji>',
-    "stop":         '<tg-emoji emoji-id="5904238507555033712">⛔️</tg-emoji>',
-    "person3":      '<tg-emoji emoji-id="5902335789798265487">👤</tg-emoji>',
-    "next":         '<tg-emoji emoji-id="5893368370530621889">🔜</tg-emoji>',
-    "link2":        '<tg-emoji emoji-id="5902449142575141204">🔗</tg-emoji>',
-    "heart2":       '<tg-emoji emoji-id="5893406892092297627">♥️</tg-emoji>',
-    "heart3":       '<tg-emoji emoji-id="5895213106228891182">♥️</tg-emoji>',
-    "eyes":         '<tg-emoji emoji-id="5210956306952758910">👀</tg-emoji>',
-    "lightning":    '<tg-emoji emoji-id="5456140674028019486">⚡️</tg-emoji>',
-    "smile":        '<tg-emoji emoji-id="5461117441612462242">🙂</tg-emoji>',
-    "exclaim":      '<tg-emoji emoji-id="5274099962655816924">❗️</tg-emoji>',
-    "ban":          '<tg-emoji emoji-id="5240241223632954241">🚫</tg-emoji>',
-    "think":        '<tg-emoji emoji-id="5467538555158943525">💭</tg-emoji>',
-    "trending":     '<tg-emoji emoji-id="5244837092042750681">📈</tg-emoji>',
-    "snowflake":    '<tg-emoji emoji-id="5449449325434266744">❄️</tg-emoji>',
-    "gold":         '<tg-emoji emoji-id="5440539497383087970">🥇</tg-emoji>',
-    "silver":       '<tg-emoji emoji-id="5447203607294265305">🥈</tg-emoji>',
-    "bronze":       '<tg-emoji emoji-id="5453902265922376865">🥉</tg-emoji>',
-    "n1":           '<tg-emoji emoji-id="5794164805065514131">1⃣</tg-emoji>',
-    "n2":           '<tg-emoji emoji-id="5794085322400733645">2⃣</tg-emoji>',
-    "n3":           '<tg-emoji emoji-id="5794280000383358988">3⃣</tg-emoji>',
-    "n4":           '<tg-emoji emoji-id="5794241397217304511">4⃣</tg-emoji>',
-    "n5":           '<tg-emoji emoji-id="5793985348446984682">5⃣</tg-emoji>',
-    "n6":           '<tg-emoji emoji-id="5794324702402976226">6⃣</tg-emoji>',
-    "n7":           '<tg-emoji emoji-id="5793942849745591465">7⃣</tg-emoji>',
-    "n8":           '<tg-emoji emoji-id="5793926687783655907">8⃣</tg-emoji>',
-    "n9":           '<tg-emoji emoji-id="5793979472931723221">9⃣</tg-emoji>',
-    "n10":          '<tg-emoji emoji-id="5794375786743995258">🔟</tg-emoji>',
-    "n0":           '<tg-emoji emoji-id="5794375786743995258">0️⃣</tg-emoji>',
+    "cross":        '❌',
+    "check":        '✅',
+    "bridge":       '🪙',
+    "usdt":         '🪙',
+    "btc":          '🪙',
+    "money_bag":    '💰',
+    "person":       '👤',
+    "person2":      '👤',
+    "down":         '⬇️',
+    "star":         '⭐️',
+    "diamond":      '💎',
+    "people":       '👥',
+    "writing":      '✍️',
+    "back":         '🔙',
+    "cart":         '🛒',
+    "handshake":    '🤝',
+    "edit":         '✏️',
+    "card":         '💳',
+    "package":      '📦',
+    "chat":         '💬',
+    "chart":        '📊',
+    "megaphone":    '📣',
+    "flag_ru":      '🇷🇺',
+    "flag_ua":      '🇺🇦',
+    "flag_kz":      '🇰🇿',
+    "flag_by":      '🇧🇾',
+    "link":         '🔗',
+    "timer":        '⌛',
+    "hammer":       '🔨',
+    "crown":        '👑',
+    "bell":         '🔔',
+    "no":           '⛔️',
+    "coin":         '💰',
+    "tag":          '🏷',
+    "mail":         '✉️',
+    "mailbox":      '📬',
+    "question":     '❓',
+    "tv":           '📺',
+    "pin":          '📌',
+    "finish":       '🏁',
+    "globe":        '🌐',
+    "star2":        '⭐️',
+    "warning":      '⚠️',
+    "sparkle":      '✨',
+    "flag_us":      '🇺🇸',
+    "globe2":       '🌐',
+    "gift":         '🎁',
+    "confetti":     '🎉',
+    "target":       '🎯',
+    "bank":         '🏦',
+    "broken_heart": '💔',
+    "heart_spark":  '💖',
+    "heart":        '❤️',
+    "heart_gift":   '💝',
+    "briefcase":    '💼',
+    "writing2":     '✍️',
+    "scroll":       '📤',
+    "outbox":       '📤',
+    "inbox":        '📥',
+    "shield":       '🛡',
+    "flying_money": '💰',
+    "gear":         '⚙️',
+    "lock":         '🔒',
+    "sparkle2":     '✨',
+    "plane":        '✈️',
+    "gem":          '💎',
+    "shield2":      '🛡',
+    "phone":        '📱',
+    "phone2":       '📱',
+    "check2":       '✅',
+    "cross2":       '❌',
+    "check3":       '✅',
+    "cross3":       '❌',
+    "briefcase2":   '💼',
+    "sleep":        '💤',
+    "money2":       '💰',
+    "search":       '🔎',
+    "pin2":         '📌',
+    "idea":         '💡',
+    "phone3":       '📱',
+    "coin2":        '🪙',
+    "gear2":        '⚙️',
+    "check4":       '✅',
+    "stop":         '⛔️',
+    "person3":      '👤',
+    "next":         '🔜',
+    "link2":        '🔗',
+    "heart2":       '♥️',
+    "heart3":       '♥️',
+    "eyes":         '👀',
+    "lightning":    '⚡️',
+    "smile":        '🙂',
+    "exclaim":      '❗️',
+    "ban":          '🚫',
+    "think":        '💭',
+    "trending":     '📈',
+    "snowflake":    '❄️',
+    "gold":         '🥇',
+    "silver":       '🥈',
+    "bronze":       '🥉',
+    "n1":           '1⃣',
+    "n2":           '2⃣',
+    "n3":           '3⃣',
+    "n4":           '4⃣',
+    "n5":           '5⃣',
+    "n6":           '6⃣',
+    "n7":           '7⃣',
+    "n8":           '8⃣',
+    "n9":           '9⃣',
+    "n10":          '🔟',
+    "n0":           '0️⃣',
 }
 e = _E  # короткий алиас
 
@@ -453,40 +453,40 @@ class PaymentStatus:
 
 SUBSCRIPTION_FEATURES = {
     SubscriptionType.NONE: {  # ДОБАВЬТЕ ЭТО
-        "name": "_E['cross2'] Нет подписки",
+        "name": "❌ Нет подписки",
         "search_limits": [],
         "difficulties": [],
         "broadcast": False,
         "features": [
-            "_E['cross2'] Поиск людей недоступен",
-            "_E['cross2'] Любая сложность недоступна", 
-            "_E['cross2'] Рассылка сообщений",
-            "_E['cross2'] Расширенный поиск"
+            "❌ Поиск людей недоступен",
+            "❌ Любая сложность недоступна", 
+            "❌ Рассылка сообщений",
+            "❌ Расширенный поиск"
         ]
     },
     SubscriptionType.LIGHT: {
-        "name": "_E['idea'] Лайт",
+        "name": "💡 Лайт",
         "search_limits": [10, 20, 30],
         "difficulties": ["easy"],
         "broadcast": False,
         "features": [
-            "_E['check2'] Поиск людей (10, 20, 30)",
-            "_E['check2'] Только легкая сложность",
-            "_E['cross2'] Рассылка сообщений",
-            "_E['cross2'] Расширенный поиск"
+            "✅ Поиск людей (10, 20, 30)",
+            "✅ Только легкая сложность",
+            "❌ Рассылка сообщений",
+            "❌ Расширенный поиск"
         ]
     },
     SubscriptionType.PREMIUM: {
-        "name": "_E['star'] Премиум", 
+        "name": "⭐️ Премиум", 
         "search_limits": [10, 20, 30, 50, 100, 250, 500, 1000],
         "difficulties": ["easy", "medium", "hard", "xhard"],
         "broadcast": True,
         "features": [
-            "_E['check2'] Все количества поиска (до 1000)",
-            "_E['check2'] Все уровни сложности", 
-            "_E['check2'] Рассылка сообщений",
-            "_E['check2'] Приоритетная поддержка",
-            "_E['check2'] Расширенные настройки"
+            "✅ Все количества поиска (до 1000)",
+            "✅ Все уровни сложности", 
+            "✅ Рассылка сообщений",
+            "✅ Приоритетная поддержка",
+            "✅ Расширенные настройки"
         ]
     }
 }
@@ -539,11 +539,11 @@ class CryptoBot:
                             "currency": currency.upper()
                         }
                     else:
-                        logging.error(f"_E['cross2'] CryptoBot error: {data}")
+                        logging.error(f"❌ CryptoBot error: {data}")
                         return {"success": False, "error": data.get("error", {}).get("name", "Unknown error")}
                         
         except Exception as e:
-            logging.error(f"_E['cross2'] Ошибка создания счета CryptoBot: {e}")
+            logging.error(f"❌ Ошибка создания счета CryptoBot: {e}")
             return {"success": False, "error": str(e)}
     
     async def check_invoice(self, invoice_id: str):
@@ -567,7 +567,7 @@ class CryptoBot:
                         return {"success": False, "error": data.get("error", {}).get("name", "Unknown error")}
                         
         except Exception as e:
-            logging.error(f"_E['cross2'] Ошибка проверки счета CryptoBot: {e}")
+            logging.error(f"❌ Ошибка проверки счета CryptoBot: {e}")
             return {"success": False, "error": str(e)}
 
 # Создаем экземпляр CryptoBot
@@ -715,23 +715,23 @@ async def successful_payment_handler(message: Message):
     if donation_id:
         # Уведомляем админов
         await notify_admins(
-            f"_E['star'] <b>Новый донат звездами!</b>\n\n"
-            f"_E['person'] <b>Пользователь:</b> {message.from_user.first_name} (@{message.from_user.username or 'нет'})\n"
+            f"⭐️ <b>Новый донат звездами!</b>\n\n"
+            f"👤 <b>Пользователь:</b> {message.from_user.first_name} (@{message.from_user.username or 'нет'})\n"
             f"🆔 <b>ID:</b> {message.from_user.id}\n"
-            f"_E['money_bag'] <b>Сумма:</b> {payment.total_amount / 100} _E['star']\n"
+            f"💰 <b>Сумма:</b> {payment.total_amount / 100} ⭐️\n"
             f"🇷🇺 <b>Примерно:</b> {(payment.total_amount / 100) * 2} RUB\n"
             f"⏰ <b>Время:</b> {datetime.now().strftime('%d.%m.%Y %H:%M')}"
         )
         
         await message.answer(
-            f"_E['check2'] <b>Спасибо за донат!</b>\n\n"
-            f"_E['diamond'] <b>Сумма:</b> {payment.total_amount / 100} _E['star']\n"
+            f"✅ <b>Спасибо за донат!</b>\n\n"
+            f"💎 <b>Сумма:</b> {payment.total_amount / 100} ⭐️\n"
             f"🇷🇺 <b>Примерно:</b> {(payment.total_amount / 100) * 2} RUB\n\n"
             f"❤️ <b>Ваша поддержка помогает развитию бота!</b>\n\n"
             f"🏆 <b>Ваше имя добавлено в топ донатеров!</b>",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="🏆 Топ донатеров", callback_data='donation_top')],
-                [InlineKeyboardButton(text="_E['money_bag'] Мои донаты", callback_data='my_donations')],
+                [InlineKeyboardButton(text="💰 Мои донаты", callback_data='my_donations')],
                 [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
             ]),
             parse_mode="HTML"
@@ -748,7 +748,7 @@ async def process_stars_amount(message: Message, state: FSMContext):
         
         if amount < 5:
             await message.answer(
-                "_E['cross2'] <b>Минимальная сумма 5 звезд!</b>\n\n"
+                "❌ <b>Минимальная сумма 5 звезд!</b>\n\n"
                 "Попробуйте еще раз:",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="◀️ Отмена", callback_data='donate_stars')]
@@ -760,15 +760,15 @@ async def process_stars_amount(message: Message, state: FSMContext):
         rub_amount = amount * 2
         
         await message.answer(
-            f"_E['star'] <b>Донат {amount} звезд</b>\n\n"
-            f"_E['money_bag'] <b>Сумма:</b> {amount} _E['star'] ({rub_amount}₽)\n\n"
-            "_E['target'] <b>Для оплаты:</b>\n"
+            f"⭐️ <b>Донат {amount} звезд</b>\n\n"
+            f"💰 <b>Сумма:</b> {amount} ⭐️ ({rub_amount}₽)\n\n"
+            "🎯 <b>Для оплаты:</b>\n"
             "1. Нажмите кнопку ниже\n"
             "2. Выберите количество звезд\n"
             "3. Подтвердите оплату\n\n"
-            "_E['idea'] <b>1 звезда ≈ 2 рубля</b>",
+            "💡 <b>1 звезда ≈ 2 рубля</b>",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text=f"_E['target'] Отправить {amount} _E['star']", pay=True)],
+                [InlineKeyboardButton(text=f"🎯 Отправить {amount} ⭐️", pay=True)],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='donate_stars')]
             ]),
             parse_mode="HTML"
@@ -776,7 +776,7 @@ async def process_stars_amount(message: Message, state: FSMContext):
         
     except ValueError:
         await message.answer(
-            "_E['cross2'] <b>Неверный формат!</b>\n\n"
+            "❌ <b>Неверный формат!</b>\n\n"
             "Введите целое число (например: 50)\n"
             "Попробуйте еще раз:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -786,9 +786,9 @@ async def process_stars_amount(message: Message, state: FSMContext):
         )
         return
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обработки суммы звезд: {e}")
+        logging.error(f"❌ Ошибка обработки суммы звезд: {e}")
         await message.answer(
-            f"_E['cross2'] <b>Ошибка:</b> {str(e)[:200]}",
+            f"❌ <b>Ошибка:</b> {str(e)[:200]}",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='donate_stars')]
             ]),
@@ -810,7 +810,7 @@ class AdminTopStates(StatesGroup):
 async def admin_top_handler(message: Message, state: FSMContext):
     """Админ-панель для управления топом донатеров"""
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа к этой команде!")
+        await message.answer("❌ У вас нет доступа к этой команде!")
         return
     
     await message.answer(
@@ -820,7 +820,7 @@ async def admin_top_handler(message: Message, state: FSMContext):
             [InlineKeyboardButton(text="➕ Добавить донат", callback_data='admin_top_add')],
             [InlineKeyboardButton(text="✏️ Изменить донат", callback_data='admin_top_edit')],
             [InlineKeyboardButton(text="🗑️ Удалить донат", callback_data='admin_top_remove')],
-            [InlineKeyboardButton(text="_E['chart'] Просмотр топа", callback_data='donation_top')],
+            [InlineKeyboardButton(text="📊 Просмотр топа", callback_data='donation_top')],
             [InlineKeyboardButton(text="◀️ Назад", callback_data='admin_menu')]
         ])
     )
@@ -883,7 +883,7 @@ def get_crypto_stats(period: str = "month"):
         }
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка получения статистики: {e}")
+        logging.error(f"❌ Ошибка получения статистики: {e}")
         return None
     finally:
         conn.close()
@@ -933,7 +933,7 @@ def get_crypto_payments_history(user_id: int = None, limit: int = 50):
         return result
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка получения истории криптоплатежей: {e}")
+        logging.error(f"❌ Ошибка получения истории криптоплатежей: {e}")
         return []
     finally:
         conn.close()
@@ -952,10 +952,10 @@ def save_crypto_payment(user_id: int, invoice_id: str, amount: float, currency: 
         )
         conn.commit()
         payment_id = cursor.lastrowid
-        logging.info(f"_E['check2'] Криптоплатеж сохранен: ID {payment_id}")
+        logging.info(f"✅ Криптоплатеж сохранен: ID {payment_id}")
         return payment_id
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения криптоплатежа: {e}")
+        logging.error(f"❌ Ошибка сохранения криптоплатежа: {e}")
         return None
     finally:
         conn.close()
@@ -976,7 +976,7 @@ def update_crypto_payment_status(invoice_id: str, status: str):
         success = cursor.rowcount > 0
         return success
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обновления криптоплатежа: {e}")
+        logging.error(f"❌ Ошибка обновления криптоплатежа: {e}")
         return False
     finally:
         conn.close()
@@ -1004,13 +1004,13 @@ def convert_crypto_to_rub(amount: float, currency: str) -> float:
 async def get_available_cryptos():
     """Получает доступные криптовалюты"""
     cryptos = [
-        ("_E['diamond']", "USDT"),  # USDT (TRC20)
-        ("_E['diamond']", "TON"),   # TON
+        ("💎", "USDT"),  # USDT (TRC20)
+        ("💎", "TON"),   # TON
         ("🔶", "BTC"),   # Bitcoin
-        ("_E['lightning']", "LTC"),   # Litecoin
+        ("⚡️", "LTC"),   # Litecoin
         ("💠", "ETH"),   # Ethereum
         ("🐕", "DOGE"),  # Dogecoin
-        ("_E['sparkle']", "BNB")    # Binance Coin
+        ("✨", "BNB")    # Binance Coin
     ]
     return cryptos
 
@@ -1018,12 +1018,12 @@ def make_crypto_donate_keyboard():
     """Создает клавиатуру для выбора криптовалюты"""
     buttons = [
         [
-            InlineKeyboardButton(text="_E['diamond'] USDT", callback_data='donate_crypto_USDT'),
-            InlineKeyboardButton(text="_E['diamond'] TON", callback_data='donate_crypto_TON'),
+            InlineKeyboardButton(text="💎 USDT", callback_data='donate_crypto_USDT'),
+            InlineKeyboardButton(text="💎 TON", callback_data='donate_crypto_TON'),
         ],
         [
             InlineKeyboardButton(text="🔶 BTC", callback_data='donate_crypto_BTC'),
-            InlineKeyboardButton(text="_E['lightning'] LTC", callback_data='donate_crypto_LTC'),
+            InlineKeyboardButton(text="⚡️ LTC", callback_data='donate_crypto_LTC'),
         ],
         [
             InlineKeyboardButton(text="💠 ETH", callback_data='donate_crypto_ETH'),
@@ -1031,7 +1031,7 @@ def make_crypto_donate_keyboard():
         ],
         [
             InlineKeyboardButton(text="◀️ Назад", callback_data='support'),
-            InlineKeyboardButton(text="_E['chart'] Курсы", callback_data='crypto_rates')
+            InlineKeyboardButton(text="📊 Курсы", callback_data='crypto_rates')
         ]
     ]
     return InlineKeyboardMarkup(inline_keyboard=buttons)
@@ -1064,13 +1064,13 @@ async def update_exchange_rates():
                     # Сохраняем в кэш
                     global CRYPTO_RATES
                     CRYPTO_RATES = rates
-                    logging.info(f"_E['check2'] Курсы обновлены: {rates}")
+                    logging.info(f"✅ Курсы обновлены: {rates}")
                     return rates
                 else:
-                    logging.warning(f"_E['warning'] Не удалось обновить курсы, статус: {response.status}")
+                    logging.warning(f"⚠️ Не удалось обновить курсы, статус: {response.status}")
                     
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обновления курсов: {e}")
+        logging.error(f"❌ Ошибка обновления курсов: {e}")
     
     # Возвращаем дефолтные значения при ошибке
     return {
@@ -1150,7 +1150,7 @@ async def callback_donate_crypto(call: CallbackQuery):
         text = (
             f"{info['emoji']} <b>Донат {info['name']}</b>\n\n"
             f"📝 <b>Описание:</b> {info['description']}\n"
-            f"_E['money_bag'] <b>Минимальная сумма:</b> {info['min_amount']} {currency}\n\n"
+            f"💰 <b>Минимальная сумма:</b> {info['min_amount']} {currency}\n\n"
             f"👇 <b>Выберите сумму для доната:</b>"
         )
         
@@ -1201,8 +1201,8 @@ async def callback_donate_crypto(call: CallbackQuery):
         )
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в donate_crypto: {e}")
-        await call.answer(f"_E['cross2'] Ошибка выбора валюты: {str(e)[:100]}", show_alert=True)
+        logging.error(f"❌ Ошибка в donate_crypto: {e}")
+        await call.answer(f"❌ Ошибка выбора валюты: {str(e)[:100]}", show_alert=True)
 
 
 @dp.callback_query(F.data.startswith('crypto_custom_'))
@@ -1214,7 +1214,7 @@ async def callback_crypto_custom(call: CallbackQuery, state: FSMContext):
     await state.set_state(States.waiting_crypto_amount)
     
     await call.message.edit_text(
-        f"_E['diamond'] <b>Введите сумму в {currency} для доната:</b>\n\n"
+        f"💎 <b>Введите сумму в {currency} для доната:</b>\n\n"
         f"Пример: 1.5\n"
         f"Минимальная сумма: {get_min_amount(currency)} {currency}",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -1252,7 +1252,7 @@ async def process_crypto_amount(message: Message, state: FSMContext):
         min_amount = get_min_amount(currency)
         if amount < min_amount:
             await message.answer(
-                f"_E['cross2'] <b>Слишком маленькая сумма!</b>\n\n"
+                f"❌ <b>Слишком маленькая сумма!</b>\n\n"
                 f"Минимальная сумма: {min_amount} {currency}\n"
                 f"Попробуйте еще раз:",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -1270,7 +1270,7 @@ async def process_crypto_amount(message: Message, state: FSMContext):
         
     except ValueError:
         await message.answer(
-            "_E['cross2'] <b>Неверный формат суммы!</b>\n\n"
+            "❌ <b>Неверный формат суммы!</b>\n\n"
             "Введите число, например: 1.5\n"
             "Попробуйте еще раз:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -1279,9 +1279,9 @@ async def process_crypto_amount(message: Message, state: FSMContext):
         )
         return
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обработки суммы: {e}")
+        logging.error(f"❌ Ошибка обработки суммы: {e}")
         await message.answer(
-            f"_E['cross2'] <b>Ошибка:</b> {str(e)[:200]}\n\n"
+            f"❌ <b>Ошибка:</b> {str(e)[:200]}\n\n"
             "Попробуйте еще раз:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Отмена", callback_data='support')]
@@ -1296,15 +1296,15 @@ def make_support_keyboard():
     """Создает клавиатуру для поддержки (только крипта и звезды)"""
     buttons = [
         [
-            InlineKeyboardButton(text="_E['star'] Звездами", callback_data='donate_stars'),
-            InlineKeyboardButton(text="_E['diamond'] Криптой (CryptoBot)", callback_data='crypto_donate_menu')
+            InlineKeyboardButton(text="⭐️ Звездами", callback_data='donate_stars'),
+            InlineKeyboardButton(text="💎 Криптой (CryptoBot)", callback_data='crypto_donate_menu')
         ],
         [
             InlineKeyboardButton(text="👥 Реферальная система", callback_data='referral_system'),
             InlineKeyboardButton(text="🏆 Топ донатеров", callback_data='donation_top')
         ],
         [
-            InlineKeyboardButton(text="_E['money_bag'] Мои донаты", callback_data='my_donations'),
+            InlineKeyboardButton(text="💰 Мои донаты", callback_data='my_donations'),
             InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')
         ]
     ]
@@ -1323,19 +1323,19 @@ async def callback_referral_system(call: CallbackQuery):
     text = "👥 <b>Реферальная система</b>\n\n"
     
     if referrer_info:
-        text += f"_E['person'] <b>Ваш реферер:</b>\n"
+        text += f"👤 <b>Ваш реферер:</b>\n"
         text += f"• Имя: {referrer_info['referrer_first_name']}\n"
         if referrer_info['referrer_username']:
             text += f"• Username: @{referrer_info['referrer_username']}\n"
         text += f"• ID: {referrer_info['referrer_id']}\n\n"
     
-    text += f"_E['chart'] <b>Ваша статистика:</b>\n"
+    text += f"📊 <b>Ваша статистика:</b>\n"
     text += f"• Приглашено пользователей: {referral_count}\n\n"
     
-    text += f"_E['link'] <b>Ваша реферальная ссылка:</b>\n"
+    text += f"🔗 <b>Ваша реферальная ссылка:</b>\n"
     text += f"<code>https://t.me/{bot._token.split(':')[0]}?start={user_id}</code>\n\n"
     
-    text += "_E['idea'] <b>Как это работает:</b>\n"
+    text += "💡 <b>Как это работает:</b>\n"
     text += "1. Делитесь ссылкой с друзьями\n"
     text += "2. За каждого приглашенного получаете бонус\n"
     text += "3. Бонусы можно использовать для подписок\n"
@@ -1354,7 +1354,7 @@ async def callback_crypto_donate_menu(call: CallbackQuery):
     try:
         cryptos = await get_available_cryptos()
         
-        text = "_E['diamond'] <b>Поддержать разработчика криптовалютой</b>\n\n"
+        text = "💎 <b>Поддержать разработчика криптовалютой</b>\n\n"
         text += "👇 <b>Выберите криптовалюту:</b>\n\n"
         
         keyboard_buttons = []
@@ -1371,7 +1371,7 @@ async def callback_crypto_donate_menu(call: CallbackQuery):
         
         # Добавляем кнопки навигации
         keyboard_buttons.append([
-            InlineKeyboardButton(text="_E['chart'] Актуальные курсы", callback_data='crypto_rates'),
+            InlineKeyboardButton(text="📊 Актуальные курсы", callback_data='crypto_rates'),
             InlineKeyboardButton(text="◀️ Назад", callback_data='support')
         ])
         
@@ -1382,15 +1382,15 @@ async def callback_crypto_donate_menu(call: CallbackQuery):
         )
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в crypto_donate_menu: {e}")
-        await call.answer(f"_E['cross2'] Ошибка: {str(e)[:100]}", show_alert=True)
+        logging.error(f"❌ Ошибка в crypto_donate_menu: {e}")
+        await call.answer(f"❌ Ошибка: {str(e)[:100]}", show_alert=True)
 
 @dp.callback_query(F.data == 'crypto_rates')
 async def callback_crypto_rates(call: CallbackQuery):
     """Показывает актуальные курсы криптовалют"""
     rates = await update_exchange_rates()
     
-    text = "_E['chart'] <b>Актуальные курсы криптовалют</b>\n\n"
+    text = "📊 <b>Актуальные курсы криптовалют</b>\n\n"
     text += "<b>К рублю (RUB):</b>\n"
     
     # Показываем курсы
@@ -1399,12 +1399,12 @@ async def callback_crypto_rates(call: CallbackQuery):
             text += f"• 1 {crypto} = {rate:,.2f} RUB\n"
     
     text += "\n⏰ <b>Обновлено:</b> " + datetime.now().strftime("%d.%m.%Y %H:%M")
-    text += "\n\n_E['idea'] <i>Курсы обновляются автоматически</i>"
+    text += "\n\n💡 <i>Курсы обновляются автоматически</i>"
     
     await call.message.edit_text(
         text,
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['diamond'] Сделать донат", callback_data='crypto_donate_menu')],
+            [InlineKeyboardButton(text="💎 Сделать донат", callback_data='crypto_donate_menu')],
             [InlineKeyboardButton(text="🔄 Обновить курсы", callback_data='crypto_rates_refresh')],
             [InlineKeyboardButton(text="◀️ Назад", callback_data='support')]
         ])
@@ -1427,7 +1427,7 @@ async def start_exchange_rate_updater():
             # Обновляем каждые 30 минут
             await asyncio.sleep(1800)
         except Exception as e:
-            logging.error(f"_E['cross2'] Ошибка в обновлении курсов: {e}")
+            logging.error(f"❌ Ошибка в обновлении курсов: {e}")
             await asyncio.sleep(300)  # Ждем 5 минут при ошибке
 
 async def generate_crypto_qr(wallet_address: str, currency: str, amount: float = None):
@@ -1469,7 +1469,7 @@ async def generate_crypto_qr(wallet_address: str, currency: str, amount: float =
         return temp_file
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка генерации QR-кода: {e}")
+        logging.error(f"❌ Ошибка генерации QR-кода: {e}")
         return None
 
 def export_crypto_payments_csv(start_date: datetime, end_date: datetime):
@@ -1526,7 +1526,7 @@ def export_crypto_payments_csv(start_date: datetime, end_date: datetime):
         return csv_file
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка экспорта CSV: {e}")
+        logging.error(f"❌ Ошибка экспорта CSV: {e}")
         return None
     finally:
         conn.close()
@@ -1535,7 +1535,7 @@ def export_crypto_payments_csv(start_date: datetime, end_date: datetime):
 async def callback_admin_top_add(call: CallbackQuery, state: FSMContext):
     """Добавление доната вручную"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     await call.message.edit_text(
@@ -1558,7 +1558,7 @@ async def process_admin_top_user_id(message: Message, state: FSMContext):
         user_data = get_user_from_db(user_id)
         if not user_data:
             await message.answer(
-                "_E['cross2'] <b>Пользователь не найден!</b>\n\n"
+                "❌ <b>Пользователь не найден!</b>\n\n"
                 "Сначала пользователь должен запустить бота (/start).\n\n"
                 "Попробуйте еще раз или отмените операцию:",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -1570,11 +1570,11 @@ async def process_admin_top_user_id(message: Message, state: FSMContext):
         await state.update_data(user_id=user_id, user_data=user_data)
         
         await message.answer(
-            f"_E['person'] <b>Пользователь найден:</b>\n"
+            f"👤 <b>Пользователь найден:</b>\n"
             f"• Имя: {user_data['first_name']}\n"
             f"• Username: @{user_data['username'] or 'нет'}\n\n"
             "✏️ <b>Введите сумму доната:</b>\n\n"
-            "_E['idea'] Примеры: 100, 500, 1000",
+            "💡 Примеры: 100, 500, 1000",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Отмена", callback_data='admin_menu')]
             ])
@@ -1583,7 +1583,7 @@ async def process_admin_top_user_id(message: Message, state: FSMContext):
         
     except ValueError:
         await message.answer(
-            "_E['cross2'] <b>Неверный формат ID!</b>\n\n"
+            "❌ <b>Неверный формат ID!</b>\n\n"
             "ID должен быть числом. Попробуйте еще раз:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Отмена", callback_data='admin_menu')]
@@ -1598,7 +1598,7 @@ async def process_admin_top_amount(message: Message, state: FSMContext):
         
         if amount <= 0:
             await message.answer(
-                "_E['cross2'] <b>Сумма должна быть больше нуля!</b>\n\n"
+                "❌ <b>Сумма должна быть больше нуля!</b>\n\n"
                 "Попробуйте еще раз:",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="◀️ Отмена", callback_data='admin_menu')]
@@ -1610,16 +1610,16 @@ async def process_admin_top_amount(message: Message, state: FSMContext):
         
         # Предлагаем выбрать валюту
         await message.answer(
-            f"_E['money_bag'] <b>Сумма:</b> {amount}\n\n"
+            f"💰 <b>Сумма:</b> {amount}\n\n"
             "💱 <b>Выберите валюту:</b>",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [
                     InlineKeyboardButton(text="🇷🇺 RUB", callback_data='admin_top_currency_rub'),
-                    InlineKeyboardButton(text="_E['diamond'] USDT", callback_data='admin_top_currency_usdt')
+                    InlineKeyboardButton(text="💎 USDT", callback_data='admin_top_currency_usdt')
                 ],
                 [
-                    InlineKeyboardButton(text="_E['diamond'] TON", callback_data='admin_top_currency_ton'),
-                    InlineKeyboardButton(text="_E['star'] Stars", callback_data='admin_top_currency_stars')
+                    InlineKeyboardButton(text="💎 TON", callback_data='admin_top_currency_ton'),
+                    InlineKeyboardButton(text="⭐️ Stars", callback_data='admin_top_currency_stars')
                 ],
                 [InlineKeyboardButton(text="◀️ Отмена", callback_data='admin_menu')]
             ])
@@ -1627,7 +1627,7 @@ async def process_admin_top_amount(message: Message, state: FSMContext):
         
     except ValueError:
         await message.answer(
-            "_E['cross2'] <b>Неверный формат суммы!</b>\n\n"
+            "❌ <b>Неверный формат суммы!</b>\n\n"
             "Сумма должна быть числом. Попробуйте еще раз:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Отмена", callback_data='admin_menu')]
@@ -1651,9 +1651,9 @@ async def callback_admin_top_currency(call: CallbackQuery, state: FSMContext):
         # Уведомляем админов
         await notify_admins(
             f"🏆 <b>Админ добавил донат</b>\n\n"
-            f"_E['person'] Пользователь: {target_user_data['first_name']} (@{target_user_data['username'] or 'нет'})\n"
+            f"👤 Пользователь: {target_user_data['first_name']} (@{target_user_data['username'] or 'нет'})\n"
             f"🆔 ID: {user_id}\n"
-            f"_E['money_bag'] Сумма: {amount} {currency}\n"
+            f"💰 Сумма: {amount} {currency}\n"
             f"👑 Добавил: {call.from_user.first_name}\n"
             f"⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
         )
@@ -1662,8 +1662,8 @@ async def callback_admin_top_currency(call: CallbackQuery, state: FSMContext):
         try:
             await bot.send_message(
                 chat_id=user_id,
-                text=f"_E['confetti'] <b>Администратор добавил вам донат!</b>\n\n"
-                     f"_E['money_bag'] <b>Сумма:</b> {amount} {currency}\n"
+                text=f"🎉 <b>Администратор добавил вам донат!</b>\n\n"
+                     f"💰 <b>Сумма:</b> {amount} {currency}\n"
                      f"🏆 <b>Ваше имя добавлено в топ донатеров!</b>\n\n"
                      f"Спасибо за поддержку! 💫",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -1672,13 +1672,13 @@ async def callback_admin_top_currency(call: CallbackQuery, state: FSMContext):
                 ])
             )
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось уведомить пользователя: {e}")
+            logging.error(f"❌ Не удалось уведомить пользователя: {e}")
         
         await call.message.edit_text(
-            f"_E['check2'] <b>Донат успешно добавлен!</b>\n\n"
-            f"_E['person'] <b>Пользователь:</b> {target_user_data['first_name']} (@{target_user_data['username'] or 'нет'})\n"
-            f"_E['money_bag'] <b>Сумма:</b> {amount} {currency}\n"
-            f"_E['chart'] <b>Статус:</b> Добавлен в топ донатеров\n\n"
+            f"✅ <b>Донат успешно добавлен!</b>\n\n"
+            f"👤 <b>Пользователь:</b> {target_user_data['first_name']} (@{target_user_data['username'] or 'нет'})\n"
+            f"💰 <b>Сумма:</b> {amount} {currency}\n"
+            f"📊 <b>Статус:</b> Добавлен в топ донатеров\n\n"
             f"✉️ Пользователь уведомлен о донате.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="➕ Добавить еще", callback_data='admin_top_add')],
@@ -1687,7 +1687,7 @@ async def callback_admin_top_currency(call: CallbackQuery, state: FSMContext):
         )
     else:
         await call.message.edit_text(
-            "_E['cross2'] <b>Ошибка добавления доната!</b>\n\n"
+            "❌ <b>Ошибка добавления доната!</b>\n\n"
             "Попробуйте еще раз.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="🔄 Попробовать снова", callback_data='admin_top_add')],
@@ -1701,7 +1701,7 @@ async def callback_admin_top_currency(call: CallbackQuery, state: FSMContext):
 async def callback_admin_top_edit(call: CallbackQuery):
     """Редактирование донатов (показывает последние 10)"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     conn = sqlite3.connect('users.db')
@@ -1735,8 +1735,8 @@ async def callback_admin_top_edit(call: CallbackQuery):
         created_time = datetime.fromisoformat(created_at).strftime('%d.%m %H:%M')
         text += (
             f"<b>#{donation_id}</b> | {created_time}\n"
-            f"_E['person'] {first_name} (@{username or 'нет'})\n"
-            f"_E['money_bag'] {amount} {currency}\n"
+            f"👤 {first_name} (@{username or 'нет'})\n"
+            f"💰 {amount} {currency}\n"
             f"[Изменить](https://t.me/{bot._token.split(':')[0]}?start=edit_{donation_id})\n\n"
         )
     
@@ -1752,7 +1752,7 @@ async def callback_admin_top_edit(call: CallbackQuery):
 async def callback_admin_top_remove(call: CallbackQuery):
     """Удаление донатов"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     conn = sqlite3.connect('users.db')
@@ -1801,7 +1801,7 @@ async def callback_admin_top_remove(call: CallbackQuery):
 async def callback_admin_remove_donation(call: CallbackQuery):
     """Удаление конкретного доната"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     donation_id = int(call.data.replace('admin_remove_donation_', ''))
@@ -1819,7 +1819,7 @@ async def callback_admin_remove_donation(call: CallbackQuery):
     donation_info = cursor.fetchone()
     
     if not donation_info:
-        await call.answer("_E['cross2'] Донат не найден!", show_alert=True)
+        await call.answer("❌ Донат не найден!", show_alert=True)
         conn.close()
         return
     
@@ -1835,18 +1835,18 @@ async def callback_admin_remove_donation(call: CallbackQuery):
         await notify_admins(
             f"🗑️ <b>Админ удалил донат</b>\n\n"
             f"🆔 ID доната: {donation_id}\n"
-            f"_E['person'] Пользователь: {first_name} (@{username or 'нет'})\n"
+            f"👤 Пользователь: {first_name} (@{username or 'нет'})\n"
             f"🆔 ID пользователя: {user_id}\n"
-            f"_E['money_bag'] Сумма: {amount} {currency}\n"
+            f"💰 Сумма: {amount} {currency}\n"
             f"👑 Удалил: {call.from_user.first_name}\n"
             f"⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
         )
         
         await call.message.edit_text(
-            f"_E['check2'] <b>Донат успешно удален!</b>\n\n"
+            f"✅ <b>Донат успешно удален!</b>\n\n"
             f"🆔 <b>ID доната:</b> {donation_id}\n"
-            f"_E['person'] <b>Пользователь:</b> {first_name} (@{username or 'нет'})\n"
-            f"_E['money_bag'] <b>Сумма:</b> {amount} {currency}\n\n"
+            f"👤 <b>Пользователь:</b> {first_name} (@{username or 'нет'})\n"
+            f"💰 <b>Сумма:</b> {amount} {currency}\n\n"
             f"🔔 Уведомление отправлено админам.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="🗑️ Удалить еще", callback_data='admin_top_remove')],
@@ -1854,7 +1854,7 @@ async def callback_admin_remove_donation(call: CallbackQuery):
             ])
         )
     else:
-        await call.answer("_E['cross2'] Ошибка удаления доната!", show_alert=True)
+        await call.answer("❌ Ошибка удаления доната!", show_alert=True)
     
 # ДОБАВЬТЕ ЭТОТ КЛАСС
 class ApiSetupStates(StatesGroup):
@@ -2089,11 +2089,11 @@ def ban_user(user_id: int, reason: str, banned_by: int, duration: str = None):
         conn.commit()
         conn.close()
         
-        logging.info(f"_E['check2'] Пользователь {user_id} забанен. Причина: {reason}, Длительность: {duration or 'навсегда'}")
+        logging.info(f"✅ Пользователь {user_id} забанен. Причина: {reason}, Длительность: {duration or 'навсегда'}")
         return True
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка бана пользователя {user_id}: {e}")
+        logging.error(f"❌ Ошибка бана пользователя {user_id}: {e}")
         return False
 
 def unban_user(user_id: int):
@@ -2105,10 +2105,10 @@ def unban_user(user_id: int):
         cursor.execute('DELETE FROM user_bans WHERE user_id = ?', (user_id,))
         conn.commit()
         success = cursor.rowcount > 0
-        logging.info(f"_E['check2'] Пользователь {user_id} разбанен")
+        logging.info(f"✅ Пользователь {user_id} разбанен")
         return success
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка разбана пользователя {user_id}: {e}")
+        logging.error(f"❌ Ошибка разбана пользователя {user_id}: {e}")
         return False
     finally:
         conn.close()
@@ -2262,6 +2262,54 @@ def contains_male_indicators(username, nickname, bio):
     
     return False
 
+# === ТОЧНАЯ (ПО ТОКЕНАМ) ПРОВЕРКА ЖЕНСКИХ ИМЁН ===
+# Раньше совпадение искалось по ПОДСТРОКЕ, из-за чего мужские юзернеймы попадали в
+# результат: evan→"eva", dimon→"di", nikitos→"niki", ali→"ali" и т.п.
+# Теперь имя должно совпасть как ОТДЕЛЬНЫЙ ТОКЕН (или быть началом достаточно длинного
+# токена), что убирает ложные срабатывания и не пропускает мужиков.
+
+# Неоднозначные / мужские токены — НЕ считаем женскими, даже если они есть в списках имён.
+AMBIGUOUS_NAME_TOKENS = {
+    'sasha', 'sash', 'sashka', 'sashok', 'sanya', 'sanek', 'shura', 'shurka',
+    'zhenya', 'zhenia', 'jenya', 'valya', 'valerka', 'niki', 'ali', 'angel', 'san', 'val',
+    'di', 'iv', 'ed', 'mar', 'ari', 'tema',
+    'саша', 'саш', 'санек', 'сашок', 'санёк', 'шура', 'шурка', 'женя', 'валя', 'валерка', 'ника', 'ник',
+}
+
+# Дополнительные распространённые женские имена (повышаем полноту поиска девушек).
+EXTRA_FEMALE_NAMES = {
+    'marina', 'svetlana', 'sveta', 'yana', 'yanina', 'oksana', 'larisa', 'galina', 'tamara',
+    'lyudmila', 'lyuda', 'nadezhda', 'nadya', 'snezhana', 'ulyana', 'evgenia', 'zhanna',
+    'regina', 'renata', 'kira', 'inna', 'raisa', 'zoya', 'lidia', 'lidiya', 'maryana',
+    'varvara', 'varya', 'vasilisa', 'taisia', 'taisiya', 'agata', 'agatha', 'kseniya',
+    'tatiana', 'tatyana', 'mia', 'zoe', 'zoya', 'stella', 'aurora', 'evelyn', 'evangelina',
+    'darina', 'darya', 'miroslava',
+}
+
+def extract_name_tokens(text):
+    """Разбивает строку на отдельные слова-токены (латиница/кириллица), учитывая camelCase."""
+    if not text:
+        return []
+    s = re.sub(r'(?<=[a-zа-яё])(?=[A-ZА-ЯЁ])', ' ', text)
+    s = s.lower()
+    return [p for p in re.split(r'[^a-zа-яё]+', s) if p]
+
+def matches_female_name(text, name_set):
+    """True, только если ОТДЕЛЬНЫЙ токен точно совпадает с женским именем (или начинается с
+    достаточно длинного женского имени). Точное/префиксное совпадение исключает ложные
+    срабатывания по подстроке и не пропускает мужские имена."""
+    for tok in extract_name_tokens(text):
+        if len(tok) < 3 or tok in AMBIGUOUS_NAME_TOKENS or is_male_name(tok):
+            continue
+        if tok in name_set:
+            return True
+        if len(tok) > 5:
+            for nm in name_set:
+                if len(nm) >= 5 and tok.startswith(nm) \
+                        and nm not in AMBIGUOUS_NAME_TOKENS and not is_male_name(nm):
+                    return True
+    return False
+
 async def check_subscription(user_id: int) -> bool:
     """Проверяет подписку пользователя на оба обязательных канала"""
     REQUIRED_CHANNELS = ["@rtc_reverv"]
@@ -2381,7 +2429,7 @@ def init_db():
     
     if 'referrer_id' not in columns:
         cursor.execute('ALTER TABLE users ADD COLUMN referrer_id INTEGER DEFAULT NULL')
-        logging.info("_E['check2'] Добавлена колонка referrer_id в таблицу users")
+        logging.info("✅ Добавлена колонка referrer_id в таблицу users")
 
     cursor.execute('''
         CREATE TABLE IF NOT EXISTS admin_notifications (
@@ -2600,7 +2648,7 @@ def init_db():
     cursor.execute('CREATE INDEX IF NOT EXISTS idx_donations_user_id ON donations(user_id)')
     conn.commit()
     conn.close()
-    logging.info("_E['check2'] База данных инициализирована с таблицами банов и временных подписок")
+    logging.info("✅ База данных инициализирована с таблицами банов и временных подписок")
 
 # === ФУНКЦИИ ДЛЯ РАБОТЫ С ПОСЛЕДНИМ ПОИСКОМ ===
 
@@ -2615,10 +2663,10 @@ def save_user_api_credentials(user_id: int, api_id: str, api_hash: str):
             (user_id, api_id, api_hash, datetime.now().isoformat())
         )
         conn.commit()
-        logging.info(f"_E['check2'] API credentials сохранены для пользователя {user_id}")
+        logging.info(f"✅ API credentials сохранены для пользователя {user_id}")
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения API credentials: {e}")
+        logging.error(f"❌ Ошибка сохранения API credentials: {e}")
         return False
     finally:
         conn.close()
@@ -2650,7 +2698,7 @@ def delete_user_api_credentials(user_id: int):
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка удаления API credentials: {e}")
+        logging.error(f"❌ Ошибка удаления API credentials: {e}")
         return False
     finally:
         conn.close()
@@ -2666,10 +2714,10 @@ def save_last_search(user_id: int, usernames: list, search_count: int, difficult
             (user_id, usernames_json, search_count, difficulty, datetime.now().isoformat())
         )
         conn.commit()
-        logging.info(f"_E['check2'] Последний поиск сохранен для пользователя {user_id}: {len(usernames)} пользователей")
+        logging.info(f"✅ Последний поиск сохранен для пользователя {user_id}: {len(usernames)} пользователей")
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения последнего поиска: {e}")
+        logging.error(f"❌ Ошибка сохранения последнего поиска: {e}")
         return False
     finally:
         conn.close()
@@ -2707,7 +2755,7 @@ def clear_last_search(user_id: int):
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка очистки последнего поиска: {e}")
+        logging.error(f"❌ Ошибка очистки последнего поиска: {e}")
         return False
     finally:
         conn.close()
@@ -2721,9 +2769,9 @@ def cleanup_old_searches(days_old=7):
         cursor.execute('DELETE FROM user_last_search WHERE searched_at < ?', (cutoff_date,))
         deleted_count = cursor.rowcount
         conn.commit()
-        logging.info(f"_E['check2'] Очищено {deleted_count} старых поисков (старше {days_old} дней)")
+        logging.info(f"✅ Очищено {deleted_count} старых поисков (старше {days_old} дней)")
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка очистки старых поисков: {e}")
+        logging.error(f"❌ Ошибка очистки старых поисков: {e}")
     finally:
         conn.close()
 
@@ -2750,15 +2798,15 @@ def migrate_existing_users_to_light():
             
             migrated_count = cursor.rowcount
             conn.commit()
-            logging.info(f"_E['check2'] Мигрировано {migrated_count} пользователей на подписку Лайт")
+            logging.info(f"✅ Мигрировано {migrated_count} пользователей на подписку Лайт")
         else:
             # Если колонки нет, добавляем ее
             cursor.execute('ALTER TABLE users ADD COLUMN subscription_type TEXT DEFAULT ?', (SubscriptionType.LIGHT,))
             conn.commit()
-            logging.info("_E['check2'] Добавлена колонка subscription_type со значением по умолчанию Лайт")
+            logging.info("✅ Добавлена колонка subscription_type со значением по умолчанию Лайт")
             
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка миграции пользователей: {e}")
+        logging.error(f"❌ Ошибка миграции пользователей: {e}")
         conn.rollback()
     finally:
         conn.close()
@@ -2818,7 +2866,7 @@ def check_database_structure():
             # Если колонки нет, добавляем ее со значением по умолчанию NONE
             cursor.execute('ALTER TABLE users ADD COLUMN subscription_type TEXT DEFAULT ?', (SubscriptionType.NONE,))
             conn.commit()
-            logging.info("_E['check2'] Добавлена колонка subscription_type со значением по умолчанию NONE")
+            logging.info("✅ Добавлена колонка subscription_type со значением по умолчанию NONE")
         else:
             # НИКАКОГО АВТОМАТИЧЕСКОГО СБРОСА ПОДПИСОК!
             # Просто проверяем что у пользователей с пустой подпиской установлен NONE
@@ -2832,12 +2880,12 @@ def check_database_structure():
             updated_count = cursor.rowcount
             if updated_count > 0:
                 conn.commit()
-                logging.info(f"_E['check2'] Обновлено {updated_count} пользователей с пустой подпиской на NONE")
+                logging.info(f"✅ Обновлено {updated_count} пользователей с пустой подпиской на NONE")
             
-        logging.info("_E['check2'] Структура базы данных в порядке")
+        logging.info("✅ Структура базы данных в порядке")
             
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка проверки структуры базы: {e}")
+        logging.error(f"❌ Ошибка проверки структуры базы: {e}")
     finally:
         conn.close()
 
@@ -2899,14 +2947,14 @@ def save_user_to_file(user_id: int, username: str, first_name: str):
             with open('test.txt', 'a', encoding='utf-8') as f:
                 timestamp = datetime.now().strftime('%d.%m.%Y %H:%M:%S')
                 f.write(f"{user_id}|{username}|{first_name}|{timestamp}\n")
-            logging.info(f"_E['check2'] Новый пользователь {user_id} записан в test.txt")
+            logging.info(f"✅ Новый пользователь {user_id} записан в test.txt")
             return True
         else:
             logging.info(f"ℹ️ Пользователь {user_id} уже есть в test.txt")
             return False
             
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка записи в test.txt: {e}")
+        logging.error(f"❌ Ошибка записи в test.txt: {e}")
         return False
 
 def is_user_in_file(user_id: int) -> bool:
@@ -2937,7 +2985,7 @@ def save_user_to_db(user_id: int, username: str, first_name: str, subscription_t
                     'UPDATE users SET username = ?, first_name = ?, subscription_type = ? WHERE user_id = ?',
                     (username, first_name, subscription_type, user_id)
                 )
-                logging.info(f"_E['check2'] Пользователь {user_id} обновлен с подпиской {subscription_type}")
+                logging.info(f"✅ Пользователь {user_id} обновлен с подпиской {subscription_type}")
             else:
                 # Если подписка не указана, сохраняем текущую подписку из базы
                 current_subscription = existing_user[3] if len(existing_user) > 3 else SubscriptionType.NONE
@@ -2945,7 +2993,7 @@ def save_user_to_db(user_id: int, username: str, first_name: str, subscription_t
                     'UPDATE users SET username = ?, first_name = ? WHERE user_id = ?',
                     (username, first_name, user_id)
                 )
-                logging.info(f"_E['check2'] Пользователь {user_id} обновлен (подписка сохранена: {current_subscription})")
+                logging.info(f"✅ Пользователь {user_id} обновлен (подписка сохранена: {current_subscription})")
         else:
             # Новые пользователи получают NONE по умолчанию
             final_subscription = subscription_type or SubscriptionType.NONE
@@ -2957,19 +3005,19 @@ def save_user_to_db(user_id: int, username: str, first_name: str, subscription_t
                     (user_id, username, first_name, final_subscription, referrer_id, 
                      datetime.now().isoformat() if final_subscription != SubscriptionType.NONE else None, 0)
                 )
-                logging.info(f"_E['check2'] Новый пользователь {user_id} сохранен с подпиской {final_subscription} (реферер: {referrer_id})")
+                logging.info(f"✅ Новый пользователь {user_id} сохранен с подпиской {final_subscription} (реферер: {referrer_id})")
             else:
                 cursor.execute(
                     'INSERT INTO users (user_id, username, first_name, subscription_type, subscribed_at, used_count) VALUES (?, ?, ?, ?, ?, ?)',
                     (user_id, username, first_name, final_subscription, 
                      datetime.now().isoformat() if final_subscription != SubscriptionType.NONE else None, 0)
                 )
-                logging.info(f"_E['check2'] Новый пользователь {user_id} сохранен с подпиской {final_subscription}")
+                logging.info(f"✅ Новый пользователь {user_id} сохранен с подпиской {final_subscription}")
             
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения пользователя {user_id}: {e}")
+        logging.error(f"❌ Ошибка сохранения пользователя {user_id}: {e}")
         conn.rollback()
         return False
     finally:
@@ -2979,7 +3027,7 @@ def register_user(user_id: int, username: str, first_name: str, referrer_id: int
     """Регистрирует пользователя в базе данных"""
     user_data = get_user_from_db(user_id)
     if not user_data:
-        logging.info(f"_E['person'] Регистрируем нового пользователя: {user_id}")
+        logging.info(f"👤 Регистрируем нового пользователя: {user_id}")
         return save_user_to_db(user_id, username, first_name, referrer_id=referrer_id)
     else:
         # Если пользователь уже существует, обновляем данные
@@ -3029,7 +3077,7 @@ def save_user_to_file(user_id: int, username: str, first_name: str, is_subscribe
                 timestamp = datetime.now().strftime('%d.%m.%Y %H:%M:%S')
                 status = "Подписан" if is_subscribed else "Не подписан"
                 f.write(f"{user_id} | {username} | {first_name} | {status} | {timestamp}\n")
-            logging.info(f"_E['check2'] Новый пользователь {user_id} записан в test.txt")
+            logging.info(f"✅ Новый пользователь {user_id} записан в test.txt")
             
             # Проверяем нужно ли отправить файл
             asyncio.create_task(send_test_file_if_needed())
@@ -3041,7 +3089,7 @@ def save_user_to_file(user_id: int, username: str, first_name: str, is_subscribe
             return False
             
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка записи в test.txt: {e}")
+        logging.error(f"❌ Ошибка записи в test.txt: {e}")
         return False
 
 def update_user_subscription_status(user_id: int, is_subscribed: bool):
@@ -3064,7 +3112,7 @@ def update_user_subscription_status(user_id: int, is_subscribed: bool):
                     else:
                         f.write(line)
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обновления статуса пользователя {user_id}: {e}")
+        logging.error(f"❌ Ошибка обновления статуса пользователя {user_id}: {e}")
 
 def is_user_in_file(user_id: int) -> bool:
     """Проверяет, есть ли пользователь в файле"""
@@ -3096,10 +3144,10 @@ def save_donation(user_id: int, amount: float, currency: str = "RUB", donation_t
         )
         conn.commit()
         donation_id = cursor.lastrowid
-        logging.info(f"_E['check2'] Донат сохранен: ID {donation_id}, сумма {amount} {currency} ({amount_in_rub:.2f} RUB)")
+        logging.info(f"✅ Донат сохранен: ID {donation_id}, сумма {amount} {currency} ({amount_in_rub:.2f} RUB)")
         return donation_id
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения доната: {e}")
+        logging.error(f"❌ Ошибка сохранения доната: {e}")
         return None
     finally:
         conn.close()
@@ -3108,7 +3156,7 @@ async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: floa
     """Создает крипто-счет для доната"""
     try:
         await call.message.edit_text(
-            f"_E['diamond'] <b>Создание счета {amount} {currency}...</b>\n\n"
+            f"💎 <b>Создание счета {amount} {currency}...</b>\n\n"
             "⏳ Пожалуйста, подождите..."
         )
         
@@ -3142,8 +3190,8 @@ async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: floa
                 ])
                 
                 await call.message.edit_text(
-                    f"_E['diamond'] <b>Счет создан!</b>\n\n"
-                    f"_E['money_bag'] <b>Сумма:</b> {amount} {currency}\n"
+                    f"💎 <b>Счет создан!</b>\n\n"
+                    f"💰 <b>Сумма:</b> {amount} {currency}\n"
                     f"⏳ <b>Действителен:</b> 1 час\n\n"
                     f"👇 <b>Нажмите кнопку для оплаты:</b>",
                     reply_markup=keyboard
@@ -3160,7 +3208,7 @@ async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: floa
                 ))
             else:
                 await call.message.edit_text(
-                    f"_E['cross2'] <b>Ошибка создания доната в базе данных</b>\n\n"
+                    f"❌ <b>Ошибка создания доната в базе данных</b>\n\n"
                     "Попробуйте еще раз.",
                     reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                         [InlineKeyboardButton(text="◀️ Назад", callback_data=f'donate_currency_{currency.lower()}')]
@@ -3169,8 +3217,8 @@ async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: floa
                 
         else:
             await call.message.edit_text(
-                f"_E['cross2'] <b>Ошибка создания счета</b>\n\n"
-                f"_E['warning'] <b>Причина:</b> {result.get('error', 'Неизвестная ошибка')}\n\n"
+                f"❌ <b>Ошибка создания счета</b>\n\n"
+                f"⚠️ <b>Причина:</b> {result.get('error', 'Неизвестная ошибка')}\n\n"
                 "Попробуйте другую сумму или валюту.",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="◀️ Назад", callback_data=f'donate_currency_{currency.lower()}')]
@@ -3178,10 +3226,10 @@ async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: floa
             )
             
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка создания крипто-счета: {e}")
+        logging.error(f"❌ Ошибка создания крипто-счета: {e}")
         await call.message.edit_text(
-            f"_E['cross2'] <b>Ошибка создания счета</b>\n\n"
-            f"_E['warning'] <b>Причина:</b> {str(e)[:200]}\n\n"
+            f"❌ <b>Ошибка создания счета</b>\n\n"
+            f"⚠️ <b>Причина:</b> {str(e)[:200]}\n\n"
             "Попробуйте позже или выберите другой способ.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='support')]
@@ -3221,11 +3269,11 @@ async def check_crypto_donate_payment(invoice_id: str, chat_id: int, message_id:
                 # Уведомляем админов
                 if user_data:
                     await notify_admins_with_referrer(
-                        f"_E['diamond'] <b>Новый крипто-донат</b>\n\n"
+                        f"💎 <b>Новый крипто-донат</b>\n\n"
                         f"🆔 ID: {user_id}\n"
-                        f"_E['person'] Имя: {user_data['first_name']}\n"
-                        f"_E['link'] Тег: @{user_data['username'] or 'нет'}\n"
-                        f"_E['money_bag'] Сумма: {amount} {currency}\n"
+                        f"👤 Имя: {user_data['first_name']}\n"
+                        f"🔗 Тег: @{user_data['username'] or 'нет'}\n"
+                        f"💰 Сумма: {amount} {currency}\n"
                         f"🇷🇺 Примерно: {amount_in_rub:.2f} RUB\n"
                         f"💫 Тип: Крипто-донат\n"
                         f"⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}",
@@ -3236,8 +3284,8 @@ async def check_crypto_donate_payment(invoice_id: str, chat_id: int, message_id:
                     chat_id=chat_id,
                     message_id=message_id,
                     text=(
-                        f"_E['check2'] <b>Оплата подтверждена!</b>\n\n"
-                        f"_E['diamond'] <b>Сумма:</b> {amount} {currency}\n"
+                        f"✅ <b>Оплата подтверждена!</b>\n\n"
+                        f"💎 <b>Сумма:</b> {amount} {currency}\n"
                         f"🇷🇺 <b>Примерно:</b> {amount_in_rub:.2f} RUB\n\n"
                         f"❤️ <b>Спасибо за вашу поддержку!</b>\n"
                         f"🏆 <b>Ваше имя добавлено в топ донатеров!</b>\n\n"
@@ -3245,14 +3293,14 @@ async def check_crypto_donate_payment(invoice_id: str, chat_id: int, message_id:
                     ),
                     reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                         [InlineKeyboardButton(text="🏆 Топ донатеров", callback_data='donation_top')],
-                        [InlineKeyboardButton(text="_E['money_bag'] Мои донаты", callback_data='my_donations')],
+                        [InlineKeyboardButton(text="💰 Мои донаты", callback_data='my_donations')],
                         [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
                     ])
                 )
                 break
                 
         except Exception as e:
-            logging.error(f"_E['cross2'] Ошибка проверки крипто-доната {invoice_id}: {e}")
+            logging.error(f"❌ Ошибка проверки крипто-доната {invoice_id}: {e}")
             # Если это последняя попытка, показываем сообщение об ошибке
             if attempt == max_attempts - 1:
                 try:
@@ -3294,7 +3342,7 @@ async def callback_check_crypto_donate(call: CallbackQuery):
     if result["success"]:
         if result["paid"]:
             await call.message.edit_text(
-                "_E['check2'] <b>Оплата подтверждена!</b>\n\n"
+                "✅ <b>Оплата подтверждена!</b>\n\n"
                 "❤️ Спасибо за вашу поддержку!\n\n"
                 "Ваш донат помогает развитию бота! 💫",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -3305,7 +3353,7 @@ async def callback_check_crypto_donate(call: CallbackQuery):
         else:
             await call.answer("⏳ Оплата еще не поступила", show_alert=True)
     else:
-        await call.answer("_E['cross2'] Ошибка проверки платежа", show_alert=True)
+        await call.answer("❌ Ошибка проверки платежа", show_alert=True)
 
 # Обработчик для выбора суммы крипто-доната
 @dp.callback_query(F.data.startswith('donate_amount_'))
@@ -3317,20 +3365,20 @@ async def callback_donate_amount(call: CallbackQuery):
         parts = data.split('_')
         
         if len(parts) != 2:
-            await call.answer("_E['cross2'] Ошибка формата данных", show_alert=True)
+            await call.answer("❌ Ошибка формата данных", show_alert=True)
             return
         
         currency = parts[0].upper()
         amount = float(parts[1])
         
-        logging.info(f"_E['money_bag'] Создание доната {amount} {currency} для {call.from_user.id}")
+        logging.info(f"💰 Создание доната {amount} {currency} для {call.from_user.id}")
         
         # Создаем счет
         await create_crypto_invoice(call, currency, amount)
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_donate_amount: {e}")
-        await call.answer(f"_E['cross2'] Ошибка: {str(e)[:100]}", show_alert=True)
+        logging.error(f"❌ Ошибка в callback_donate_amount: {e}")
+        await call.answer(f"❌ Ошибка: {str(e)[:100]}", show_alert=True)
 
 # Обновленный обработчик для кнопок выбора суммы
 @dp.callback_query(F.data.startswith('crypto_donate_'))
@@ -3342,7 +3390,7 @@ async def callback_create_crypto_donate(call: CallbackQuery):
         parts = data.split('_')
         
         if len(parts) != 2:
-            await call.answer("_E['cross2'] Ошибка формата", show_alert=True)
+            await call.answer("❌ Ошибка формата", show_alert=True)
             return
         
         currency = parts[0].upper()  # USDT или TON
@@ -3351,7 +3399,7 @@ async def callback_create_crypto_donate(call: CallbackQuery):
         try:
             amount = float(amount_str)
         except ValueError:
-            await call.answer("_E['cross2'] Неверная сумма", show_alert=True)
+            await call.answer("❌ Неверная сумма", show_alert=True)
             return
         
         logging.info(f"🔔 Создание доната {amount} {currency} для пользователя {call.from_user.id}")
@@ -3359,9 +3407,9 @@ async def callback_create_crypto_donate(call: CallbackQuery):
         await create_crypto_invoice(call, currency, amount)
             
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_create_crypto_donate: {e}")
+        logging.error(f"❌ Ошибка в callback_create_crypto_donate: {e}")
         await call.message.edit_text(
-            f"_E['cross2'] <b>Произошла ошибка:</b>\n{str(e)[:200]}\n\n"
+            f"❌ <b>Произошла ошибка:</b>\n{str(e)[:200]}\n\n"
             "Попробуйте еще раз или выберите другой способ.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='crypto_donate')]
@@ -3438,7 +3486,7 @@ def get_top_donators(period: str = "all_time", limit: int = 10):
         return top_donators
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка получения топа донатеров: {e}")
+        logging.error(f"❌ Ошибка получения топа донатеров: {e}")
         return []
     finally:
         conn.close()
@@ -3467,7 +3515,7 @@ def get_user_donations(user_id: int):
         return donations
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка получения донатов пользователя: {e}")
+        logging.error(f"❌ Ошибка получения донатов пользователя: {e}")
         return []
     finally:
         conn.close()
@@ -3483,7 +3531,7 @@ async def show_donation_top(chat_id: int, message_id: int, period: str = "all_ti
     
     if not top_donators:
         text = "🏆 <b>Топ донатеров</b>\n\n"
-        text += f"_E['chart'] <b>Период:</b> {get_period_text(period)}\n\n"
+        text += f"📊 <b>Период:</b> {get_period_text(period)}\n\n"
         text += "📭 Пока нет донатов за этот период"
         
         keyboard = make_donation_top_keyboard(period, False)
@@ -3498,14 +3546,14 @@ async def show_donation_top(chat_id: int, message_id: int, period: str = "all_ti
     total_amount = sum(d['total_amount'] for d in top_donators)
     
     text = f"🏆 <b>Топ донатеров</b>\n\n"
-    text += f"_E['chart'] <b>Период:</b> {get_period_text(period)}\n"
-    text += f"_E['money_bag'] <b>Общая сумма:</b> {total_amount:.2f} RUB\n\n"
+    text += f"📊 <b>Период:</b> {get_period_text(period)}\n"
+    text += f"💰 <b>Общая сумма:</b> {total_amount:.2f} RUB\n\n"
     
     for i, donator in enumerate(top_donators, 1):
         medal = get_medal_emoji(i)
         username = f"@{donator['username']}" if donator['username'] else donator['first_name']
         text += f"{medal} <b>{i}.</b> {username}\n"
-        text += f"   _E['money_bag'] <b>{donator['total_amount']:.2f} RUB</b> ({donator['donation_count']} донатов)\n\n"
+        text += f"   💰 <b>{donator['total_amount']:.2f} RUB</b> ({donator['donation_count']} донатов)\n\n"
     
     keyboard = make_donation_top_keyboard(period, True)
     await bot.edit_message_text(
@@ -3522,12 +3570,12 @@ async def callback_mirror_manage(call: CallbackQuery):
     bot_info = get_mirror_bot(bot_id)
     
     if not bot_info:
-        await call.answer("_E['cross2'] Бот не найден!", show_alert=True)
+        await call.answer("❌ Бот не найден!", show_alert=True)
         return
     
     user_id = call.from_user.id
     if bot_info['owner_id'] != user_id:
-        await call.answer("_E['cross2'] У вас нет доступа к этому боту!", show_alert=True)
+        await call.answer("❌ У вас нет доступа к этому боту!", show_alert=True)
         return
     
     text = f"🤖 <b>Управление ботом</b>\n\n"
@@ -3537,18 +3585,18 @@ async def callback_mirror_manage(call: CallbackQuery):
     # Исправлено здесь: используем двойные кавычки для ключей внутри f-строки
     text += f"<b>Статус:</b> {_E['check2'] if bot_info['is_active'] else _E['cross2']} {'Активен' if bot_info['is_active'] else 'Неактивен'}\n\n"
     text += f"<b>Цены:</b>\n"
-    text += f"• {_E['idea']} Лайт: {bot_info['light_price']} звезд\n"
-    text += f"• {_E['star']} Премиум: {bot_info['premium_price']} звезд\n\n"
+    text += f"• 💡 Лайт: {bot_info['light_price']} звезд\n"
+    text += f"• ⭐️ Премиум: {bot_info['premium_price']} звезд\n\n"
     text += f"<b>Финансы:</b>\n"
-    text += f"{_E['money_bag']} Баланс: {bot_info['balance']:.2f} USDT\n"
-    text += f"{_E['diamond']} Заработано: {bot_info['total_earnings']:.2f} USDT\n"
+    text += f"💰 Баланс: {bot_info['balance']:.2f} USDT\n"
+    text += f"💎 Заработано: {bot_info['total_earnings']:.2f} USDT\n"
     text += f"💳 Методы оплаты: {bot_info['payment_methods']}\n"
     
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
-        [InlineKeyboardButton(text="_E['gear'] Изменить цены", callback_data=f'mirror_edit_prices_{bot_id}')],
-        [InlineKeyboardButton(text="_E['money_bag'] Вывод средств", callback_data=f'mirror_withdraw_{bot_id}')],
-        [InlineKeyboardButton(text="_E['chart'] Статистика", callback_data=f'mirror_stats_{bot_id}')],
-        [InlineKeyboardButton(text="_E['cross2'] Удалить бота", callback_data=f'mirror_delete_{bot_id}')],
+        [InlineKeyboardButton(text="⚙️ Изменить цены", callback_data=f'mirror_edit_prices_{bot_id}')],
+        [InlineKeyboardButton(text="💰 Вывод средств", callback_data=f'mirror_withdraw_{bot_id}')],
+        [InlineKeyboardButton(text="📊 Статистика", callback_data=f'mirror_stats_{bot_id}')],
+        [InlineKeyboardButton(text="❌ Удалить бота", callback_data=f'mirror_delete_{bot_id}')],
         [InlineKeyboardButton(text="◀️ Мои боты", callback_data='mirror_my_bots')]
     ])
     
@@ -3573,11 +3621,11 @@ def get_period_text(period: str) -> str:
 def get_medal_emoji(position: int) -> str:
     """Возвращает эмодзи медали в зависимости от позиции"""
     if position == 1:
-        return "_E['gold']"
+        return "🥇"
     elif position == 2:
-        return "_E['silver']"
+        return "🥈"
     elif position == 3:
-        return "_E['bronze']"
+        return "🥉"
     else:
         return f"{position}."
 
@@ -3597,7 +3645,7 @@ def make_donation_top_keyboard(period: str, has_data: bool = True):
     for text, data in periods:
         callback_data = f"donation_top_{data}"
         if data == period:
-            text = f"_E['check2'] {text}"
+            text = f"✅ {text}"
         period_buttons.append(InlineKeyboardButton(text=text, callback_data=callback_data))
     
     # Разбиваем на 2 ряда по 2 кнопки
@@ -3607,7 +3655,7 @@ def make_donation_top_keyboard(period: str, has_data: bool = True):
     
     # Кнопка "Мои донаты"
     if has_data:
-        buttons.append([InlineKeyboardButton(text="_E['money_bag'] Мои донаты", callback_data='my_donations')])
+        buttons.append([InlineKeyboardButton(text="💰 Мои донаты", callback_data='my_donations')])
     
     # Кнопка "Назад"
     buttons.append([InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')])
@@ -3630,16 +3678,16 @@ async def callback_my_donations(call: CallbackQuery):
     user_data = get_user_from_db(user_id)
     
     if not donations:
-        text = "_E['money_bag'] <b>Мои донаты</b>\n\n"
+        text = "💰 <b>Мои донаты</b>\n\n"
         text += "📭 У вас еще нет донатов\n\n"
         text += "❤️ Поддержите развитие бота!"
     else:
         total_amount = sum(d['amount'] for d in donations)
         
-        text = f"_E['money_bag'] <b>Мои донаты</b>\n\n"
-        text += f"_E['person'] <b>Пользователь:</b> {user_data['first_name'] if user_data else 'Неизвестно'}\n"
-        text += f"_E['diamond'] <b>Всего донатов:</b> {len(donations)}\n"
-        text += f"_E['money_bag'] <b>Общая сумма:</b> {total_amount:.2f} RUB\n\n"
+        text = f"💰 <b>Мои донаты</b>\n\n"
+        text += f"👤 <b>Пользователь:</b> {user_data['first_name'] if user_data else 'Неизвестно'}\n"
+        text += f"💎 <b>Всего донатов:</b> {len(donations)}\n"
+        text += f"💰 <b>Общая сумма:</b> {total_amount:.2f} RUB\n\n"
         
         text += "<b>Последние донаты:</b>\n"
         for i, donation in enumerate(donations[:5], 1):
@@ -3663,10 +3711,10 @@ def save_user_credentials(user_id: int, phone_number: str = None):
             (user_id, phone_number, False)
         )
         conn.commit()
-        logging.info(f"_E['check2'] Phone сохранен для пользователя {user_id}")
+        logging.info(f"✅ Phone сохранен для пользователя {user_id}")
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения credentials: {e}")
+        logging.error(f"❌ Ошибка сохранения credentials: {e}")
         return False
     finally:
         conn.close()
@@ -3699,7 +3747,7 @@ def update_session_status(user_id: int, active: bool):
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обновления статуса сессии: {e}")
+        logging.error(f"❌ Ошибка обновления статуса сессии: {e}")
         return False
     finally:
         conn.close()
@@ -3712,7 +3760,7 @@ def delete_user_credentials(user_id: int):
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка удаления credentials: {e}")
+        logging.error(f"❌ Ошибка удаления credentials: {e}")
         return False
     finally:
         conn.close()
@@ -3729,13 +3777,13 @@ def save_mirror_bot(owner_id: int, bot_token: str, bot_username: str = None, bot
         ''', (owner_id, bot_token, bot_username, bot_name))
         conn.commit()
         bot_id = cursor.lastrowid
-        logging.info(f"_E['check2'] Зеркальный бот сохранен: ID {bot_id} для владельца {owner_id}")
+        logging.info(f"✅ Зеркальный бот сохранен: ID {bot_id} для владельца {owner_id}")
         return bot_id
     except sqlite3.IntegrityError:
-        logging.error(f"_E['cross2'] Бот с таким токеном уже существует")
+        logging.error(f"❌ Бот с таким токеном уже существует")
         return None
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения зеркального бота: {e}")
+        logging.error(f"❌ Ошибка сохранения зеркального бота: {e}")
         return None
     finally:
         conn.close()
@@ -3813,7 +3861,7 @@ def update_mirror_bot_prices(bot_id: int, light_price: int, premium_price: int):
         success = cursor.rowcount > 0
         return success
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обновления цен: {e}")
+        logging.error(f"❌ Ошибка обновления цен: {e}")
         return False
     finally:
         conn.close()
@@ -3832,7 +3880,7 @@ def update_mirror_bot_balance(bot_id: int, amount: float):
         success = cursor.rowcount > 0
         return success
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обновления баланса: {e}")
+        logging.error(f"❌ Ошибка обновления баланса: {e}")
         return False
     finally:
         conn.close()
@@ -3866,7 +3914,7 @@ def create_mirror_withdrawal(bot_id: int, amount: float, currency: str, wallet_a
         return withdrawal_id, "Запрос на вывод создан"
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка создания запроса на вывод: {e}")
+        logging.error(f"❌ Ошибка создания запроса на вывод: {e}")
         return None, str(e)
     finally:
         conn.close()
@@ -3947,7 +3995,7 @@ def process_mirror_withdrawal(withdrawal_id: int, status: str):
         return cursor.rowcount > 0
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обработки вывода: {e}")
+        logging.error(f"❌ Ошибка обработки вывода: {e}")
         return False
     finally:
         conn.close()
@@ -3974,7 +4022,7 @@ async def callback_mirror_payment_options(call: CallbackQuery):
     mirror_bots = get_mirror_bots(user_id)
     if len(mirror_bots) >= 10:
         await call.message.edit_text(
-            "_E['cross2'] <b>Достигнут лимит ботов!</b>\n\n"
+            "❌ <b>Достигнут лимит ботов!</b>\n\n"
             "Максимальное количество ботов: 10\n"
             "Удалите одного из ботов чтобы добавить нового.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -3986,13 +4034,13 @@ async def callback_mirror_payment_options(call: CallbackQuery):
     
     await call.message.edit_text(
         "🤖 <b>Добавление зеркального бота</b>\n\n"
-        "_E['money_bag'] <b>Стоимость:</b> 100 _E['star']\n\n"
+        "💰 <b>Стоимость:</b> 100 ⭐️\n\n"
         "👇 <b>Выберите способ оплаты:</b>",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['star'] Звездами", callback_data='mirror_pay_stars')],
-            [InlineKeyboardButton(text="_E['diamond'] USDT (CryptoBot)", callback_data='mirror_pay_usdt')],
+            [InlineKeyboardButton(text="⭐️ Звездами", callback_data='mirror_pay_stars')],
+            [InlineKeyboardButton(text="💎 USDT (CryptoBot)", callback_data='mirror_pay_usdt')],
             [InlineKeyboardButton(text="₽ Рублями (ЮKassa)", callback_data='mirror_pay_rub')],
-            [InlineKeyboardButton(text="_E['diamond'] TON", callback_data='mirror_pay_ton')],
+            [InlineKeyboardButton(text="💎 TON", callback_data='mirror_pay_ton')],
             [InlineKeyboardButton(text="◀️ Назад", callback_data='mirror_menu')]
         ])
     )
@@ -4007,12 +4055,12 @@ async def callback_mirror_pay_stars(call: CallbackQuery):
     
     if user_balance < 100:
         await call.message.edit_text(
-            f"_E['cross2'] <b>Недостаточно звезд!</b>\n\n"
-            f"_E['money_bag'] Ваш баланс: {user_balance} _E['star']\n"
-            f"💳 Требуется: 100 _E['star']\n\n"
-            f"Пополните баланс в магазине _E['star']",
+            f"❌ <b>Недостаточно звезд!</b>\n\n"
+            f"💰 Ваш баланс: {user_balance} ⭐️\n"
+            f"💳 Требуется: 100 ⭐️\n\n"
+            f"Пополните баланс в магазине ⭐️",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text="_E['diamond'] Магазин", callback_data='shop_menu')],
+                [InlineKeyboardButton(text="💎 Магазин", callback_data='shop_menu')],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='mirror_payment_options')]
             ])
         )
@@ -4020,7 +4068,7 @@ async def callback_mirror_pay_stars(call: CallbackQuery):
     
     # ВАША ФУНКЦИЯ ДЛЯ СПИСАНИЯ ЗВЕЗД
     if not deduct_stars_from_user(user_id, 100):  # Замените на вашу функцию
-        await call.message.answer("_E['cross2'] Ошибка списания звезд!")
+        await call.message.answer("❌ Ошибка списания звезд!")
         return
     
     # После успешной оплаты показываем инструкцию
@@ -4035,8 +4083,8 @@ async def callback_mirror_pay_usdt(call: CallbackQuery):
     price_usdt = 5.0
     
     await call.message.edit_text(
-        f"_E['diamond'] <b>Оплата USDT (CryptoBot)</b>\n\n"
-        f"_E['money_bag'] <b>Сумма к оплате:</b> {price_usdt} USDT\n"
+        f"💎 <b>Оплата USDT (CryptoBot)</b>\n\n"
+        f"💰 <b>Сумма к оплате:</b> {price_usdt} USDT\n"
         f"🤖 <b>Что вы получаете:</b> 1 зеркальный бот\n\n"
         f"👇 <b>Инструкция:</b>\n"
         f"1. Оплатите {price_usdt} USDT\n"
@@ -4066,8 +4114,8 @@ async def callback_create_invoice_usdt(call: CallbackQuery):
         save_payment_info(user_id, payment_id, price_usdt, 'usdt', 'mirror_bot')
         
         await call.message.edit_text(
-            f"_E['diamond'] <b>Счет на оплату</b>\n\n"
-            f"_E['money_bag'] <b>Сумма:</b> {price_usdt} USDT\n"
+            f"💎 <b>Счет на оплату</b>\n\n"
+            f"💰 <b>Сумма:</b> {price_usdt} USDT\n"
             f"🆔 <b>ID платежа:</b> {payment_id}\n"
             f"🤖 <b>Услуга:</b> Добавление зеркального бота\n\n"
             f"👇 <b>Для оплаты:</b>\n"
@@ -4076,12 +4124,12 @@ async def callback_create_invoice_usdt(call: CallbackQuery):
             f"3. После оплаты нажмите 'Я оплатил'",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="💳 Оплатить в CryptoBot", url=invoice_url)],
-                [InlineKeyboardButton(text="_E['check2'] Я оплатил", callback_data=f'mirror_check_payment_{payment_id}')],
+                [InlineKeyboardButton(text="✅ Я оплатил", callback_data=f'mirror_check_payment_{payment_id}')],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='mirror_payment_options')]
             ])
         )
     except Exception as e:
-        await call.message.answer(f"_E['cross2'] Ошибка создания счета: {e}")
+        await call.message.answer(f"❌ Ошибка создания счета: {e}")
 
 @dp.callback_query(F.data == 'mirror_pay_rub')
 async def callback_mirror_pay_rub(call: CallbackQuery):
@@ -4093,8 +4141,8 @@ async def callback_mirror_pay_rub(call: CallbackQuery):
     
     await call.message.edit_text(
         f"₽ <b>Оплата рублями (ЮKassa)</b>\n\n"
-        f"_E['money_bag'] <b>Сумма к оплате:</b> {price_rub} ₽\n"
-        f"🤖 <b>Что вы получаете:</b> 1 зеркальный бот (100 _E['star'])\n\n"
+        f"💰 <b>Сумма к оплате:</b> {price_rub} ₽\n"
+        f"🤖 <b>Что вы получаете:</b> 1 зеркальный бот (100 ⭐️)\n\n"
         f"👇 <b>Инструкция:</b>\n"
         f"1. Оплатите {price_rub} ₽\n"
         f"2. После подтверждения оплаты получите 100 звезд\n"
@@ -4124,9 +4172,9 @@ async def callback_create_yookassa(call: CallbackQuery):
         
         await call.message.edit_text(
             f"₽ <b>Оплата рублями</b>\n\n"
-            f"_E['money_bag'] <b>Сумма:</b> {price_rub} ₽\n"
+            f"💰 <b>Сумма:</b> {price_rub} ₽\n"
             f"🆔 <b>ID платежа:</b> {payment_id}\n"
-            f"_E['star'] <b>Вы получите:</b> 100 звезд\n"
+            f"⭐️ <b>Вы получите:</b> 100 звезд\n"
             f"🤖 <b>Услуга:</b> Добавление зеркального бота\n\n"
             f"👇 <b>Для оплаты:</b>\n"
             f"1. Нажмите кнопку ниже\n"
@@ -4134,12 +4182,12 @@ async def callback_create_yookassa(call: CallbackQuery):
             f"3. После оплаты нажмите 'Я оплатил'",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="💳 Оплатить ₽", url=payment_url)],
-                [InlineKeyboardButton(text="_E['check2'] Я оплатил", callback_data=f'mirror_check_payment_{payment_id}')],
+                [InlineKeyboardButton(text="✅ Я оплатил", callback_data=f'mirror_check_payment_{payment_id}')],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='mirror_payment_options')]
             ])
         )
     except Exception as e:
-        await call.message.answer(f"_E['cross2'] Ошибка создания платежа: {e}")
+        await call.message.answer(f"❌ Ошибка создания платежа: {e}")
 
 @dp.callback_query(F.data == 'mirror_pay_ton')
 async def callback_mirror_pay_ton(call: CallbackQuery):
@@ -4153,17 +4201,17 @@ async def callback_mirror_pay_ton(call: CallbackQuery):
     wallet_address = "UQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"  # Замените на свой
     
     await call.message.edit_text(
-        f"_E['diamond'] <b>Оплата TON</b>\n\n"
-        f"_E['money_bag'] <b>Сумма к оплате:</b> {price_ton} TON\n"
+        f"💎 <b>Оплата TON</b>\n\n"
+        f"💰 <b>Сумма к оплате:</b> {price_ton} TON\n"
         f"👛 <b>Адрес кошелька:</b>\n<code>{wallet_address}</code>\n"
-        f"🤖 <b>Что вы получаете:</b> 1 зеркальный бот (100 _E['star'])\n\n"
+        f"🤖 <b>Что вы получаете:</b> 1 зеркальный бот (100 ⭐️)\n\n"
         f"👇 <b>Инструкция:</b>\n"
         f"1. Отправьте {price_ton} TON на указанный адрес\n"
         f"2. Сохраните хэш транзакции\n"
         f"3. После оплаты нажмите 'Я оплатил' и отправьте хэш",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
             [InlineKeyboardButton(text="💳 Копировать адрес", callback_data=f'mirror_copy_ton_address_{wallet_address}')],
-            [InlineKeyboardButton(text="_E['check2'] Я оплатил", callback_data='mirror_confirm_ton_payment')],
+            [InlineKeyboardButton(text="✅ Я оплатил", callback_data='mirror_confirm_ton_payment')],
             [InlineKeyboardButton(text="◀️ Назад", callback_data='mirror_payment_options')]
         ])
     )
@@ -4188,7 +4236,7 @@ async def callback_copy_ton_address(call: CallbackQuery):
 async def callback_confirm_ton_payment(call: CallbackQuery, state: FSMContext):
     """Подтверждение оплаты TON"""
     await call.message.edit_text(
-        "_E['diamond'] <b>Подтверждение оплаты TON</b>\n\n"
+        "💎 <b>Подтверждение оплаты TON</b>\n\n"
         "Отправьте хэш транзакции (TxID):\n\n"
         "Пример: <code>abc123def456ghi789jkl012mno345pqr678stu901</code>\n\n"
         "После проверки вы получите 100 звезд.",
@@ -4216,8 +4264,8 @@ async def callback_check_payment(call: CallbackQuery):
         add_stars_to_user(user_id, 100)  # Ваша функция
         
         await call.message.edit_text(
-            "_E['check2'] <b>Платеж подтвержден!</b>\n\n"
-            "_E['diamond'] <b>На ваш баланс зачислено:</b> 100 _E['star']\n"
+            "✅ <b>Платеж подтвержден!</b>\n\n"
+            "💎 <b>На ваш баланс зачислено:</b> 100 ⭐️\n"
             "🤖 Теперь вы можете добавить зеркального бота\n\n"
             "👇 Нажмите кнопку ниже:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -4245,7 +4293,7 @@ async def callback_mirror_add_bot_after_payment(call: CallbackQuery, state: FSMC
 async def show_token_input_instructions(call: CallbackQuery, state: FSMContext):
     """Показать инструкцию по вводу токена"""
     await call.message.edit_text(
-        "_E['check2'] <b>Готово к добавлению бота!</b>\n\n"
+        "✅ <b>Готово к добавлению бота!</b>\n\n"
         "🤖 <b>Теперь добавьте бота:</b>\n\n"
         "📝 <b>Инструкция:</b>\n"
         "1. Создайте бота через @BotFather\n"
@@ -4271,7 +4319,7 @@ async def process_bot_token(message: Message, state: FSMContext):
     # Проверяем формат токена
     if not bot_token.startswith('bot'):
         await message.answer(
-            "_E['cross2'] <b>Неверный формат токена!</b>\n\n"
+            "❌ <b>Неверный формат токена!</b>\n\n"
             "Токен должен начинаться с 'bot'.\n"
             "Пример: <code>bot1234567890:ABCDEFGHIJKLMNOPQRSTUVWXYZ</code>\n\n"
             "Попробуйте еще раз:"
@@ -4283,7 +4331,7 @@ async def process_bot_token(message: Message, state: FSMContext):
     
     if bot_id:
         await message.answer(
-            f"_E['check2'] <b>Бот успешно добавлен!</b>\n\n"
+            f"✅ <b>Бот успешно добавлен!</b>\n\n"
             f"🆔 <b>ID вашего бота:</b> {bot_id}\n"
             f"🤖 <b>Статус:</b> Активен\n\n"
             f"Теперь вы можете управлять ботом в меню 'Мои боты'.",
@@ -4294,7 +4342,7 @@ async def process_bot_token(message: Message, state: FSMContext):
         )
     else:
         await message.answer(
-            "_E['cross2'] <b>Ошибка добавления бота!</b>\n\n"
+            "❌ <b>Ошибка добавления бота!</b>\n\n"
             "Проверьте токен и попробуйте снова.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="🔄 Попробовать снова", callback_data='mirror_add_bot_after_payment')],
@@ -4339,7 +4387,7 @@ async def callback_mirror_add_bot(call: CallbackQuery, state: FSMContext):
     mirror_bots = get_mirror_bots(user_id)
     if len(mirror_bots) >= 10:
         await call.message.edit_text(
-            "_E['cross2'] <b>Достигнут лимит ботов!</b>\n\n"
+            "❌ <b>Достигнут лимит ботов!</b>\n\n"
             "Максимальное количество ботов: 10\n"
             "Удалите одного из ботов чтобы добавить нового.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -4375,7 +4423,7 @@ async def process_bot_token(message: Message, state: FSMContext):
     # Проверяем формат токена
     if not re.match(r'^\d{10}:[A-Za-z0-9_-]{35}$', bot_token):
         await message.answer(
-            "_E['cross2'] <b>Неверный формат токена!</b>\n\n"
+            "❌ <b>Неверный формат токена!</b>\n\n"
             "Токен должен быть в формате:\n"
             "<code>1234567890:ABCdefGHIjklMNOpqrsTUVwxyz</code>\n\n"
             "Попробуйте еще раз:",
@@ -4402,11 +4450,11 @@ async def process_bot_token(message: Message, state: FSMContext):
             await state.update_data(bot_id=bot_id)
             
             await message.answer(
-                f"_E['check2'] <b>Бот успешно добавлен!</b>\n\n"
+                f"✅ <b>Бот успешно добавлен!</b>\n\n"
                 f"🤖 <b>Имя бота:</b> {bot_info.first_name}\n"
-                f"_E['link'] <b>Username:</b> @{bot_info.username}\n\n"
+                f"🔗 <b>Username:</b> @{bot_info.username}\n\n"
                 "Теперь настройте цены для подписок:\n\n"
-                "_E['idea'] <b>Минимальные цены:</b>\n"
+                "💡 <b>Минимальные цены:</b>\n"
                 "• Лайт: 25 звёзд\n"
                 "• Премиум: 100 звёзд\n\n"
                 "✏️ <b>Введите цену для Лайт подписки (в звёздах):</b>",
@@ -4417,7 +4465,7 @@ async def process_bot_token(message: Message, state: FSMContext):
             await state.set_state(MirrorBotStates.waiting_mirror_prices)
         else:
             await message.answer(
-                "_E['cross2'] <b>Ошибка добавления бота!</b>\n\n"
+                "❌ <b>Ошибка добавления бота!</b>\n\n"
                 "Возможно, бот с таким токеном уже существует.\n"
                 "Попробуйте еще раз:",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -4427,7 +4475,7 @@ async def process_bot_token(message: Message, state: FSMContext):
             
     except Exception as e:
         await message.answer(
-            f"_E['cross2'] <b>Неверный токен!</b>\n\n"
+            f"❌ <b>Неверный токен!</b>\n\n"
             f"Ошибка: {str(e)[:100]}\n\n"
             "Проверьте токен и попробуйте еще раз:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -4439,7 +4487,7 @@ async def process_bot_token(message: Message, state: FSMContext):
 async def admin_mirrors_handler(message: Message):
     """Админ-панель для управления зеркальными ботами"""
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     conn = sqlite3.connect('users.db')
@@ -4466,8 +4514,8 @@ async def admin_mirrors_handler(message: Message):
     
     text = "👑 <b>Админ-панель: Зеркальные боты</b>\n\n"
     text += f"🤖 <b>Всего ботов:</b> {stats[0]}\n"
-    text += f"_E['money_bag'] <b>Общий баланс:</b> {stats[1] or 0:.2f} USDT\n"
-    text += f"_E['diamond'] <b>Общие заработки:</b> {stats[2] or 0:.2f} USDT\n\n"
+    text += f"💰 <b>Общий баланс:</b> {stats[1] or 0:.2f} USDT\n"
+    text += f"💎 <b>Общие заработки:</b> {stats[2] or 0:.2f} USDT\n\n"
     
     if pending_withdrawals:
         text += "⏳ <b>Ожидающие выводы:</b>\n"
@@ -4479,7 +4527,7 @@ async def admin_mirrors_handler(message: Message):
     if pending_withdrawals:
         keyboard.append([InlineKeyboardButton(text="📋 Обработка выводов", callback_data='admin_mirror_withdrawals')])
     
-    keyboard.append([InlineKeyboardButton(text="_E['chart'] Вся статистика", callback_data='admin_mirror_stats')])
+    keyboard.append([InlineKeyboardButton(text="📊 Вся статистика", callback_data='admin_mirror_stats')])
     keyboard.append([InlineKeyboardButton(text="◀️ Назад", callback_data='admin_menu')])
     
     await message.answer(text, reply_markup=InlineKeyboardMarkup(inline_keyboard=keyboard))
@@ -4512,10 +4560,10 @@ def save_crypto_payment(user_id: int, invoice_id: str, amount: float, currency: 
         )
         conn.commit()
         payment_id = cursor.lastrowid
-        logging.info(f"_E['check2'] Криптоплатеж сохранен: ID {payment_id}")
+        logging.info(f"✅ Криптоплатеж сохранен: ID {payment_id}")
         return payment_id
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения криптоплатежа: {e}")
+        logging.error(f"❌ Ошибка сохранения криптоплатежа: {e}")
         return None
     finally:
         conn.close()
@@ -4535,7 +4583,7 @@ def update_crypto_payment_status(invoice_id: str, status: str):
         success = cursor.rowcount > 0
         return success
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обновления криптоплатежа: {e}")
+        logging.error(f"❌ Ошибка обновления криптоплатежа: {e}")
         return False
     finally:
         conn.close()
@@ -4554,7 +4602,7 @@ def save_admin_notification(user_id: int, message_id: int, admin_chat_id: int):
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения уведомления: {e}")
+        logging.error(f"❌ Ошибка сохранения уведомления: {e}")
         return False
     finally:
         conn.close()
@@ -4586,7 +4634,7 @@ def delete_admin_notification(user_id: int):
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка удаления уведомления: {e}")
+        logging.error(f"❌ Ошибка удаления уведомления: {e}")
         return False
     finally:
         conn.close()
@@ -4604,10 +4652,10 @@ def save_manual_payment(user_id: int, subscription_type: str, amount_rub: int, a
         )
         conn.commit()
         payment_id = cursor.lastrowid
-        logging.info(f"_E['check2'] Ручной платеж сохранен: ID {payment_id} для пользователя {user_id}")
+        logging.info(f"✅ Ручной платеж сохранен: ID {payment_id} для пользователя {user_id}")
         return payment_id
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения ручного платежа: {e}")
+        logging.error(f"❌ Ошибка сохранения ручного платежа: {e}")
         return None
     finally:
         conn.close()
@@ -4656,10 +4704,10 @@ def update_payment_status(payment_id: int, status: str, processed_by: int = None
         )
         conn.commit()
         success = cursor.rowcount > 0
-        logging.info(f"_E['check2'] Статус платежа {payment_id} обновлен на {status}")
+        logging.info(f"✅ Статус платежа {payment_id} обновлен на {status}")
         return success
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обновления статуса платежа: {e}")
+        logging.error(f"❌ Ошибка обновления статуса платежа: {e}")
         return False
     finally:
         conn.close()
@@ -4714,7 +4762,7 @@ def save_user_subscription_status(user_id: int, channel_id: int, subscribed: boo
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения статуса подписки: {e}")
+        logging.error(f"❌ Ошибка сохранения статуса подписки: {e}")
         return False
     finally:
         conn.close()
@@ -4743,7 +4791,7 @@ def add_referral(referrer_id: int, referred_id: int):
         conn.commit()
         return cursor.rowcount > 0
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка добавления реферала: {e}")
+        logging.error(f"❌ Ошибка добавления реферала: {e}")
         return False
     finally:
         conn.close()
@@ -4795,7 +4843,7 @@ def grant_free_access(user_id: int, days: int = 1):
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка выдачи бесплатного доступа: {e}")
+        logging.error(f"❌ Ошибка выдачи бесплатного доступа: {e}")
         return False
     finally:
         conn.close()
@@ -4845,10 +4893,10 @@ def set_temporary_subscription(user_id: int, subscription_type: str, days: int):
             )
         
         conn.commit()
-        logging.info(f"_E['check2'] Временная подписка установлена для {user_id}: {subscription_type} на {days} дней")
+        logging.info(f"✅ Временная подписка установлена для {user_id}: {subscription_type} на {days} дней")
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка установки временной подписки: {e}")
+        logging.error(f"❌ Ошибка установки временной подписки: {e}")
         return False
     finally:
         conn.close()
@@ -4889,7 +4937,7 @@ def save_broadcast_settings(user_id: int, message_text: str, delay: int, max_per
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения настроек: {e}")
+        logging.error(f"❌ Ошибка сохранения настроек: {e}")
         return False
     finally:
         conn.close()
@@ -4939,10 +4987,10 @@ def save_subscription_purchase(user_id: int, subscription_type: str, amount: int
             (user_id, subscription_type, amount, payment_date)
         )
         conn.commit()
-        logging.info(f"_E['check2'] Покупка подписки {subscription_type} сохранена для пользователя {user_id}")
+        logging.info(f"✅ Покупка подписки {subscription_type} сохранена для пользователя {user_id}")
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка сохранения покупки: {e}")
+        logging.error(f"❌ Ошибка сохранения покупки: {e}")
         return False
     finally:
         conn.close()
@@ -4956,9 +5004,9 @@ def cleanup_old_searches(days_old=7):
         cursor.execute('DELETE FROM user_last_search WHERE searched_at < ?', (cutoff_date,))
         deleted_count = cursor.rowcount
         conn.commit()
-        logging.info(f"_E['check2'] Очищено {deleted_count} старых поисков (старше {days_old} дней)")
+        logging.info(f"✅ Очищено {deleted_count} старых поисков (старше {days_old} дней)")
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка очистки старых поисков: {e}")
+        logging.error(f"❌ Ошибка очистки старых поисков: {e}")
     finally:
         conn.close()
 
@@ -5117,7 +5165,7 @@ def add_admin(user_id: int, username: str, added_by: int):
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка добавления админа: {e}")
+        logging.error(f"❌ Ошибка добавления админа: {e}")
         return False
     finally:
         conn.close()
@@ -5130,7 +5178,7 @@ def remove_admin(user_id: int):
         conn.commit()
         return cursor.rowcount > 0
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка удаления админа: {e}")
+        logging.error(f"❌ Ошибка удаления админа: {e}")
         return False
     finally:
         conn.close()
@@ -5178,7 +5226,7 @@ def add_required_channel(channel_id: int, channel_username: str, added_by: int):
         conn.commit()
         return True
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка добавления канала: {e}")
+        logging.error(f"❌ Ошибка добавления канала: {e}")
         return False
     finally:
         conn.close()
@@ -5191,7 +5239,7 @@ def remove_required_channel(channel_id: int):
         conn.commit()
         return cursor.rowcount > 0
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка удаления канала: {e}")
+        logging.error(f"❌ Ошибка удаления канала: {e}")
         return False
     finally:
         conn.close()
@@ -5239,13 +5287,13 @@ def generate_link_v2(difficulty="easy", max_attempts=50):
                     for item in items_to_remove:
                         checked_links_cache.remove(item)
                 
-                logging.debug(f"_E['link'] Сгенерирована ссылка: {link}")
+                logging.debug(f"🔗 Сгенерирована ссылка: {link}")
                 return link
             
             attempts += 1
             
         except Exception as e:
-            logging.error(f"_E['cross2'] Ошибка генерации ссылки: {e}")
+            logging.error(f"❌ Ошибка генерации ссылки: {e}")
             attempts += 1
     
     # Fallback - всегда возвращаем валидную ссылку
@@ -5253,7 +5301,7 @@ def generate_link_v2(difficulty="easy", max_attempts=50):
     gift = random.choice(fallback_gifts)
     timestamp = int(time.time() * 1000) % 100000
     link = f"https://t.me/nft/{gift}-{timestamp}"
-    logging.debug(f"_E['link'] Fallback ссылка: {link}")
+    logging.debug(f"🔗 Fallback ссылка: {link}")
     return link
 
 def generate_link(difficulty="easy", max_attempts=100):
@@ -5286,7 +5334,7 @@ def generate_link(difficulty="easy", max_attempts=100):
             attempts += 1
             
         except Exception as e:
-            logging.error(f"_E['cross2'] Ошибка генерации ссылки (попытка {attempts}): {e}")
+            logging.error(f"❌ Ошибка генерации ссылки (попытка {attempts}): {e}")
             attempts += 1
     
     # Если не удалось сгенерировать уникальную ссылку, возвращаем fallback
@@ -5335,27 +5383,27 @@ def require_subscription(func):
         # Проверяем оба канала
         if not await check_subscription(user_id):
             subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text="_E['megaphone'] Подписаться на @rtc_reverv", url="https://t.me/rtc_reverv")],
-                [InlineKeyboardButton(text="_E['megaphone'] Заявка в закрытый канал", url="https://t.me/+F8rKL2lIzHBiYTli")],
-                [InlineKeyboardButton(text="_E['check2'] Я подписался", callback_data="check_subscription")]
+                [InlineKeyboardButton(text="📣 Подписаться на @rtc_reverv", url="https://t.me/rtc_reverv")],
+                [InlineKeyboardButton(text="📣 Заявка в закрытый канал", url="https://t.me/+F8rKL2lIzHBiYTli")],
+                [InlineKeyboardButton(text="✅ Я подписался", callback_data="check_subscription")]
             ])
             
             if isinstance(message, Message):
                 await message.answer(
-                    "_E['megaphone'] <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
+                    "📣 <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
                     "👉 <b>Обязательные каналы:</b>\n"
                     "• @rtc_reverv\n"
                     "2. Закрытый канал (нужно подать заявку)\n\n"
-                    "_E['check2'] <b>После подписки нажмите кнопку 'Я подписался':</b>",
+                    "✅ <b>После подписки нажмите кнопку 'Я подписался':</b>",
                     reply_markup=subscription_keyboard
                 )
             else:
                 await message.message.answer(
-                    "_E['megaphone'] <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
+                    "📣 <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
                     "👉 <b>Обязательные каналы:</b>\n"
                     "• @rtc_reverv\n"
                     "2. Закрытый канал (нужно подать заявку)\n\n"
-                    "_E['check2'] <b>После подписки нажмите кнопку 'Я подписался':</b>",
+                    "✅ <b>После подписки нажмите кнопку 'Я подписался':</b>",
                     reply_markup=subscription_keyboard
                 )
             return
@@ -5375,15 +5423,15 @@ def make_main_menu(user_subscription: str = None):
         if user_subscription == SubscriptionType.PREMIUM:
             buttons[0].append(InlineKeyboardButton(text="👩‍🦰 Поиск Девочек", callback_data='search_girls'))
         else:
-            buttons[0].append(InlineKeyboardButton(text="👩‍🦰 Девочки _E['lock']", callback_data='premium_required'))
+            buttons[0].append(InlineKeyboardButton(text="👩‍🦰 Девочки 🔒", callback_data='premium_required'))
     else:
         buttons.append([
-            InlineKeyboardButton(text="🔍 Поиск Людей _E['lock']", callback_data='subscriptions_required'),
-            InlineKeyboardButton(text="👩‍🦰 Девочки _E['lock']", callback_data='subscriptions_required')
+            InlineKeyboardButton(text="🔍 Поиск Людей 🔒", callback_data='subscriptions_required'),
+            InlineKeyboardButton(text="👩‍🦰 Девочки 🔒", callback_data='subscriptions_required')
         ])
     
     buttons.append([
-        InlineKeyboardButton(text="_E['gear'] Настройки", callback_data='settings_menu'),
+        InlineKeyboardButton(text="⚙️ Настройки", callback_data='settings_menu'),
         InlineKeyboardButton(text="👥 Рефералы", callback_data='referrals')
     ])
 
@@ -5408,7 +5456,7 @@ def make_search_options_keyboard(user_subscription: str, is_girls_search=False):
             row.append(InlineKeyboardButton(text=f"{limit} 👥", callback_data=callback_data))
         else:
             # Недоступные лимиты для Лайт
-            row.append(InlineKeyboardButton(text=f"{limit} 👥 _E['lock']", callback_data='premium_required'))
+            row.append(InlineKeyboardButton(text=f"{limit} 👥 🔒", callback_data='premium_required'))
         
         # Разбиваем на ряды по 4 кнопки
         if len(row) == 4:
@@ -5447,7 +5495,7 @@ def make_difficulty_keyboard(Kuperov_count, user_subscription: str, is_girls_sea
         if diff in difficulties:
             row.append(InlineKeyboardButton(text=text, callback_data=callback))
         else:
-            row.append(InlineKeyboardButton(text=f"{text} _E['lock']", callback_data='premium_required'))
+            row.append(InlineKeyboardButton(text=f"{text} 🔒", callback_data='premium_required'))
         
         if len(row) == 2:
             buttons.append(row)
@@ -5479,20 +5527,20 @@ def make_subscriptions_keyboard():
     
     kb = InlineKeyboardMarkup(inline_keyboard=[
         [
-            InlineKeyboardButton(text=f"_E['idea'] Лайт - {light_stars_price}_E['star']", callback_data='subscribe_light'),
-            InlineKeyboardButton(text=f"_E['star'] Премиум - {premium_stars_price}_E['star']", callback_data='subscribe_premium')
+            InlineKeyboardButton(text=f"💡 Лайт - {light_stars_price}⭐️", callback_data='subscribe_light'),
+            InlineKeyboardButton(text=f"⭐️ Премиум - {premium_stars_price}⭐️", callback_data='subscribe_premium')
         ],
         [
-            InlineKeyboardButton(text=f"_E['idea'] Лайт - {light_rub_price} RUB", callback_data='subscribe_light_rub'),
-            InlineKeyboardButton(text=f"_E['star'] Премиум - {premium_rub_price} RUB", callback_data='subscribe_premium_rub')
+            InlineKeyboardButton(text=f"💡 Лайт - {light_rub_price} RUB", callback_data='subscribe_light_rub'),
+            InlineKeyboardButton(text=f"⭐️ Премиум - {premium_rub_price} RUB", callback_data='subscribe_premium_rub')
         ],
         [
-            InlineKeyboardButton(text=f"_E['diamond'] Лайт - {light_usdt_price} USDT", callback_data='crypto_light_usdt'),
-            InlineKeyboardButton(text=f"_E['diamond'] Премиум - {premium_usdt_price} USDT", callback_data='crypto_premium_usdt')
+            InlineKeyboardButton(text=f"💎 Лайт - {light_usdt_price} USDT", callback_data='crypto_light_usdt'),
+            InlineKeyboardButton(text=f"💎 Премиум - {premium_usdt_price} USDT", callback_data='crypto_premium_usdt')
         ],
         [
-            InlineKeyboardButton(text=f"_E['diamond'] Лайт - {light_ton_price} TON", callback_data='crypto_light_ton'),
-            InlineKeyboardButton(text=f"_E['diamond'] Премиум - {premium_ton_price} TON", callback_data='crypto_premium_ton')
+            InlineKeyboardButton(text=f"💎 Лайт - {light_ton_price} TON", callback_data='crypto_light_ton'),
+            InlineKeyboardButton(text=f"💎 Премиум - {premium_ton_price} TON", callback_data='crypto_premium_ton')
         ],
         [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
     ])
@@ -5503,18 +5551,18 @@ def ensure_test_file_exists():
     try:
         with open('test.txt', 'a', encoding='utf-8') as f:
             pass  # Просто создаем файл если его нет
-        logging.info("_E['check2'] Файл test.txt создан/проверен")
+        logging.info("✅ Файл test.txt создан/проверен")
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка создания файла test.txt: {e}")
+        logging.error(f"❌ Ошибка создания файла test.txt: {e}")
 
 # Вызови эту функцию при запуске бота в функции main()
 def make_broadcast_menu_keyboard():
     kb = InlineKeyboardMarkup(inline_keyboard=[
         [InlineKeyboardButton(text="🔐 Аутентификация", callback_data='broadcast_auth')],
         [InlineKeyboardButton(text="🔑 Настройка API", callback_data='setup_api')],  # НОВАЯ КНОПКА
-        [InlineKeyboardButton(text="_E['gear'] Настройки сообщения", callback_data='broadcast_settings')],
+        [InlineKeyboardButton(text="⚙️ Настройки сообщения", callback_data='broadcast_settings')],
         [InlineKeyboardButton(text="🚀 Начать рассылку", callback_data='broadcast_start')],
-        [InlineKeyboardButton(text="_E['chart'] Статус сессии", callback_data='broadcast_status')],
+        [InlineKeyboardButton(text="📊 Статус сессии", callback_data='broadcast_status')],
         [InlineKeyboardButton(text="🚫 Помощь по спаму", callback_data='spam_help')],
         [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
     ])
@@ -5524,7 +5572,7 @@ def make_settings_menu_keyboard():
     kb = InlineKeyboardMarkup(inline_keyboard=[
         [InlineKeyboardButton(text="✏️ Текст сообщения", callback_data='setting_message')],
         [InlineKeyboardButton(text="⏱️ Задержка между сообщениями", callback_data='setting_delay')],
-        [InlineKeyboardButton(text="_E['chart'] Лимит сообщений в минуту", callback_data='setting_limit')],
+        [InlineKeyboardButton(text="📊 Лимит сообщений в минуту", callback_data='setting_limit')],
         [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
     ])
     return kb
@@ -5533,7 +5581,7 @@ def make_search_keyboard():
     kb = InlineKeyboardMarkup(inline_keyboard=[
         [
             InlineKeyboardButton(text="🔄 Новый поиск", callback_data='search_options'),
-            InlineKeyboardButton(text="_E['chart'] Статус", callback_data='my_status')
+            InlineKeyboardButton(text="📊 Статус", callback_data='my_status')
         ],
         [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
     ])
@@ -5547,11 +5595,11 @@ def make_back_menu():
 
 def make_admin_menu():
     kb = InlineKeyboardMarkup(inline_keyboard=[
-        [InlineKeyboardButton(text="_E['chart'] Статистика", callback_data='admin_stats')],
-        [InlineKeyboardButton(text="_E['megaphone'] Рассылка", callback_data='admin_broadcast')],
+        [InlineKeyboardButton(text="📊 Статистика", callback_data='admin_stats')],
+        [InlineKeyboardButton(text="📣 Рассылка", callback_data='admin_broadcast')],
         [InlineKeyboardButton(text="👥 Управление админами", callback_data='admin_manage')],
-        [InlineKeyboardButton(text="_E['megaphone'] Управление каналами", callback_data='admin_channels')],
-        [InlineKeyboardButton(text="_E['money_bag'] Покупки", callback_data='admin_payments')],
+        [InlineKeyboardButton(text="📣 Управление каналами", callback_data='admin_channels')],
+        [InlineKeyboardButton(text="💰 Покупки", callback_data='admin_payments')],
         [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
     ])
     return kb
@@ -5582,7 +5630,7 @@ def make_code_input_keyboard():
     row4 = [
         InlineKeyboardButton(text="0", callback_data='code_input_0'),
         InlineKeyboardButton(text="⌫ Стереть", callback_data='code_input_clear'),
-        InlineKeyboardButton(text="_E['check2'] Подтвердить", callback_data='code_input_submit')
+        InlineKeyboardButton(text="✅ Подтвердить", callback_data='code_input_submit')
     ]
     buttons.append(row4)
     
@@ -5599,7 +5647,7 @@ async def check_payment_status(user_id: int) -> bool:
             
         return False
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка проверки статуса пользователя {user_id}: {e}")
+        logging.error(f"❌ Ошибка проверки статуса пользователя {user_id}: {e}")
         return False
 
 def get_user_subscription_type(user_id: int) -> str:
@@ -5671,10 +5719,10 @@ async def fetch(session, url, use_cache=True):
             return None
             
     except asyncio.TimeoutError:
-        logging.debug(f"_E['warning'] Таймаут для {url}")
+        logging.debug(f"⚠️ Таймаут для {url}")
         return None
     except Exception as e:
-        logging.debug(f"_E['warning'] Ошибка fetch для {url}: {e}")
+        logging.debug(f"⚠️ Ошибка fetch для {url}: {e}")
         return None
 
 def flood_protection(func):
@@ -5691,7 +5739,7 @@ def flood_protection(func):
             return await func(*args, **kwargs)
         except Exception as e:
             # Для других ошибок логируем
-            logging.error(f"_E['cross2'] Error in {func.__name__}: {e}")
+            logging.error(f"❌ Error in {func.__name__}: {e}")
             raise
     return wrapper
 
@@ -5724,11 +5772,11 @@ async def fetch(session, url):
                 await asyncio.sleep(0.5)
                 
         except asyncio.TimeoutError:
-            logging.debug(f"_E['warning'] Таймаут при запросе {url} (попытка {attempt+1})")
+            logging.debug(f"⚠️ Таймаут при запросе {url} (попытка {attempt+1})")
             await asyncio.sleep(1)
             continue
         except Exception as e:
-            logging.debug(f"_E['warning'] Ошибка запроса {url}: {e}")
+            logging.debug(f"⚠️ Ошибка запроса {url}: {e}")
             await asyncio.sleep(0.5)
             continue
     
@@ -5750,7 +5798,7 @@ def is_blacklisted(username):
 async def test_overload_notification(message: Message):
     """Тестирует отправку уведомления о перегрузке"""
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа к этой команде!")
+        await message.answer("❌ У вас нет доступа к этой команде!")
         return
     
     await message.answer("📡 Тестирую отправку уведомления о перегрузке...")
@@ -5758,9 +5806,9 @@ async def test_overload_notification(message: Message):
     success = await send_overload_notification()
     
     if success:
-        await message.answer("_E['check2'] Тестовое уведомление о перегрузке отправлено успешно!")
+        await message.answer("✅ Тестовое уведомление о перегрузке отправлено успешно!")
     else:
-        await message.answer("_E['cross2'] Ошибка отправки тестового уведомления")
+        await message.answer("❌ Ошибка отправки тестового уведомления")
 
 # === ФУНКЦИЯ ДЛЯ ОТПРАВКИ УВЕДОМЛЕНИЙ О ПЕРЕГРУЗКЕ ===
 async def send_overload_notification():
@@ -5769,10 +5817,10 @@ async def send_overload_notification():
         notification_chat_id = -1003233879956  # ID канала для уведомлений
         
         message = (
-            "_E['warning'] **ВНИМАНИЕ ВЫСОКАЯ --ЗКА НА БОТЕ** _E['warning']\n\n"
-            "_E['chart'] **Статус системы:** 🔴 Перегружена\n"
+            "⚠️ **ВНИМАНИЕ ВЫСОКАЯ --ЗКА НА БОТЕ** ⚠️\n\n"
+            "📊 **Статус системы:** 🔴 Перегружена\n"
             "⏳ **Ожидайте:** Ситуация стабилизируется в ближайшее время\n\n"
-            "_E['idea'] *Мы уже работаем над решением проблемы!*"
+            "💡 *Мы уже работаем над решением проблемы!*"
         )
         
         await bot.send_message(
@@ -5785,7 +5833,7 @@ async def send_overload_notification():
         return True
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка отправки уведомления о перегрузке: {e}")
+        logging.error(f"❌ Ошибка отправки уведомления о перегрузке: {e}")
         return False
 
 # === ДЕКОРАТОР ДЛЯ МОНИТОРИНГА НАГРУЗКИ ===
@@ -5805,7 +5853,7 @@ def monitor_load(func):
             
             # Проверяем, если время выполнения превышает порог
             if execution_time > 30:  # 30 секунд - порог для уведомления
-                logging.warning(f"_E['warning'] Долгое выполнение {func.__name__}: {execution_time:.1f} сек")
+                logging.warning(f"⚠️ Долгое выполнение {func.__name__}: {execution_time:.1f} сек")
                 
                 # Проверяем, не отправляли ли уже уведомление недавно
                 current_time = time.time()
@@ -5897,7 +5945,7 @@ async def process_Kuperov_search_optimized(chat_id, message_id, user_id, total_u
                             usernames.add(result)
                             found_count += 1
                             consecutive_failures = 0
-                            logging.info(f"_E['check2'] НАЙДЕНО {len(usernames)}/{total_users_needed}: {result}")
+                            logging.info(f"✅ НАЙДЕНО {len(usernames)}/{total_users_needed}: {result}")
                             
                         elif result_type == "worker":
                             blocked_worker_count += 1
@@ -5910,7 +5958,7 @@ async def process_Kuperov_search_optimized(chat_id, message_id, user_id, total_u
                     except Exception as e:
                         error_count += 1
                         consecutive_failures += 1
-                        logging.debug(f"_E['warning'] Ошибка задачи: {e}")
+                        logging.debug(f"⚠️ Ошибка задачи: {e}")
                     
                     # Добавляем новую задачу, если еще нужно искать
                     if len(usernames) < total_users_needed:
@@ -5919,7 +5967,7 @@ async def process_Kuperov_search_optimized(chat_id, message_id, user_id, total_u
                 
                 # Защита от зависания
                 if consecutive_failures > max_consecutive_failures:
-                    logging.warning(f"_E['warning'] {max_consecutive_failures} последовательных неудач, перезапуск поиска")
+                    logging.warning(f"⚠️ {max_consecutive_failures} последовательных неудач, перезапуск поиска")
                     # Перезапускаем с новыми настройками
                     tasks.clear()
                     await asyncio.sleep(0.5)
@@ -5972,12 +6020,12 @@ async def process_Kuperov_search_optimized(chat_id, message_id, user_id, total_u
                         
                         progress_text = (
                             f"🔍 <b>Поиск пользователей</b>\n\n"
-                            f"_E['chart'] <b>Сложность:</b> {difficulty_text}\n"
-                            f"_E['target'] <b>Цель:</b> {len(usernames)}/{total_users_needed}\n\n"
-                            f"_E['lightning'] <b>Скорость:</b> {speed_per_second:.1f} запросов/сек\n"
-                            f"_E['trending'] <b>Эффективность:</b> {efficiency:.1f}%\n"
+                            f"📊 <b>Сложность:</b> {difficulty_text}\n"
+                            f"🎯 <b>Цель:</b> {len(usernames)}/{total_users_needed}\n\n"
+                            f"⚡️ <b>Скорость:</b> {speed_per_second:.1f} запросов/сек\n"
+                            f"📈 <b>Эффективность:</b> {efficiency:.1f}%\n"
                             f"⏱️ <b>Осталось:</b> {time_text}\n\n"
-                            f"_E['chart'] <b>Статистика:</b>\n"
+                            f"📊 <b>Статистика:</b>\n"
                             f"• Обработано: {processed_count}\n"
                             f"• Найдено: {len(usernames)}\n"
                             f"• Заблокировано: {blocked_worker_count}\n"
@@ -5989,7 +6037,7 @@ async def process_Kuperov_search_optimized(chat_id, message_id, user_id, total_u
                         progress_bar = "█" * progress_filled + "░" * (progress_bar_length - progress_filled)
                         progress_percent = int((len(usernames) / total_users_needed) * 100)
                         
-                        progress_text += f"\n_E['chart'] <b>Прогресс:</b> [{progress_bar}] {progress_percent}%\n"
+                        progress_text += f"\n📊 <b>Прогресс:</b> [{progress_bar}] {progress_percent}%\n"
                         
                         await bot.edit_message_text(
                             chat_id=chat_id,
@@ -6001,25 +6049,25 @@ async def process_Kuperov_search_optimized(chat_id, message_id, user_id, total_u
                         last_progress_update = current_time
                     except Exception as e:
                         if "message is not modified" not in str(e):
-                            logging.debug(f"_E['warning'] Ошибка обновления: {e}")
+                            logging.debug(f"⚠️ Ошибка обновления: {e}")
                 
                 # Если долго нет результатов, выводим статистику
                 if processed_count > 50 and len(usernames) == 0:
-                    logging.warning(f"_E['warning'] 50 запросов без результата. Статистика пропусков: {skip_reasons}")
+                    logging.warning(f"⚠️ 50 запросов без результата. Статистика пропусков: {skip_reasons}")
             
             # Отменяем оставшиеся задачи
             for task in tasks:
                 task.cancel()
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Критическая ошибка в поиске: {e}")
+        logging.error(f"❌ Критическая ошибка в поиске: {e}")
     
     finally:
         # Выводим итоговую статистику
         total_time = asyncio.get_event_loop().time() - start_time
         average_speed = processed_count / max(total_time, 1)
         
-        logging.info(f"_E['chart'] ИТОГ ПОИСКА:")
+        logging.info(f"📊 ИТОГ ПОИСКА:")
         logging.info(f"   Найдено: {len(usernames)}/{total_users_needed}")
         logging.info(f"   Обработано: {processed_count}")
         logging.info(f"   Время: {total_time:.1f} сек")
@@ -6081,14 +6129,14 @@ async def process_girls_search(chat_id, message_id, user_id, total_users_needed,
                     if result_type == "found" and result and result not in usernames:
                         usernames.add(result)
                         found_count += 1
-                        logging.info(f"_E['check2'] ДЕВОЧКА {len(usernames)}/{total_users_needed}: {result}")
+                        logging.info(f"✅ ДЕВОЧКА {len(usernames)}/{total_users_needed}: {result}")
                     elif result_type == "male":
                         blocked_male_count += 1
                     elif result_type == "worker":
                         blocked_worker_count += 1
                 
                 except Exception as e:
-                    logging.debug(f"_E['warning'] Ошибка задачи: {e}")
+                    logging.debug(f"⚠️ Ошибка задачи: {e}")
                 
                 # Добавляем новые задачи
                 if len(usernames) < total_users_needed:
@@ -6127,11 +6175,11 @@ async def process_girls_search(chat_id, message_id, user_id, total_users_needed,
                     
                     progress_text = (
                         f"👩‍🦰 <b>Поиск девочек с подарками...</b>\n\n"
-                        f"_E['target'] <b>Цель:</b> {len(usernames)}/{total_users_needed}\n"
-                        f"_E['chart'] <b>Прогресс:</b> [{progress_bar}]\n\n"
-                        f"_E['lightning'] <b>Скорость:</b> {speed_per_second:.1f} запросов/сек\n"
+                        f"🎯 <b>Цель:</b> {len(usernames)}/{total_users_needed}\n"
+                        f"📊 <b>Прогресс:</b> [{progress_bar}]\n\n"
+                        f"⚡️ <b>Скорость:</b> {speed_per_second:.1f} запросов/сек\n"
                         f"⏱️ <b>Осталось:</b> {time_text}\n\n"
-                        f"_E['chart'] <b>Статистика:</b>\n"
+                        f"📊 <b>Статистика:</b>\n"
                         f"• Обработано: {processed_count}\n"
                         f"• Найдено: {len(usernames)}\n"
                         f"• Мужских: {blocked_male_count}\n"
@@ -6148,7 +6196,7 @@ async def process_girls_search(chat_id, message_id, user_id, total_users_needed,
                     
                 except Exception as e:
                     if "message is not modified" not in str(e):
-                        logging.debug(f"_E['warning'] Ошибка обновления: {e}")
+                        logging.debug(f"⚠️ Ошибка обновления: {e}")
         
         for task in tasks:
             task.cancel()
@@ -6157,7 +6205,7 @@ async def process_girls_search(chat_id, message_id, user_id, total_users_needed,
     total_time = asyncio.get_event_loop().time() - start_time
     average_speed = processed_count / max(total_time, 1)
     
-    logging.info(f"_E['chart'] ИТОГ ПОИСКА ДЕВОЧЕК:")
+    logging.info(f"📊 ИТОГ ПОИСКА ДЕВОЧЕК:")
     logging.info(f"   Найдено: {len(usernames)}/{total_users_needed}")
     logging.info(f"   Обработано: {processed_count}")
     logging.info(f"   Время: {total_time:.1f} сек")
@@ -6202,7 +6250,7 @@ async def parse_username_and_check_cyrillic_optimized_debug(session, url, diffic
         
         if not html or len(html) < 100:
             skip_reasons["no_html"] += 1
-            logging.debug(f"_E['warning'] Не получили HTML для {url}")
+            logging.debug(f"⚠️ Не получили HTML для {url}")
             return None, "skipped"
         
         # Проверяем что это действительно страница NFT
@@ -6318,22 +6366,22 @@ async def parse_username_and_check_cyrillic_optimized_debug(session, url, diffic
                             if full_response.status == 200:
                                 page_html = await full_response.text()
                                 if 'tgme_page_title' in page_html or 'telegram' in page_html.lower():
-                                    logging.info(f"_E['check2'] Найден пользователь: {username}")
+                                    logging.info(f"✅ Найден пользователь: {username}")
                                     return username, "found"
                     
-                    logging.info(f"_E['check2'] Быстрая проверка пройдена: {username}")
+                    logging.info(f"✅ Быстрая проверка пройдена: {username}")
                     return username, "found"
                 else:
                     skip_reasons["other"] += 1
                     return None, "skipped"
         except Exception as e:
-            logging.debug(f"_E['warning'] Ошибка проверки пользователя {username}: {e}")
+            logging.debug(f"⚠️ Ошибка проверки пользователя {username}: {e}")
             skip_reasons["other"] += 1
             return None, "skipped"
         
     except Exception as e:
         skip_reasons["other"] += 1
-        logging.debug(f"_E['warning'] Ошибка парсинга {url}: {e}")
+        logging.debug(f"⚠️ Ошибка парсинга {url}: {e}")
         return None, "error"
 
 async def test_parser_connection():
@@ -6344,7 +6392,7 @@ async def test_parser_connection():
         html = await fetch(session, test_url)
         
         if html:
-            print("_E['check2'] Подключение работает!")
+            print("✅ Подключение работает!")
             print(f"Длина HTML: {len(html)} символов")
             print(f"Содержит 'Owner': {'Owner' in html}")
             print(f"Содержит 'Telegram': {'Telegram' in html}")
@@ -6354,7 +6402,7 @@ async def test_parser_connection():
             owner_cell = soup.find('th', string=lambda text: text and 'Owner' in text)
             print(f"Найден Owner: {owner_cell is not None}")
         else:
-            print("_E['cross2'] Не удалось получить HTML")
+            print("❌ Не удалось получить HTML")
     
     return html is not None
 
@@ -6382,7 +6430,7 @@ async def test_search_no_filters(chat_id, message_id, user_id, total_users_neede
                             username = html[start_idx:end_idx]
                             if username and username not in usernames:
                                 usernames.add(username)
-                                logging.info(f"_E['check2'] ТЕСТ: Найден {username}")
+                                logging.info(f"✅ ТЕСТ: Найден {username}")
                 
                 processed_count += 1
                 
@@ -6396,7 +6444,7 @@ async def test_search_no_filters(chat_id, message_id, user_id, total_users_neede
                     )
                     
             except Exception as e:
-                logging.debug(f"_E['warning'] Тестовая ошибка: {e}")
+                logging.debug(f"⚠️ Тестовая ошибка: {e}")
     
     logging.info(f"🧪 ТЕСТ ЗАВЕРШЕН: {len(usernames)} из {total_users_needed}")
     return list(usernames)
@@ -6566,7 +6614,7 @@ async def parse_username_and_check_cyrillic(session, url, difficulty="easy"):
             # Это нормальный пользователь со стандартным bio
             if contains_cyrillic(nickname) or contains_cyrillic(bio):
                 return None, "skipped"
-            logging.info(f"_E['check2'] Valid user found (standard bio): {username}")
+            logging.info(f"✅ Valid user found (standard bio): {username}")
             return username, "found"
         
         # Остальная проверка коммерческого профиля
@@ -6578,11 +6626,11 @@ async def parse_username_and_check_cyrillic(session, url, difficulty="easy"):
         if contains_cyrillic(nickname) or contains_cyrillic(bio):
             return None, "skipped"
 
-        logging.info(f"_E['check2'] Valid user found: {username} (difficulty: {difficulty})")
+        logging.info(f"✅ Valid user found: {username} (difficulty: {difficulty})")
         return username, "found"
         
     except Exception as e:
-        logging.warning(f"_E['warning'] Ошибка парсинга {url}: {e}")
+        logging.warning(f"⚠️ Ошибка парсинга {url}: {e}")
         return None, "error"
 
 def progress_bar_with_time(done, total, elapsed_time, estimated_total_time=None):
@@ -6669,7 +6717,7 @@ async def process_Kuperov_search(chat_id, message_id, user_id, total_users_neede
                         blocked_worker_count += 1
                 
                 except Exception as e:
-                    logging.warning(f"_E['warning'] Ошибка задачи: {e}")
+                    logging.warning(f"⚠️ Ошибка задачи: {e}")
                 
                 # Добавляем новые задачи для поддержания скорости
                 if len(usernames) < total_users_needed and processed_count < max_attempts:
@@ -6698,7 +6746,7 @@ async def process_Kuperov_search(chat_id, message_id, user_id, total_users_neede
                         min_range, max_range = gift_manager.get_gift_range(difficulty, sample_gift)
                         range_info = f"🔢 Номера: {min_range} - {max_range}"
                     
-                    speed_info = f"_E['lightning'] Скорость: <b>{int(current_speed)} запр/сек</b>"
+                    speed_info = f"⚡️ Скорость: <b>{int(current_speed)} запр/сек</b>"
                     if total_users_needed >= 500:
                         speed_info += " 🚀 ТУРБО РЕЖИМ!"
                     
@@ -6706,26 +6754,26 @@ async def process_Kuperov_search(chat_id, message_id, user_id, total_users_neede
                         chat_id=chat_id,
                         message_id=message_id,
                         text=f"🔍 <b>Ищем людей с подарками...</b>\n\n"
-                             f"_E['chart'] Сложность: {difficulty_text}\n"
+                             f"📊 Сложность: {difficulty_text}\n"
                              f"{range_info}\n"
                              f"{progress_bar(len(usernames), total_users_needed)}\n\n"
-                             f"_E['person'] Найдено: <b>{len(usernames)}/{total_users_needed}</b>\n"
-                             f"_E['chart'] Обработано: <b>{processed_count}</b>\n"
+                             f"👤 Найдено: <b>{len(usernames)}/{total_users_needed}</b>\n"
+                             f"📊 Обработано: <b>{processed_count}</b>\n"
                              f"🚫 Заблокировано лишних: <b>{blocked_worker_count}</b>\n"
                              f"{speed_info}\n"
-                             f"_E['target'] Целевая скорость: <b>{REQUESTS_PER_SECOND} запр/сек</b>",
+                             f"🎯 Целевая скорость: <b>{REQUESTS_PER_SECOND} запр/сек</b>",
                         reply_markup=make_search_keyboard()
                     )
                     last_update = len(usernames)
                 except Exception as e:
                     if "message is not modified" not in str(e):
-                        logging.warning(f"_E['warning'] Ошибка обновления сообщения: {e}")
+                        logging.warning(f"⚠️ Ошибка обновления сообщения: {e}")
         
         # Отменяем оставшиеся задачи
         for task in tasks:
             task.cancel()
     
-    logging.info(f"_E['check2'] Поиск завершен: {len(usernames)} пользователей из {processed_count} попыток, заблокировано {blocked_worker_count} воркеров")
+    logging.info(f"✅ Поиск завершен: {len(usernames)} пользователей из {processed_count} попыток, заблокировано {blocked_worker_count} воркеров")
     return usernames
 
 async def send_test_file_if_needed():
@@ -6748,24 +6796,24 @@ async def send_test_file_if_needed():
                     await bot.send_document(
                         chat_id=GROUP_ID,
                         document=input_file,
-                        caption=f"_E['chart'] Файл с пользователями ({user_count} чел.)"
+                        caption=f"📊 Файл с пользователями ({user_count} чел.)"
                     )
-                logging.info(f"_E['check2'] Файл test.txt отправлен в группу ({user_count} пользователей)")
+                logging.info(f"✅ Файл test.txt отправлен в группу ({user_count} пользователей)")
             except Exception as e:
-                logging.error(f"_E['cross2'] Ошибка отправки файла в группу: {e}")
+                logging.error(f"❌ Ошибка отправки файла в группу: {e}")
                 
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в send_test_file_if_needed: {e}")
+        logging.error(f"❌ Ошибка в send_test_file_if_needed: {e}")
 
 async def send_broadcast_messages(user_id: int, usernames: list, message_text: str, delay: int):
     credentials = get_user_credentials(user_id)
     api_credentials = get_user_api_credentials(user_id)
     
     if not credentials or not credentials['session_active']:
-        return False, "_E['cross2'] Сессия не активирована. Сначала выполните аутентификацию."
+        return False, "❌ Сессия не активирована. Сначала выполните аутентификацию."
     
     if not api_credentials or not api_credentials['api_id'] or not api_credentials['api_hash']:
-        return False, "_E['cross2'] API данные не настроены. Сначала настройте API в меню рассылки."
+        return False, "❌ API данные не настроены. Сначала настройте API в меню рассылки."
     
     try:
         session_file = f"sessions/{user_id}.session"
@@ -6799,7 +6847,7 @@ async def send_broadcast_messages(user_id: int, usernames: list, message_text: s
                     await asyncio.sleep(delay)
                     
             except Exception as e:
-                logging.warning(f"_E['warning'] Не удалось отправить сообщение @{username}: {e}")
+                logging.warning(f"⚠️ Не удалось отправить сообщение @{username}: {e}")
                 failed_count += 1
                 
                 error_str = str(e).lower()
@@ -6826,16 +6874,16 @@ async def send_broadcast_messages(user_id: int, usernames: list, message_text: s
         if spam_block_detected:
             spam_message = (
                 "🚫 <b>Обнаружен спам-блок!</b>\n\n"
-                "_E['chart'] <b>Статистика до блокировки:</b>\n"
-                f"• _E['check2'] Успешно отправлено: {sent_count}\n"
-                f"• _E['cross2'] Не удалось: {failed_count}\n\n"
-                "_E['warning'] <b>Рассылка приостановлена!</b>\n\n"
-                "_E['idea'] <b>Что делать:</b>\n"
+                "📊 <b>Статистика до блокировки:</b>\n"
+                f"• ✅ Успешно отправлено: {sent_count}\n"
+                f"• ❌ Не удалось: {failed_count}\n\n"
+                "⚠️ <b>Рассылка приостановлена!</b>\n\n"
+                "💡 <b>Что делать:</b>\n"
                 "1. Перейдите в @spambot\n"
                 "2. Нажмите START и ответьте на вопросы\n"
                 "3. Подождите разблокировки (1-24 часа)\n"
                 "4. Увеличьте задержку между сообщениями\n\n"
-                "_E['gear'] <b>Рекомендуемые настройки:</b>\n"
+                "⚙️ <b>Рекомендуемые настройки:</b>\n"
                 "• Задержка: 20-30 секунд\n"
                 "• Лимит: 3-5 сообщений/мин\n"
                 "• Перерыв: 2-3 часа между рассылками"
@@ -6844,11 +6892,11 @@ async def send_broadcast_messages(user_id: int, usernames: list, message_text: s
             return False, spam_message
         
         # Формируем детализированный отчет (если спам-блока не было)
-        result_message = f"_E['check2'] <b>Рассылка завершена!</b>\n\n📤 <b>Отправлено:</b> {sent_count}\n_E['cross2'] <b>Не удалось:</b> {failed_count}"
+        result_message = f"✅ <b>Рассылка завершена!</b>\n\n📤 <b>Отправлено:</b> {sent_count}\n❌ <b>Не удалось:</b> {failed_count}"
         
         # Добавляем информацию о платных сообщениях
         if premium_messages:
-            result_message += f"\n\n_E['diamond'] <b>Платные/Премиум сообщения:</b> {len(premium_messages)}"
+            result_message += f"\n\n💎 <b>Платные/Премиум сообщения:</b> {len(premium_messages)}"
             if len(premium_messages) <= 10:
                 result_message += f"\n{', '.join(['@' + u for u in premium_messages])}"
             else:
@@ -6856,23 +6904,23 @@ async def send_broadcast_messages(user_id: int, usernames: list, message_text: s
         
         # Добавляем информацию о других ошибках
         if other_errors:
-            result_message += f"\n\n_E['lightning'] <b>Другие ошибки:</b> {len(other_errors)}"
+            result_message += f"\n\n⚡️ <b>Другие ошибки:</b> {len(other_errors)}"
             if len(other_errors) <= 5:
                 result_message += f"\n{', '.join(['@' + u for u in other_errors])}"
             else:
                 result_message += f"\n{', '.join(['@' + u for u in other_errors[:5]])} ... и еще {len(other_errors) - 5}"
         
         # Общая статистика
-        result_message += f"\n\n_E['chart'] <b>Общая статистика:</b>"
-        result_message += f"\n• _E['check2'] Успешно: {sent_count}"
-        result_message += f"\n• _E['diamond'] Премиум: {len(premium_messages)}"
-        result_message += f"\n• _E['lightning'] Другие: {len(other_errors)}"
+        result_message += f"\n\n📊 <b>Общая статистика:</b>"
+        result_message += f"\n• ✅ Успешно: {sent_count}"
+        result_message += f"\n• 💎 Премиум: {len(premium_messages)}"
+        result_message += f"\n• ⚡️ Другие: {len(other_errors)}"
         
         return True, result_message
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка рассылки: {e}")
-        return False, f"_E['cross2'] <b>Критическая ошибка рассылки:</b>\n{str(e)}"
+        logging.error(f"❌ Ошибка рассылки: {e}")
+        return False, f"❌ <b>Критическая ошибка рассылки:</b>\n{str(e)}"
 
 @dp.message(Command("spamhelp"))
 async def spam_help_handler(message: Message):
@@ -6884,12 +6932,12 @@ async def spam_help_handler(message: Message):
         "2. <b>Нажмите кнопку START</b>\n"
         "3. <b>Ответьте на вопросы бота</b>\n"
         "4. <b>Подождите разблокировки</b> (обычно 1-24 часа)\n\n"
-        "_E['idea'] <b>Советы для избежания спам-блока:</b>\n"
+        "💡 <b>Советы для избежания спам-блока:</b>\n"
         "• Увеличьте задержку между сообщениями (10-30 сек)\n"
         "• Уменьшите лимит сообщений в минуту (5-10)\n"
         "• Чередуйте текст сообщений\n"
         "• Делайте перерывы между рассылками\n\n"
-        "_E['gear'] <b>Рекомендуемые настройки:</b>\n"
+        "⚙️ <b>Рекомендуемые настройки:</b>\n"
         "• Задержка: 15-30 секунд\n"
         "• Лимит: 5-10 сообщений/мин\n"
         "• Перерыв: 1-2 часа между рассылками"
@@ -6899,7 +6947,7 @@ async def spam_help_handler(message: Message):
         help_text,
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
             [InlineKeyboardButton(text="🧩 @spambot", url="https://t.me/spambot")],
-            [InlineKeyboardButton(text="_E['gear'] Настройки рассылки", callback_data='broadcast_settings')],
+            [InlineKeyboardButton(text="⚙️ Настройки рассылки", callback_data='broadcast_settings')],
             [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
         ])
     )
@@ -6931,7 +6979,7 @@ async def start_handler(message: Message):
                                 try:
                                     await bot.send_message(
                                         referrer_id,
-                                        "_E['confetti'] <b>Поздравляем!</b>\n\n"
+                                        "🎉 <b>Поздравляем!</b>\n\n"
                                         "Вы пригласили 5 друзей и получаете <b>бесплатный доступ на 1 день!</b>\n\n"
                                         "🚀 Теперь вы можете пользоваться ботом бесплатно!"
                                     )
@@ -6951,13 +6999,13 @@ async def start_handler(message: Message):
     # УВЕДОМЛЯЕМ АДМИНОВ ТОЛЬКО О НОВЫХ ПОЛЬЗОВАТЕЛЯХ
     if is_new_user:
         await notify_admins_with_referrer(
-            f"_E['person'] <b>НОВЫЙ ПОЛЬЗОВАТЕЛЬ</b>\n\n"
+            f"👤 <b>НОВЫЙ ПОЛЬЗОВАТЕЛЬ</b>\n\n"
             f"🆔 ID: {user_id}\n"
-            f"_E['person'] Имя: {first_name}\n"
-            f"_E['link'] Тег: @{username}\n"
+            f"👤 Имя: {first_name}\n"
+            f"🔗 Тег: @{username}\n"
             # Исправлено: убраны лишние фигурные скобки вокруг эмодзи
-            f"_E['chart'] Статус: {_E['check2'] if is_subscribed else _E['cross2']} {'Активен' if is_subscribed else 'Неактивен'}\n"
-            f"_E['target'] Тип: {'👥 По реферальной ссылке' if referrer_id else '🔍 Органический трафик'}",
+            f"📊 Статус: {_E['check2'] if is_subscribed else _E['cross2']} {'Активен' if is_subscribed else 'Неактивен'}\n"
+            f"🎯 Тип: {'👥 По реферальной ссылке' if referrer_id else '🔍 Органический трафик'}",
             user_id
         )
     else:
@@ -6966,15 +7014,15 @@ async def start_handler(message: Message):
     # Проверяем подписку при старте
     if not is_subscribed:
         subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['megaphone'] @rtc_reverv", url=CHANNEL_LINK)],
-            [InlineKeyboardButton(text="_E['check2'] Я подписался", callback_data="check_subscription")]
+            [InlineKeyboardButton(text="📣 @rtc_reverv", url=CHANNEL_LINK)],
+            [InlineKeyboardButton(text="✅ Я подписался", callback_data="check_subscription")]
         ])
         
         await message.answer(
-            f"{e['megaphone']} <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
-            f"{e['bell']} <b>Обязательные каналы:</b>\n"
-            f"{e['check']} @rtc_reverv\n\n"
-            f"{e['sparkle']} <b>После подписки нажмите кнопку 'Я подписался':</b>",
+            f"📣 <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
+            f"🔔 <b>Обязательные каналы:</b>\n"
+            f"✅ @rtc_reverv\n\n"
+            f"✨ <b>После подписки нажмите кнопку 'Я подписался':</b>",
             reply_markup=subscription_keyboard
         )
         return
@@ -6982,15 +7030,15 @@ async def start_handler(message: Message):
     user_subscription = get_user_subscription_type(user_id)
     
     await message.answer(
-        f"{e['sparkle']} <b>Добро пожаловать в RTC PARSER!</b>\n\n"
-        f"{e['target']} <i>Находим людей с NFT-подарками в Telegram</i>\n\n"
-        f"{e['diamond']} <b>Возможности:</b>\n"
-        f"{e['search']} Поиск людей с подарками\n"
-        f"{e['check']} Полный бесплатный доступ\n"
-        f"{e['megaphone']} Рассылка сообщений\n"
-        f"{e['people']} Реферальная система\n"
-        f"{e['lightning']} Быстрый и точный поиск\n\n"
-        f"{e['down']} <b>Выберите действие:</b>",
+        f"✨ <b>Добро пожаловать в RTC PARSER!</b>\n\n"
+        f"🎯 <i>Находим людей с NFT-подарками в Telegram</i>\n\n"
+        f"💎 <b>Возможности:</b>\n"
+        f"🔎 Поиск людей с подарками\n"
+        f"✅ Полный бесплатный доступ\n"
+        f"📣 Рассылка сообщений\n"
+        f"👥 Реферальная система\n"
+        f"⚡️ Быстрый и точный поиск\n\n"
+        f"⬇️ <b>Выберите действие:</b>",
         reply_markup=make_main_menu(user_subscription)
     )
 
@@ -7007,8 +7055,8 @@ async def start_girls_search(call: CallbackQuery, user_id: int, Kuperov_count: i
     
     msg = await call.message.answer(
         f"👩‍🦰 <b>Запускаем МЕГА поиск {Kuperov_count} девочек...</b>\n\n"
-        f"_E['chart'] Сложность: {difficulty_text}\n"
-        f"_E['idea'] Подписка: {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n"
+        f"📊 Сложность: {difficulty_text}\n"
+        f"💡 Подписка: {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n"
         f"🚀 <b>СУПЕР БЫСТРЫЙ РЕЖИМ!</b>\n"
         f"{progress_bar(0, Kuperov_count)}", 
         reply_markup=make_search_keyboard()
@@ -7053,7 +7101,7 @@ async def start_girls_search(call: CallbackQuery, user_id: int, Kuperov_count: i
         await bot.edit_message_text(
             chat_id=call.message.chat.id,
             message_id=msg.message_id,
-            text=f"_E['cross2'] <b>Произошла ошибка:</b>\n{str(e)}",
+            text=f"❌ <b>Произошла ошибка:</b>\n{str(e)}",
             reply_markup=make_search_keyboard()
         )
 
@@ -7071,9 +7119,9 @@ async def show_girls_search_results_page(chat_id: int, message_id: int, username
     
     # Создаем текст для текущей страницы
     result_text = (
-        f"_E['confetti'] <b>Найдено {len(usernames)} девочек с подарками!</b>\n\n"
-        f"_E['chart'] Сложность: {difficulty_text}\n"
-        f"_E['idea'] Подписка: {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n"
+        f"🎉 <b>Найдено {len(usernames)} девочек с подарками!</b>\n\n"
+        f"📊 Сложность: {difficulty_text}\n"
+        f"💡 Подписка: {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n"
         f"📄 Страница {page + 1}/{total_pages}\n\n"
     )
     
@@ -7082,9 +7130,9 @@ async def show_girls_search_results_page(chat_id: int, message_id: int, username
     for i, username in enumerate(current_page_users, start_index + 1):
         msg_text = "Привет,%20не%20продаешь%20Нфт%3F"
         link = f"https://t.me/{username}?text={msg_text}"
-        result_text += f"{i}. {_E['person']} @{username} - <a href=\"{link}\">{_E['gift']} Написать</a>\n"
+        result_text += f"{i}. 👤 @{username} - <a href=\"{link}\">🎁 Написать</a>\n"
     
-    result_text += f"\n_E['chart'] <b>Всего поисков:</b> {user_data['used_count'] if user_data else 0}"
+    result_text += f"\n📊 <b>Всего поисков:</b> {user_data['used_count'] if user_data else 0}"
     
     # Создаем клавиатуру с пагинацией
     keyboard = create_pagination_keyboard(page, total_pages, "girls_search_results")
@@ -7112,7 +7160,7 @@ async def show_girls_search_results_page(chat_id: int, message_id: int, username
                 custom_keyboard.append(nav_buttons)
             
             # Кнопка рассылки
-            custom_keyboard.append([InlineKeyboardButton(text="_E['megaphone'] Сделать рассылку", callback_data='broadcast_to_last_found')])
+            custom_keyboard.append([InlineKeyboardButton(text="📣 Сделать рассылку", callback_data='broadcast_to_last_found')])
             
             # Кнопка нового поиска
             custom_keyboard.append([
@@ -7140,7 +7188,7 @@ async def callback_girls_search_results_page(call: CallbackQuery):
         # Получаем последний поиск из базы данных
         last_search = get_last_search(user_id)
         if not last_search or not last_search['usernames']:
-            await call.answer("_E['cross2'] Данные поиска не найдены!", show_alert=True)
+            await call.answer("❌ Данные поиска не найдены!", show_alert=True)
             return
         
         usernames = last_search['usernames']
@@ -7168,7 +7216,7 @@ async def callback_girls_search_results_page(call: CallbackQuery):
         
     except Exception as e:
         logging.error(f"Error in girls pagination handler: {e}")
-        await call.answer("_E['cross2'] Ошибка переключения страницы", show_alert=True)
+        await call.answer("❌ Ошибка переключения страницы", show_alert=True)
 
 async def process_girls_search(chat_id, message_id, user_id, total_users_needed, difficulty="easy"):
     """Процесс поиска девочек с таймером и статистикой"""
@@ -7215,14 +7263,14 @@ async def process_girls_search(chat_id, message_id, user_id, total_users_needed,
                     if result_type == "found" and result and result not in usernames:
                         usernames.add(result)
                         found_count += 1
-                        logging.info(f"_E['check2'] ДЕВОЧКА {len(usernames)}/{total_users_needed}: {result}")
+                        logging.info(f"✅ ДЕВОЧКА {len(usernames)}/{total_users_needed}: {result}")
                     elif result_type == "male":
                         blocked_male_count += 1
                     elif result_type == "worker":
                         blocked_worker_count += 1
                 
                 except Exception as e:
-                    logging.debug(f"_E['warning'] Ошибка задачи: {e}")
+                    logging.debug(f"⚠️ Ошибка задачи: {e}")
                 
                 # Добавляем новые задачи
                 if len(usernames) < total_users_needed:
@@ -7261,11 +7309,11 @@ async def process_girls_search(chat_id, message_id, user_id, total_users_needed,
                     
                     progress_text = (
                         f"👩‍🦰 <b>Поиск девочек с подарками...</b>\n\n"
-                        f"_E['target'] <b>Цель:</b> {len(usernames)}/{total_users_needed}\n"
-                        f"_E['chart'] <b>Прогресс:</b> [{progress_bar}]\n\n"
-                        f"_E['lightning'] <b>Скорость:</b> {speed_per_second:.1f} запросов/сек\n"
+                        f"🎯 <b>Цель:</b> {len(usernames)}/{total_users_needed}\n"
+                        f"📊 <b>Прогресс:</b> [{progress_bar}]\n\n"
+                        f"⚡️ <b>Скорость:</b> {speed_per_second:.1f} запросов/сек\n"
                         f"⏱️ <b>Осталось:</b> {time_text}\n\n"
-                        f"_E['chart'] <b>Статистика:</b>\n"
+                        f"📊 <b>Статистика:</b>\n"
                         f"• Обработано: {processed_count}\n"
                         f"• Найдено: {len(usernames)}\n"
                         f"• Мужских: {blocked_male_count}\n"
@@ -7282,7 +7330,7 @@ async def process_girls_search(chat_id, message_id, user_id, total_users_needed,
                     
                 except Exception as e:
                     if "message is not modified" not in str(e):
-                        logging.debug(f"_E['warning'] Ошибка обновления: {e}")
+                        logging.debug(f"⚠️ Ошибка обновления: {e}")
         
         for task in tasks:
             task.cancel()
@@ -7291,7 +7339,7 @@ async def process_girls_search(chat_id, message_id, user_id, total_users_needed,
     total_time = asyncio.get_event_loop().time() - start_time
     average_speed = processed_count / max(total_time, 1)
     
-    logging.info(f"_E['chart'] ИТОГ ПОИСКА ДЕВОЧЕК:")
+    logging.info(f"📊 ИТОГ ПОИСКА ДЕВОЧЕК:")
     logging.info(f"   Найдено: {len(usernames)}/{total_users_needed}")
     logging.info(f"   Обработано: {processed_count}")
     logging.info(f"   Время: {total_time:.1f} сек")
@@ -7345,7 +7393,7 @@ async def parse_username_and_check_cyrillic_simple(session, url, difficulty, ski
                                 
                                 # Проверяем валидность
                                 if re.match(r'^[a-zA-Z0-9_]+$', username):
-                                    logging.info(f"_E['check2'] Найден пользователь: {username}")
+                                    logging.info(f"✅ Найден пользователь: {username}")
                                     return username, "found"
         
         skip_reasons["no_username"] += 1
@@ -7356,7 +7404,7 @@ async def parse_username_and_check_cyrillic_simple(session, url, difficulty, ski
         return None, "skipped"
     except Exception as e:
         skip_reasons["other"] += 1
-        logging.debug(f"_E['warning'] Ошибка парсинга: {e}")
+        logging.debug(f"⚠️ Ошибка парсинга: {e}")
         return None, "error"
 
 async def parse_username_and_check_girl(session, url, difficulty="easy"):
@@ -7512,11 +7560,11 @@ async def parse_username_and_check_girl(session, url, difficulty="easy"):
             'martha', 'mart', 'mar', 'martha', 'mart',
         ]
         
-        # Сначала проверяем юзернейм - это БЫСТРО
-        has_girl_username = any(usern in username_lower for usern in girl_usernames)
+        # Сначала проверяем юзернейм - это БЫСТРО (точное совпадение по токенам, без подстрок)
+        has_girl_username = matches_female_name(username, set(girl_usernames) | EXTRA_FEMALE_NAMES)
         
         if has_girl_username:
-            logging.info(f"_E['check2'] Girl found by username: {username}")
+            logging.info(f"✅ Girl found by username: {username}")
             return username, "found"
         
         # Если юзернейм не подошел, проверяем никнейм
@@ -7649,17 +7697,17 @@ async def parse_username_and_check_girl(session, url, difficulty="easy"):
 ]
         nickname_lower = nickname.lower()
         
-        # Проверяем наличие указанных имен в nickname
-        has_girl_name = any(name in nickname_lower for name in girl_names)
+        # Проверяем наличие указанных имен в nickname (точное совпадение по токенам)
+        has_girl_name = matches_female_name(nickname, set(girl_names) | EXTRA_FEMALE_NAMES)
         
         if has_girl_name:
-            logging.info(f"_E['check2'] Girl found by nickname: {username} (nickname: {nickname})")
+            logging.info(f"✅ Girl found by nickname: {username} (nickname: {nickname})")
             return username, "found"
 
         return None, "skipped"
         
     except Exception as e:
-        logging.warning(f"_E['warning'] Ошибка парсинга {url}: {e}")
+        logging.warning(f"⚠️ Ошибка парсинга {url}: {e}")
         return None, "error"
 
 @dp.message(Command("admin"))
@@ -7667,7 +7715,7 @@ async def admin_handler(message: Message):
     user_id = message.from_user.id
     
     if not is_admin(user_id):
-        await message.answer("_E['cross2'] У вас нет доступа к админ-панели!")
+        await message.answer("❌ У вас нет доступа к админ-панели!")
         return
     
     await message.answer(
@@ -7692,14 +7740,14 @@ async def check_subscription_callback(call: CallbackQuery):
 
             try:
                 await call.message.edit_text(
-                    "_E['check2'] <b>Подписка подтверждена!</b>\n\n"
+                    "✅ <b>Подписка подтверждена!</b>\n\n"
                     "Добро пожаловать 🙌\n"
                     "👇 Выберите действие:",
                     reply_markup=make_main_menu(user_subscription)
                 )
             except:
                 await call.message.answer(
-                    "_E['check2'] <b>Подписка подтверждена!</b>\n\n"
+                    "✅ <b>Подписка подтверждена!</b>\n\n"
                     "Добро пожаловать 🙌\n"
                     "👇 Выберите действие:",
                     reply_markup=make_main_menu(user_subscription)
@@ -7707,7 +7755,7 @@ async def check_subscription_callback(call: CallbackQuery):
 
         else:
             keyboard = InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text="_E['megaphone'] Подписаться", url="https://t.me/rtc_reverv")],
+                [InlineKeyboardButton(text="📣 Подписаться", url="https://t.me/rtc_reverv")],
                 [InlineKeyboardButton(text="🔄 Проверить снова", callback_data="check_subscription")]
             ])
 
@@ -7732,19 +7780,19 @@ async def debug_subscription_callback(call: CallbackQuery):
         # Проверяем первый канал
         try:
             member1 = await bot.get_chat_member(chat_id="@rtc_reverv", user_id=user_id)
-            channel1_info = f"_E['check2'] @rtc_reverv: {member1.status}"
+            channel1_info = f"✅ @rtc_reverv: {member1.status}"
             channel1_subscribed = member1.status in ['member', 'administrator', 'creator']
         except Exception as e:
-            channel1_info = f"_E['cross2'] @rtc_reverv: ошибка - {str(e)}"
+            channel1_info = f"❌ @rtc_reverv: ошибка - {str(e)}"
             channel1_subscribed = False
         
         # Проверяем второй канал
         try:
             member2 = await bot.get_chat_member(chat_id=-1002179471025, user_id=user_id)
-            channel2_info = f"_E['check2'] -1002179471025: {member2.status}"
+            channel2_info = f"✅ -1002179471025: {member2.status}"
             channel2_subscribed = member2.status not in ['left', 'kicked']
         except Exception as e:
-            channel2_info = f"_E['cross2'] -1002179471025: ошибка - {str(e)}"
+            channel2_info = f"❌ -1002179471025: ошибка - {str(e)}"
             channel2_subscribed = False
         
         # Общий результат
@@ -7752,14 +7800,14 @@ async def debug_subscription_callback(call: CallbackQuery):
         
         debug_text = (
             f"🔍 <b>Отладка подписки для {user_id}</b>\n\n"
-            f"{_E['chart']} <b>Статусы каналов:</b>\n"
+            f"📊 <b>Статусы каналов:</b>\n"
             f"• {channel1_info}\n"
             f"• {channel2_info}\n\n"
             f"📋 <b>Результаты проверки:</b>\n"
             f"• @rtc_reverv: {_E['check2'] if channel1_subscribed else _E['cross2']} {'Подписан' if channel1_subscribed else 'Не подписан'}\n"
             f"• -1002179471025: {_E['check2'] if channel2_subscribed else _E['cross2']} {'Заявка принята' if channel2_subscribed else 'Нет заявки'}\n\n"
-            f"{_E['target']} <b>Итог:</b> {_E['check2'] if total_subscribed else _E['cross2']} {'Доступ разрешен' if total_subscribed else 'Доступ запрещен'}\n\n"
-            f"{_E['idea']} <b>Примечание:</b> Для закрытого канала заявка считается поданной при любом статусе кроме 'left' и 'kicked'"
+            f"🎯 <b>Итог:</b> {_E['check2'] if total_subscribed else _E['cross2']} {'Доступ разрешен' if total_subscribed else 'Доступ запрещен'}\n\n"
+            f"💡 <b>Примечание:</b> Для закрытого канала заявка считается поданной при любом статусе кроме 'left' и 'kicked'"
         )
         
         await call.message.edit_text(
@@ -7771,27 +7819,27 @@ async def debug_subscription_callback(call: CallbackQuery):
         )
         
     except Exception as e:
-        await call.answer(f"_E['cross2'] Ошибка отладки: {str(e)}", show_alert=True)
+        await call.answer(f"❌ Ошибка отладки: {str(e)}", show_alert=True)
 
 @dp.callback_query(F.data == 'subscriptions_required')
 async def callback_subscriptions_required(call: CallbackQuery):
-    await call.answer("_E['cross2'] Для использования этой функции нужна подписка!", show_alert=True)
+    await call.answer("❌ Для использования этой функции нужна подписка!", show_alert=True)
 
 @dp.callback_query(F.data == 'admin_payments_stats')
 async def admin_payments_stats_handler(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     stats = get_purchase_stats()
     pending_payments = get_pending_payments()
     
     stats_text = (
-        "_E['chart'] <b>Статистика платежей</b>\n\n"
-        f"_E['money_bag'] <b>Общая выручка:</b> {stats['total_revenue']}_E['star']\n"
+        "📊 <b>Статистика платежей</b>\n\n"
+        f"💰 <b>Общая выручка:</b> {stats['total_revenue']}⭐️\n"
         f"🎫 <b>Всего покупок:</b> {stats['total_purchases']}\n\n"
-        f"_E['idea'] <b>Лайт подписок:</b> {stats['light_count']}\n"
-        f"_E['star'] <b>Премиум подписок:</b> {stats['premium_count']}\n\n"
+        f"💡 <b>Лайт подписок:</b> {stats['light_count']}\n"
+        f"⭐️ <b>Премиум подписок:</b> {stats['premium_count']}\n\n"
         f"⏳ <b>Ожидающие заявки:</b> {len(pending_payments)}\n"
     )
     
@@ -7808,20 +7856,20 @@ async def callback_broadcast_send(call: CallbackQuery):
     user_id = call.from_user.id
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     # Получаем сохраненных пользователей из БАЗЫ ДАННЫХ
     last_search = get_last_search(user_id)
     
     if not last_search or not last_search['usernames']:
-        await call.answer("_E['cross2'] Не найдены пользователи для рассылки! Сначала выполните поиск.", show_alert=True)
+        await call.answer("❌ Не найдены пользователи для рассылки! Сначала выполните поиск.", show_alert=True)
         return
     
     usernames = last_search['usernames']
     
     msg = await call.message.edit_text(
-        f"_E['megaphone'] <b>Начинаем рассылку для {len(usernames)} пользователей...</b>\n\n"
+        f"📣 <b>Начинаем рассылку для {len(usernames)} пользователей...</b>\n\n"
         f"⏱️ Задержка: {get_broadcast_settings(user_id)['delay_between_messages']} сек.\n"
         f"📝 Сообщение: {get_broadcast_settings(user_id)['message_text'][:50]}...\n\n"
         f"🔄 Подготовка к отправке..."
@@ -7841,7 +7889,7 @@ async def callback_broadcast_send(call: CallbackQuery):
             # Для спам-блока показываем специальные кнопки
             keyboard = InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="🧩 @spambot", url="https://t.me/spambot")],
-                [InlineKeyboardButton(text="_E['gear'] Изменить настройки", callback_data='broadcast_settings')],
+                [InlineKeyboardButton(text="⚙️ Изменить настройки", callback_data='broadcast_settings')],
                 [InlineKeyboardButton(text="🚫 Помощь по спаму", callback_data='spam_help')],
                 [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
             ])
@@ -7861,25 +7909,25 @@ async def callback_broadcast_send(call: CallbackQuery):
         await bot.edit_message_text(
             chat_id=call.message.chat.id,
             message_id=msg.message_id,
-            text=f"_E['cross2'] <b>Ошибка рассылки:</b>\n{str(e)}",
+            text=f"❌ <b>Ошибка рассылки:</b>\n{str(e)}",
             reply_markup=make_back_menu()
         )
 
 @dp.callback_query(F.data.startswith('admin_reject_payment_'))
 async def callback_admin_reject_payment(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     payment_id = int(call.data.replace('admin_reject_payment_', ''))
     payment_info = get_manual_payment(payment_id)
     
     if not payment_info:
-        await call.answer("_E['cross2'] Заявка не найдена!", show_alert=True)
+        await call.answer("❌ Заявка не найдена!", show_alert=True)
         return
     
     if payment_info['status'] != PaymentStatus.PENDING:
-        await call.answer("_E['cross2'] Эта заявка уже обработана!", show_alert=True)
+        await call.answer("❌ Эта заявка уже обработана!", show_alert=True)
         return
     
     # Обновляем статус платежа
@@ -7888,11 +7936,11 @@ async def callback_admin_reject_payment(call: CallbackQuery):
     if success:
         # Уведомляем админов об отклонении оплаты
         await notify_admins(
-            f"_E['cross2'] <b>Ручная оплата отклонена</b>\n\n"
+            f"❌ <b>Ручная оплата отклонена</b>\n\n"
             f"🆔 ID заявки: {payment_id}\n"
-            f"_E['person'] Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
+            f"👤 Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
             f"🎫 Подписка: {SUBSCRIPTION_FEATURES[payment_info['subscription_type']]['name']}\n"
-            f"_E['money_bag'] Сумма: {payment_info['amount_rub']} RUB\n"
+            f"💰 Сумма: {payment_info['amount_rub']} RUB\n"
             f"👑 Отклонил: {call.from_user.first_name}\n"
             f"⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
         )
@@ -7901,9 +7949,9 @@ async def callback_admin_reject_payment(call: CallbackQuery):
         try:
             await bot.send_message(
                 chat_id=payment_info['user_id'],
-                text=f"_E['cross2'] <b>Ваша заявка на оплату отклонена</b>\n\n"
+                text=f"❌ <b>Ваша заявка на оплату отклонена</b>\n\n"
                      f"🆔 <b>ID заявки:</b> {payment_id}\n\n"
-                     f"_E['idea'] <b>Возможные причины:</b>\n"
+                     f"💡 <b>Возможные причины:</b>\n"
                      f"• Нечеткое фото чека\n"
                      f"• Неверная сумма\n"
                      f"• Подозрительная активность\n\n"
@@ -7911,40 +7959,40 @@ async def callback_admin_reject_payment(call: CallbackQuery):
                 reply_markup=make_back_menu()
             )
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось уведомить пользователя: {e}")
+            logging.error(f"❌ Не удалось уведомить пользователя: {e}")
         
         await call.message.edit_text(
-            f"_E['cross2'] <b>Заявка #{payment_id} отклонена!</b>\n\n"
-            f"_E['person'] Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
+            f"❌ <b>Заявка #{payment_id} отклонена!</b>\n\n"
+            f"👤 Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
             f"🎫 Подписка: {SUBSCRIPTION_FEATURES[payment_info['subscription_type']]['name']}\n"
-            f"_E['money_bag'] Сумма: {payment_info['amount_rub']} RUB\n\n"
-            f"_E['cross2'] Пользователь уведомлен об отклонении.",
+            f"💰 Сумма: {payment_info['amount_rub']} RUB\n\n"
+            f"❌ Пользователь уведомлен об отклонении.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="📋 К списку заявок", callback_data='admin_payments_list')]
             ])
         )
     else:
-        await call.answer("_E['cross2'] Ошибка обновления статуса!", show_alert=True)
+        await call.answer("❌ Ошибка обновления статуса!", show_alert=True)
     
 @dp.callback_query(F.data == 'broadcast_to_last_found')
 async def callback_broadcast_to_last_found(call: CallbackQuery):
     user_id = call.from_user.id
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     # Получаем сохраненных пользователей из БАЗЫ ДАННЫХ
     last_search = get_last_search(user_id)
     
     if not last_search or not last_search['usernames']:
-        await call.answer("_E['cross2'] Не найдены пользователи для рассылки! Сначала выполните поиск.", show_alert=True)
+        await call.answer("❌ Не найдены пользователи для рассылки! Сначала выполните поиск.", show_alert=True)
         return
     
     usernames = last_search['usernames']
     
     msg = await call.message.edit_text(
-        f"_E['megaphone'] <b>Начинаем рассылку для {len(usernames)} пользователей...</b>\n\n"
+        f"📣 <b>Начинаем рассылку для {len(usernames)} пользователей...</b>\n\n"
         f"⏱️ Задержка: {get_broadcast_settings(user_id)['delay_between_messages']} сек.\n"
         f"📝 Сообщение: {get_broadcast_settings(user_id)['message_text'][:50]}...\n\n"
         f"🔄 Подготовка к отправке..."
@@ -7964,7 +8012,7 @@ async def callback_broadcast_to_last_found(call: CallbackQuery):
             # Для спам-блока показываем специальные кнопки
             keyboard = InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="🧩 @spambot", url="https://t.me/spambot")],
-                [InlineKeyboardButton(text="_E['gear'] Изменить настройки", callback_data='broadcast_settings')],
+                [InlineKeyboardButton(text="⚙️ Изменить настройки", callback_data='broadcast_settings')],
                 [InlineKeyboardButton(text="🚫 Помощь по спаму", callback_data='spam_help')],
                 [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
             ])
@@ -7984,7 +8032,7 @@ async def callback_broadcast_to_last_found(call: CallbackQuery):
         await bot.edit_message_text(
             chat_id=call.message.chat.id,
             message_id=msg.message_id,
-            text=f"_E['cross2'] <b>Ошибка рассылки:</b>\n{str(e)}",
+            text=f"❌ <b>Ошибка рассылки:</b>\n{str(e)}",
             reply_markup=make_back_menu()
         )
 
@@ -7993,26 +8041,26 @@ async def callback_stars_donate(call: CallbackQuery):
     """Донат звездами через Telegram"""
     try:
         await call.message.edit_text(
-            "_E['star'] <b>Поддержка звездами</b>\n\n"
+            "⭐️ <b>Поддержка звездами</b>\n\n"
             "Выберите сумму для поддержки:\n\n"
-            "_E['idea'] Любая сумма приветствуется!",
+            "💡 Любая сумма приветствуется!",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [
-                    InlineKeyboardButton(text="1_E['star']", callback_data='support_1'),
-                    InlineKeyboardButton(text="5_E['star']", callback_data='support_5'),
-                    InlineKeyboardButton(text="10_E['star']", callback_data='support_10')
+                    InlineKeyboardButton(text="1⭐️", callback_data='support_1'),
+                    InlineKeyboardButton(text="5⭐️", callback_data='support_5'),
+                    InlineKeyboardButton(text="10⭐️", callback_data='support_10')
                 ],
                 [
-                    InlineKeyboardButton(text="20_E['star']", callback_data='support_20'),
-                    InlineKeyboardButton(text="50_E['star']", callback_data='support_50'),
-                    InlineKeyboardButton(text="100_E['star']", callback_data='support_100')
+                    InlineKeyboardButton(text="20⭐️", callback_data='support_20'),
+                    InlineKeyboardButton(text="50⭐️", callback_data='support_50'),
+                    InlineKeyboardButton(text="100⭐️", callback_data='support_100')
                 ],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='support')]
             ])
         )
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_stars_donate: {e}")
-        await call.answer("_E['cross2'] Произошла ошибка", show_alert=True)
+        logging.error(f"❌ Ошибка в callback_stars_donate: {e}")
+        await call.answer("❌ Произошла ошибка", show_alert=True)
 
 @dp.callback_query(F.data == 'main_menu')
 @check_ban
@@ -8021,12 +8069,12 @@ async def callback_main_menu(call: CallbackQuery):
     
     if not await check_subscription(user_id):
         subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['megaphone'] @rtc_reverv", url=CHANNEL_LINK)],
-            [InlineKeyboardButton(text="_E['check2'] Я подписался", callback_data="check_subscription")]
+            [InlineKeyboardButton(text="📣 @rtc_reverv", url=CHANNEL_LINK)],
+            [InlineKeyboardButton(text="✅ Я подписался", callback_data="check_subscription")]
         ])
         
         await call.message.answer(
-            "_E['megaphone'] <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
+            "📣 <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
             "👉 <b>Обязательные каналы:</b>\n"
             "• @rtc_reverv\n"
             "2. Закрытый канал -1002179471025\n\n"
@@ -8039,13 +8087,13 @@ async def callback_main_menu(call: CallbackQuery):
     
     try:
         await call.message.edit_text(
-            "_E['sparkle'] <b>Добро пожаловать в RTC PARSER!</b>\n\n"
+            "✨ <b>Добро пожаловать в RTC PARSER!</b>\n\n"
             "👇 <b>Выберите действие:</b>",
             reply_markup=make_main_menu(user_subscription)
         )
     except Exception as e:
         await call.message.answer(
-            "_E['sparkle'] <b>Добро пожаловать в RTC PARSER!</b>\n\n"
+            "✨ <b>Добро пожаловать в RTC PARSER!</b>\n\n"
             "👇 <b>Выберите действие:</b>",
             reply_markup=make_main_menu(user_subscription)
         )
@@ -8056,12 +8104,12 @@ async def callback_subscriptions(call: CallbackQuery):
     
     if not await check_subscription(user_id):
         subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['megaphone'] @rtc_reverv", url=CHANNEL_LINK)],
-            [InlineKeyboardButton(text="_E['check2'] Я подписался", callback_data="check_subscription")]
+            [InlineKeyboardButton(text="📣 @rtc_reverv", url=CHANNEL_LINK)],
+            [InlineKeyboardButton(text="✅ Я подписался", callback_data="check_subscription")]
         ])
         
         await call.message.answer(
-            "_E['megaphone'] <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
+            "📣 <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
             "👉 <b>Обязательные каналы:</b>\n"
             "• @rtc_reverv\n"
             "2. Закрытый канал -1002179471025\n\n"
@@ -8076,19 +8124,19 @@ async def callback_subscriptions(call: CallbackQuery):
     
     # Добавляем информацию о текущем статусе
     if current_subscription == SubscriptionType.NONE:
-        text += "_E['lock'] <b>У вас нет активной подписки</b>\n\n"
+        text += "🔒 <b>У вас нет активной подписки</b>\n\n"
     else:
-        text += f"_E['check2'] <b>Ваша текущая подписка: {SUBSCRIPTION_FEATURES[current_subscription]['name']}</b>\n\n"
+        text += f"✅ <b>Ваша текущая подписка: {SUBSCRIPTION_FEATURES[current_subscription]['name']}</b>\n\n"
     
     light_features = SUBSCRIPTION_FEATURES[SubscriptionType.LIGHT]
-    text += f"_E['idea'] <b>Лайт - {SUBSCRIPTION_PRICES[SubscriptionType.LIGHT]}_E['star']</b>\n"
+    text += f"💡 <b>Лайт - {SUBSCRIPTION_PRICES[SubscriptionType.LIGHT]}⭐️</b>\n"
     for feature in light_features["features"]:
         text += f"{feature}\n"
     text += f"\nКоличества: {', '.join(map(str, light_features['search_limits']))}\n"
     text += f"Сложности: {', '.join(['Легкая'])}\n\n"
     
     premium_features = SUBSCRIPTION_FEATURES[SubscriptionType.PREMIUM]
-    text += f"_E['star'] <b>Премиум - {SUBSCRIPTION_PRICES[SubscriptionType.PREMIUM]}_E['star']</b>\n"
+    text += f"⭐️ <b>Премиум - {SUBSCRIPTION_PRICES[SubscriptionType.PREMIUM]}⭐️</b>\n"
     for feature in premium_features["features"]:
         text += f"{feature}\n"
     text += f"\nКоличества: {', '.join(map(str, premium_features['search_limits']))}\n"
@@ -8111,15 +8159,15 @@ async def callback_subscribe(call: CallbackQuery):
     
     if not await check_subscription(user_id):
         subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['megaphone'] @rtc_reverv", url=CHANNEL_LINK)],
-            [InlineKeyboardButton(text="_E['check2'] Я подписался", callback_data="check_subscription")]
+            [InlineKeyboardButton(text="📣 @rtc_reverv", url=CHANNEL_LINK)],
+            [InlineKeyboardButton(text="✅ Я подписался", callback_data="check_subscription")]
         ])
         
         await call.message.answer(
-            f"{e['megaphone']} <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
-            f"{e['bell']} <b>Обязательные каналы:</b>\n"
-            f"{e['check']} @rtc_reverv\n\n"
-            f"{e['sparkle']} <b>После подписки нажмите кнопку 'Я подписался':</b>",
+            f"📣 <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
+            f"🔔 <b>Обязательные каналы:</b>\n"
+            f"✅ @rtc_reverv\n\n"
+            f"✨ <b>После подписки нажмите кнопку 'Я подписался':</b>",
             reply_markup=subscription_keyboard
         )
         return
@@ -8127,12 +8175,12 @@ async def callback_subscribe(call: CallbackQuery):
     subscription_type = call.data.replace('subscribe_', '')
     
     if subscription_type not in SUBSCRIPTION_PRICES:
-        await call.answer("_E['cross2'] Неверный тип подписки")
+        await call.answer("❌ Неверный тип подписки")
         return
     
     current_subscription = get_user_subscription_type(user_id)
     if current_subscription == subscription_type:
-        await call.answer("_E['check2'] У вас уже активна эта подписка!")
+        await call.answer("✅ У вас уже активна эта подписка!")
         return
     
     price = SUBSCRIPTION_PRICES[subscription_type]
@@ -8150,8 +8198,8 @@ async def callback_subscribe(call: CallbackQuery):
             start_parameter=f"subscribe_{subscription_type}"
         )
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка создания инвойса: {e}")
-        await call.answer("_E['cross2'] Ошибка создания платежа. Пожалуйста, выберите другой способ оплаты.", show_alert=True)
+        logging.error(f"❌ Ошибка создания инвойса: {e}")
+        await call.answer("❌ Ошибка создания платежа. Пожалуйста, выберите другой способ оплаты.", show_alert=True)
 
 def get_adaptive_speed_settings(Kuperov_count: int):
     """Адаптивные настройки скорости с защитой от перегрузки"""
@@ -8277,21 +8325,21 @@ async def process_rub_payment(call: CallbackQuery, subscription_type: str):
     payment_text = (
         f"🏦 <b>Оплата в рублях</b>\n\n"
         f"🎫 <b>Подписка:</b> {subscription_name}\n"
-        f"_E['diamond'] Стоимость в звездах: {stars_price}_E['star']\n"
+        f"💎 Стоимость в звездах: {stars_price}⭐️\n"
         f"🇷🇺 Стоимость в рублях: {rub_price} RUB\n\n"
         f"<b>Реквизиты для оплаты:</b> ➡️ Перевод на карту\n\n"
-        f"_E['person'] <b>Получатель:</b> {PAYMENT_DETAILS['recipient']}\n"
+        f"👤 <b>Получатель:</b> {PAYMENT_DETAILS['recipient']}\n"
         f"🤩 <b>Реквизиты:</b> Номер телефона:\n"
         f"<code>{PAYMENT_DETAILS['phone_number']}</code>\n\n"
         f"❗️<b>{PAYMENT_DETAILS['bank']}</b>\n"
-        f"_E['money_bag'] <b>Сумма:</b> {rub_price} RUB 🇷🇺\n\n"
-        f"_E['check2'] После оплаты нажмите «Подтвердить оплату» ⤵️"
+        f"💰 <b>Сумма:</b> {rub_price} RUB 🇷🇺\n\n"
+        f"✅ После оплаты нажмите «Подтвердить оплату» ⤵️"
     )
     
     await call.message.edit_text(
         payment_text,
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['check2'] Подтвердить оплату", callback_data=f'confirm_rub_{subscription_type}')],
+            [InlineKeyboardButton(text="✅ Подтвердить оплату", callback_data=f'confirm_rub_{subscription_type}')],
             [InlineKeyboardButton(text="◀️ Назад к подпискам", callback_data='subscriptions')]
         ])
     )
@@ -8302,12 +8350,12 @@ async def callback_broadcast_menu(call: CallbackQuery):
     
     if not await check_subscription(user_id):
         subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['megaphone'] @rtc_reverv", url=CHANNEL_LINK)],
-            [InlineKeyboardButton(text="_E['check2'] Я подписался", callback_data="check_subscription")]
+            [InlineKeyboardButton(text="📣 @rtc_reverv", url=CHANNEL_LINK)],
+            [InlineKeyboardButton(text="✅ Я подписался", callback_data="check_subscription")]
         ])
         
         await call.message.answer(
-            "_E['megaphone'] <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
+            "📣 <b>Для использования бота необходимо подписаться на наши каналы!</b>\n\n"
             "👉 <b>Обязательные каналы:</b>\n"
             "• @rtc_reverv\n"
             "2. Закрытый канал -1002179471025\n\n"
@@ -8317,20 +8365,20 @@ async def callback_broadcast_menu(call: CallbackQuery):
         return
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     credentials = get_user_credentials(user_id)
-    session_status = "_E['check2'] Активна" if credentials and credentials['session_active'] else "_E['cross2'] Не активна"
+    session_status = "✅ Активна" if credentials and credentials['session_active'] else "❌ Не активна"
     
     await call.message.edit_text(
-        f"_E['megaphone'] <b>Меню рассылки</b>\n\n"
+        f"📣 <b>Меню рассылки</b>\n\n"
         f"🔐 Статус сессии: {session_status}\n\n"
         "💫 <b>Возможности:</b>\n"
         "• 🔐 Аутентификация в аккаунт\n"
-        "• _E['gear'] Настройка сообщения\n"
+        "• ⚙️ Настройка сообщения\n"
         "• 🚀 Массовая рассылка\n"
-        "• _E['chart'] Отслеживание прогресса\n\n"
+        "• 📊 Отслеживание прогресса\n\n"
         "👇 <b>Выберите действие:</b>",
         reply_markup=make_broadcast_menu_keyboard()
     )
@@ -8342,7 +8390,7 @@ async def callback_confirm_rub_payment(call: CallbackQuery, state: FSMContext):
     subscription_type = call.data.replace('confirm_rub_', '')
     
     if subscription_type not in SUBSCRIPTION_PRICES:
-        await call.answer("_E['cross2'] Неверный тип подписки")
+        await call.answer("❌ Неверный тип подписки")
         return
     
     stars_price = SUBSCRIPTION_PRICES[subscription_type]
@@ -8369,7 +8417,7 @@ async def callback_broadcast_auth(call: CallbackQuery, state: FSMContext):
     user_id = call.from_user.id
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     credentials = get_user_credentials(user_id)
@@ -8377,7 +8425,7 @@ async def callback_broadcast_auth(call: CallbackQuery, state: FSMContext):
     if credentials and credentials['session_active']:
         await call.message.edit_text(
             "🔐 <b>Сессия уже активна!</b>\n\n"
-            "_E['check2'] Ваша сессия Telethon уже настроена и активна.\n\n"
+            "✅ Ваша сессия Telethon уже настроена и активна.\n\n"
             "Что вы хотите сделать?",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="🔄 Перезаписать credentials", callback_data='reauth_credentials')],
@@ -8408,7 +8456,7 @@ async def callback_broadcast_auth(call: CallbackQuery, state: FSMContext):
             "2. Подтвердить вход кодом\n\n"
             f"🆔 <b>API ID:</b> {API_ID}\n"
             f"🔑 <b>API Hash:</b> {API_HASH[:10]}...\n\n"
-            "_E['lock'] <b>Ваши данные хранятся безопасно и не передаются третьим лицам!</b>\n\n"
+            "🔒 <b>Ваши данные хранятся безопасно и не передаются третьим лицам!</b>\n\n"
             "👇 Нажмите кнопку чтобы начать настройку:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="🚀 Начать настройку", callback_data='setup_credentials')],
@@ -8421,7 +8469,7 @@ async def callback_broadcast_auth(call: CallbackQuery, state: FSMContext):
 async def callback_setup_credentials(call: CallbackQuery, state: FSMContext):
     await call.message.edit_text(
         "🔐 <b>Введите номер телефона</b>\n\n"
-        "_E['phone'] <b>Введите номер в международном формате:</b>\n"
+        "📱 <b>Введите номер в международном формате:</b>\n"
         "<code>+79123456789</code>\n\n"
         "✏️ <b>Введите ваш номер телефона:</b>",
         reply_markup=make_back_menu()
@@ -8433,7 +8481,7 @@ async def process_phone(message: Message, state: FSMContext):
     phone = message.text.strip()
     
     if not phone.startswith('+') or len(phone) < 10:
-        await message.answer("_E['cross2'] <b>Неверный формат номера!</b>\nИспользуйте международный формат (+79123456789):")
+        await message.answer("❌ <b>Неверный формат номера!</b>\nИспользуйте международный формат (+79123456789):")
         return
     
     success = save_user_credentials(
@@ -8443,7 +8491,7 @@ async def process_phone(message: Message, state: FSMContext):
     
     if success:
         await message.answer(
-            "_E['check2'] <b>Phone успешно сохранен!</b>\n\n"
+            "✅ <b>Phone успешно сохранен!</b>\n\n"
             f"📋 <b>Сохраненные данные:</b>\n"
             f"• Phone: {phone}\n\n"
             "Теперь необходимо активировать сессию. Нажмите кнопку ниже:",
@@ -8454,7 +8502,7 @@ async def process_phone(message: Message, state: FSMContext):
         )
     else:
         await message.answer(
-            "_E['cross2'] <b>Ошибка сохранения phone!</b>\n\n"
+            "❌ <b>Ошибка сохранения phone!</b>\n\n"
             "Попробуйте еще раз:",
             reply_markup=make_back_menu()
         )
@@ -8470,39 +8518,39 @@ async def check_my_subscription(message: Message):
         subscription_name = SUBSCRIPTION_FEATURES[subscription_type]['name']
         
         await message.answer(
-            f"_E['chart'] <b>Ваша подписка:</b> {subscription_name}\n"
+            f"📊 <b>Ваша подписка:</b> {subscription_name}\n"
             f"🆔 User ID: {user_id}\n"
-            f"_E['idea'] Тип: {subscription_type}\n\n"
+            f"💡 Тип: {subscription_type}\n\n"
             f"Если подписка отображается неверно, обратитесь к администратору."
         )
     else:
-        await message.answer("_E['cross2'] Пользователь не найден в базе данных")
+        await message.answer("❌ Пользователь не найден в базе данных")
 @dp.message(Command("fix_subscription"))
 async def fix_subscription(message: Message):
     user_id = message.from_user.id
     
     if not is_admin(user_id):
-        await message.answer("_E['cross2'] У вас нет доступа к этой команде!")
+        await message.answer("❌ У вас нет доступа к этой команде!")
         return
     
     try:
         # Формат: /fix_subscription USER_ID SUBSCRIPTION_TYPE
         parts = message.text.split()
         if len(parts) != 3:
-            await message.answer("_E['cross2'] Формат команды: /fix_subscription USER_ID SUBSCRIPTION_TYPE")
+            await message.answer("❌ Формат команды: /fix_subscription USER_ID SUBSCRIPTION_TYPE")
             return
         
         target_user_id = int(parts[1])
         subscription_type = parts[2]
         
         if subscription_type not in [SubscriptionType.LIGHT, SubscriptionType.PREMIUM]:
-            await message.answer("_E['cross2'] Неверный тип подписки. Используйте: light или premium")
+            await message.answer("❌ Неверный тип подписки. Используйте: light или premium")
             return
         
         # Получаем данные пользователя
         user_data = get_user_from_db(target_user_id)
         if not user_data:
-            await message.answer("_E['cross2'] Пользователь не найден")
+            await message.answer("❌ Пользователь не найден")
             return
         
         # Обновляем подписку
@@ -8515,15 +8563,15 @@ async def fix_subscription(message: Message):
         
         if success:
             await message.answer(
-                f"_E['check2'] Подписка пользователя {target_user_id} успешно изменена на {subscription_type}"
+                f"✅ Подписка пользователя {target_user_id} успешно изменена на {subscription_type}"
             )
         else:
-            await message.answer("_E['cross2'] Ошибка обновления подписки")
+            await message.answer("❌ Ошибка обновления подписки")
             
     except ValueError:
-        await message.answer("_E['cross2'] Неверный формат USER_ID")
+        await message.answer("❌ Неверный формат USER_ID")
     except Exception as e:
-        await message.answer(f"_E['cross2'] Ошибка: {str(e)}")
+        await message.answer(f"❌ Ошибка: {str(e)}")
 
 @dp.callback_query(F.data == 'spam_help')
 async def callback_spam_help(call: CallbackQuery):
@@ -8535,7 +8583,7 @@ async def callback_spam_help(call: CallbackQuery):
         "2. <b>Нажмите кнопку START</b>\n"
         "3. <b>Ответьте на вопросы бота</b>\n"
         "4. <b>Подождите разблокировки</b> (обычно 1-24 часа)\n\n"
-        "_E['idea'] <b>Советы для избежания спам-блока:</b>\n"
+        "💡 <b>Советы для избежания спам-блока:</b>\n"
         "• Увеличьте задержку между сообщениями (10-30 сек)\n"
         "• Уменьшите лимит сообщений в минуту (5-10)\n"
         "• Чередуйте текст сообщений\n"
@@ -8546,7 +8594,7 @@ async def callback_spam_help(call: CallbackQuery):
         help_text,
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
             [InlineKeyboardButton(text="🧩 @spambot", url="https://t.me/spambot")],
-            [InlineKeyboardButton(text="_E['gear'] Настройки рассылки", callback_data='broadcast_settings')],
+            [InlineKeyboardButton(text="⚙️ Настройки рассылки", callback_data='broadcast_settings')],
             [InlineKeyboardButton(text="◀️ Назад", callback_data='broadcast_menu')]
         ])
     )
@@ -8558,16 +8606,16 @@ async def callback_activate_session(call: CallbackQuery, state: FSMContext):
     api_credentials = get_user_api_credentials(user_id)
     
     if not credentials:
-        await call.answer("_E['cross2'] Сначала настройте credentials!", show_alert=True)
+        await call.answer("❌ Сначала настройте credentials!", show_alert=True)
         return
     
     if not api_credentials or not api_credentials['api_id'] or not api_credentials['api_hash']:
-        await call.answer("_E['cross2'] Сначала настройте API данные!", show_alert=True)
+        await call.answer("❌ Сначала настройте API данные!", show_alert=True)
         return
     
     await call.message.edit_text(
         "🔐 <b>Активация сессии Telethon</b>\n\n"
-        "_E['phone'] <b>Отправка кода подтверждения...</b>\n\n"
+        "📱 <b>Отправка кода подтверждения...</b>\n\n"
         f"🆔 <b>Используется API ID:</b> {api_credentials['api_id']}\n"
         "На ваш номер телефона будет отправлен код подтверждения.\n"
         "После получения кода введите его с помощью кнопок ниже.",
@@ -8594,7 +8642,7 @@ async def callback_activate_session(call: CallbackQuery, state: FSMContext):
         )
         
         await call.message.answer(
-            "_E['check2'] <b>Код отправлен!</b>\n\n"
+            "✅ <b>Код отправлен!</b>\n\n"
             "✏️ <b>Введите код подтверждения:</b>\n"
             "(код придет в Telegram или SMS)\n\n"
             "🔢 <b>Введенный код:</b> <code>_____</code>",
@@ -8604,9 +8652,9 @@ async def callback_activate_session(call: CallbackQuery, state: FSMContext):
         await state.set_state(CodeInputStates.waiting_code_input)
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка активации сессии: {e}")
+        logging.error(f"❌ Ошибка активации сессии: {e}")
         await call.message.answer(
-            f"_E['cross2'] <b>Ошибка активации сессии:</b>\n{str(e)}\n\n"
+            f"❌ <b>Ошибка активации сессии:</b>\n{str(e)}\n\n"
             "Проверьте правильность:\n"
             "• Номера телефона\n"
             "• API ID и Hash\n"
@@ -8634,7 +8682,7 @@ async def callback_activate_session(call: CallbackQuery, state: FSMContext):
         )
         
         await call.message.answer(
-            "_E['check2'] <b>Код отправлен!</b>\n\n"
+            "✅ <b>Код отправлен!</b>\n\n"
             "✏️ <b>Введите код подтверждения:</b>\n"
             "(код придет в Telegram или SMS)\n\n"
             "🔢 <b>Введенный код:</b> <code>_____</code>",
@@ -8644,9 +8692,9 @@ async def callback_activate_session(call: CallbackQuery, state: FSMContext):
         await state.set_state(CodeInputStates.waiting_code_input)
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка активации сессии: {e}")
+        logging.error(f"❌ Ошибка активации сессии: {e}")
         await call.message.answer(
-            f"_E['cross2'] <b>Ошибка активации сессии:</b>\n{str(e)}\n\n"
+            f"❌ <b>Ошибка активации сессии:</b>\n{str(e)}\n\n"
             "Проверьте правильность номера телефона.",
             reply_markup=make_back_menu()
         )
@@ -8663,7 +8711,7 @@ async def process_code_input(call: CallbackQuery, state: FSMContext):
     elif action == 'submit':
         # Подтверждение кода
         if len(current_code) < 4:
-            await call.answer("_E['cross2'] Код должен содержать минимум 4 цифры!", show_alert=True)
+            await call.answer("❌ Код должен содержать минимум 4 цифры!", show_alert=True)
             return
         
         await process_code_submission(call, state, current_code)
@@ -8681,7 +8729,7 @@ async def process_code_input(call: CallbackQuery, state: FSMContext):
     
     try:
         await call.message.edit_text(
-            "_E['check2'] <b>Код отправлен!</b>\n\n"
+            "✅ <b>Код отправлен!</b>\n\n"
             "✏️ <b>Введите код подтверждения:</b>\n"
             "(код придет в Telegram или SMS)\n\n"
             f"🔢 <b>Введенный код:</b> <code>{display_code}</code>",
@@ -8690,7 +8738,7 @@ async def process_code_input(call: CallbackQuery, state: FSMContext):
     except Exception as e:
         # Если сообщение не изменилось, игнорируем ошибку
         if "message is not modified" not in str(e):
-            logging.warning(f"_E['warning'] Ошибка обновления сообщения: {e}")
+            logging.warning(f"⚠️ Ошибка обновления сообщения: {e}")
     
     await call.answer()
 
@@ -8701,7 +8749,7 @@ async def process_code_submission(call: CallbackQuery, state: FSMContext, code: 
     phone_number = user_data.get('phone_number')
     
     if not client or not phone_code_hash:
-        await call.message.edit_text("_E['cross2'] Ошибка сессии. Начните заново.")
+        await call.message.edit_text("❌ Ошибка сессии. Начните заново.")
         await state.clear()
         return
     
@@ -8717,25 +8765,25 @@ async def process_code_submission(call: CallbackQuery, state: FSMContext, code: 
         update_session_status(call.from_user.id, True)
         
         await call.message.edit_text(
-            "_E['check2'] <b>Сессия успешно активирована!</b>\n\n"
+            "✅ <b>Сессия успешно активирована!</b>\n\n"
             "🚀 Теперь вы можете использовать рассылку сообщений.\n\n"
             "👇 Перейдите в меню рассылки:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text="_E['megaphone'] Меню рассылки", callback_data='broadcast_menu')],
+                [InlineKeyboardButton(text="📣 Меню рассылки", callback_data='broadcast_menu')],
                 [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
             ])
         )
         
     except PhoneCodeExpiredError:
         await call.message.edit_text(
-            "_E['cross2'] <b>Код подтверждения устарел!</b>\n\n"
+            "❌ <b>Код подтверждения устарел!</b>\n\n"
             "Пожалуйста, запросите новый код и попробуйте еще раз.",
             reply_markup=make_back_menu()
         )
         
     except PhoneCodeInvalidError:
         await call.message.edit_text(
-            "_E['cross2'] <b>Неверный код подтверждения!</b>\n\n"
+            "❌ <b>Неверный код подтверждения!</b>\n\n"
             "Пожалуйста, введите правильный код:",
             reply_markup=make_code_input_keyboard()
         )
@@ -8745,16 +8793,16 @@ async def process_code_submission(call: CallbackQuery, state: FSMContext, code: 
     except SessionPasswordNeededError:
         # Если требуется облачный пароль
         await call.message.edit_text(
-            "_E['lock'] <b>Требуется пароль двухфакторной аутентификации</b>\n\n"
+            "🔒 <b>Требуется пароль двухфакторной аутентификации</b>\n\n"
             "✏️ <b>Введите ваш пароль:</b>",
             reply_markup=make_back_menu()
         )
         await state.set_state(AuthStates.waiting_password)
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка входа: {e}")
+        logging.error(f"❌ Ошибка входа: {e}")
         await call.message.edit_text(
-            f"_E['cross2'] <b>Ошибка входа:</b>\n{str(e)}\n\n"
+            f"❌ <b>Ошибка входа:</b>\n{str(e)}\n\n"
             "Проверьте правильность кода и попробуйте еще раз.",
             reply_markup=make_code_input_keyboard()
         )
@@ -8772,7 +8820,7 @@ async def admin_subs_handler(message: Message):
     user_id = message.from_user.id
     
     if not is_admin(user_id):
-        await message.answer("_E['cross2'] У вас нет доступа к админ-панели!")
+        await message.answer("❌ У вас нет доступа к админ-панели!")
         return
     
     # Проверяем формат команды
@@ -8796,7 +8844,7 @@ async def admin_subs_handler(message: Message):
         
         if not user_data:
             await message.answer(
-                f"_E['cross2'] <b>Пользователь с ID {target_user_id} не найден!</b>\n\n"
+                f"❌ <b>Пользователь с ID {target_user_id} не найден!</b>\n\n"
                 "Возможные причины:\n"
                 "• Пользователь не запускал бота\n"
                 "• Неверный ID пользователя\n"
@@ -8838,7 +8886,7 @@ async def admin_subs_handler(message: Message):
                     f"⏳ <b>Осталось дней:</b> {temp_sub['days_left']}\n"
                 )
             else:
-                temp_sub_info = "⏱️ <b>Временная подписка:</b> _E['cross2'] Истекла\n"
+                temp_sub_info = "⏱️ <b>Временная подписка:</b> ❌ Истекла\n"
         
         # Получаем информацию о реферере
         referrer_info = get_referrer_info(target_user_id)
@@ -8849,15 +8897,15 @@ async def admin_subs_handler(message: Message):
                 f"🆔 <b>ID реферера:</b> {referrer_info['referrer_id']}\n"
             )
         else:
-            referrer_text = "👥 <b>Реферер:</b> _E['cross2'] Нет\n"
+            referrer_text = "👥 <b>Реферер:</b> ❌ Нет\n"
         
         response_text = (
             f"🔍 <b>Информация о подписке</b>\n\n"
             f"🆔 <b>ID пользователя:</b> {user_data['user_id']}\n"
-            f"_E['person'] <b>Имя:</b> {user_data['first_name']}\n"
-            f"_E['link'] <b>Username:</b> @{user_data['username'] or 'нет'}\n"
+            f"👤 <b>Имя:</b> {user_data['first_name']}\n"
+            f"🔗 <b>Username:</b> @{user_data['username'] or 'нет'}\n"
             f"🎫 <b>Основная подписка:</b> {subscription_name}\n"
-            f"_E['idea'] <b>Код подписки:</b> {user_data['subscription_type']}\n"
+            f"💡 <b>Код подписки:</b> {user_data['subscription_type']}\n"
             f"{temp_sub_info}"
             f"📅 <b>Дата активации:</b> {sub_date}\n"
             f"🔢 <b>Использовано поисков:</b> {user_data['used_count']}\n"
@@ -8871,11 +8919,11 @@ async def admin_subs_handler(message: Message):
         # Кнопки для установки подписок
         keyboard_rows.append([
             InlineKeyboardButton(
-                text="_E['idea'] Установить Лайт", 
+                text="💡 Установить Лайт", 
                 callback_data=f'admin_set_sub_{target_user_id}_{SubscriptionType.LIGHT}'
             ),
             InlineKeyboardButton(
-                text="_E['star'] Установить Премиум", 
+                text="⭐️ Установить Премиум", 
                 callback_data=f'admin_set_sub_{target_user_id}_{SubscriptionType.PREMIUM}'
             )
         ])
@@ -8899,14 +8947,14 @@ async def admin_subs_handler(message: Message):
         
     except ValueError:
         await message.answer(
-            "_E['cross2'] <b>Неверный формат ID!</b>\n\n"
+            "❌ <b>Неверный формат ID!</b>\n\n"
             "ID пользователя должен быть числом.\n"
             "📋 <b>Пример:</b> <code>/admin_subs 123456789</code>"
         )
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка поиска подписки: {e}")
+        logging.error(f"❌ Ошибка поиска подписки: {e}")
         await message.answer(
-            f"_E['cross2'] <b>Произошла ошибка при поиске:</b>\n{str(e)}"
+            f"❌ <b>Произошла ошибка при поиске:</b>\n{str(e)}"
         )
 
 @dp.message(Command("test_parse"))
@@ -8928,7 +8976,7 @@ async def test_parse_command(message: Message):
                 status = response.status
                 html = await response.text()
                 
-                result = f"_E['chart'] Результат теста:\n"
+                result = f"📊 Результат теста:\n"
                 result += f"• URL: {test_url}\n"
                 result += f"• Статус: {status}\n"
                 result += f"• Длина HTML: {len(html) if html else 0} символов\n"
@@ -8962,7 +9010,7 @@ async def test_parse_command(message: Message):
                 await message.answer(result)
                 
         except Exception as e:
-            await message.answer(f"_E['cross2'] Ошибка: {str(e)}")
+            await message.answer(f"❌ Ошибка: {str(e)}")
 
 @dp.message(Command("quick_search"))
 async def quick_search_command(message: Message):
@@ -8982,7 +9030,7 @@ async def quick_search_command(message: Message):
         )
         
         if usernames:
-            result = f"_E['check2'] Найдено {len(usernames)} пользователей:\n"
+            result = f"✅ Найдено {len(usernames)} пользователей:\n"
             for i, username in enumerate(usernames, 1):
                 result += f"{i}. @{username}\n"
             await bot.edit_message_text(
@@ -8994,21 +9042,21 @@ async def quick_search_command(message: Message):
             await bot.edit_message_text(
                 chat_id=message.chat.id,
                 message_id=msg.message_id,
-                text="_E['cross2'] Не удалось найти пользователей"
+                text="❌ Не удалось найти пользователей"
             )
             
     except Exception as e:
         await bot.edit_message_text(
             chat_id=message.chat.id,
             message_id=msg.message_id,
-            text=f"_E['cross2'] Ошибка: {str(e)}"
+            text=f"❌ Ошибка: {str(e)}"
         )
 
 @dp.message(Command("check_temp_subs"))
 async def check_temp_subs_handler(message: Message):
     """Проверяет истекшие временные подписки"""
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     conn = sqlite3.connect('users.db')
@@ -9036,11 +9084,11 @@ async def check_temp_subs_handler(message: Message):
         username = user_data['username'] if user_data else "Неизвестно"
         first_name = user_data['first_name'] if user_data else "Неизвестно"
         
-        status = "_E['check2'] Активна" if is_active else "_E['cross2'] Истекла"
+        status = "✅ Активна" if is_active else "❌ Истекла"
         days_left = (expires_at - datetime.now()).days if is_active else 0
         
         text += (
-            f"_E['person'] {first_name} (@{username})\n"
+            f"👤 {first_name} (@{username})\n"
             f"🆔 {user_id} | {SUBSCRIPTION_FEATURES[sub_type]['name']}\n"
             f"📅 До: {expires_at.strftime('%d.%m.%Y')} | {status}\n"
         )
@@ -9054,7 +9102,7 @@ async def check_temp_subs_handler(message: Message):
         
         text += "\n"
     
-    text += f"_E['chart'] <b>Итого:</b> _E['check2'] {active_count} активных, _E['cross2'] {expired_count} истекших"
+    text += f"📊 <b>Итого:</b> ✅ {active_count} активных, ❌ {expired_count} истекших"
     
     await message.answer(text)
 
@@ -9062,25 +9110,25 @@ async def check_temp_subs_handler(message: Message):
 async def callback_admin_set_subscription(call: CallbackQuery):
     """Обработчик установки подписки"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     parts = call.data.split('_')
     if len(parts) != 5:
-        await call.answer("_E['cross2'] Ошибка формата!")
+        await call.answer("❌ Ошибка формата!")
         return
     
     target_user_id = int(parts[3])
     subscription_type = parts[4]
     
     if subscription_type not in [SubscriptionType.LIGHT, SubscriptionType.PREMIUM]:
-        await call.answer("_E['cross2'] Неверный тип подписки!")
+        await call.answer("❌ Неверный тип подписки!")
         return
     
     # Получаем данные пользователя
     user_data = get_subscription_by_user_id(target_user_id)
     if not user_data:
-        await call.answer("_E['cross2'] Пользователь не найден!")
+        await call.answer("❌ Пользователь не найден!")
         return
     
     # Создаем клавиатуру для выбора типа подписки (постоянная/временная)
@@ -9095,14 +9143,14 @@ async def callback_admin_set_subscription(call: CallbackQuery):
                 callback_data=f'admin_set_temp_{target_user_id}_{subscription_type}'
             )
         ],
-        [InlineKeyboardButton(text="_E['cross2'] Отмена", callback_data=f'admin_subs_search')]
+        [InlineKeyboardButton(text="❌ Отмена", callback_data=f'admin_subs_search')]
     ])
     
     await call.message.edit_text(
         f"🎫 <b>Установка подписки</b>\n\n"
-        f"_E['person'] <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
+        f"👤 <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
         f"🆔 <b>ID:</b> {target_user_id}\n"
-        f"_E['idea'] <b>Тип подписки:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n\n"
+        f"💡 <b>Тип подписки:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n\n"
         f"📝 <b>Выберите тип установки:</b>",
         reply_markup=keyboard
     )
@@ -9111,7 +9159,7 @@ async def callback_admin_set_subscription(call: CallbackQuery):
 async def callback_admin_set_permanent(call: CallbackQuery):
     """Установка постоянной подписки"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     parts = call.data.split('_')
@@ -9120,7 +9168,7 @@ async def callback_admin_set_permanent(call: CallbackQuery):
     
     user_data = get_subscription_by_user_id(target_user_id)
     if not user_data:
-        await call.answer("_E['cross2'] Пользователь не найден!")
+        await call.answer("❌ Пользователь не найден!")
         return
     
     # Устанавливаем постоянную подписку
@@ -9142,7 +9190,7 @@ async def callback_admin_set_permanent(call: CallbackQuery):
         # Отправляем уведомление в группу
         group_message = (
             f"🔄 <b>Обновление подписки</b>\n\n"
-            f"_E['person'] <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
+            f"👤 <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
             f"🆔 <b>ID:</b> {target_user_id}\n"
             f"🎫 <b>Подписка:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
             f"⏰ <b>Тип:</b> ♾️ Постоянная\n"
@@ -9153,11 +9201,11 @@ async def callback_admin_set_permanent(call: CallbackQuery):
         try:
             await bot.send_message(GROUP_ID, group_message)
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось отправить уведомление в группу: {e}")
+            logging.error(f"❌ Не удалось отправить уведомление в группу: {e}")
         
         await call.message.edit_text(
-            f"_E['check2'] <b>Постоянная подписка установлена!</b>\n\n"
-            f"_E['person'] <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
+            f"✅ <b>Постоянная подписка установлена!</b>\n\n"
+            f"👤 <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
             f"🆔 <b>ID:</b> {target_user_id}\n"
             f"🎫 <b>Подписка:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
             f"⏰ <b>Тип:</b> ♾️ Постоянная\n\n"
@@ -9171,23 +9219,23 @@ async def callback_admin_set_permanent(call: CallbackQuery):
         try:
             await bot.send_message(
                 chat_id=target_user_id,
-                text=f"_E['confetti'] <b>Ваша подписка была обновлена!</b>\n\n"
-                     f"_E['check2'] <b>Новая подписка:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
+                text=f"🎉 <b>Ваша подписка была обновлена!</b>\n\n"
+                     f"✅ <b>Новая подписка:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
                      f"⏰ <b>Тип:</b> ♾️ Постоянная\n\n"
                      f"🚀 Теперь вам доступны все возможности новой подписки!",
                 reply_markup=make_main_menu(subscription_type)
             )
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось уведомить пользователя: {e}")
+            logging.error(f"❌ Не удалось уведомить пользователя: {e}")
             
     else:
-        await call.answer("_E['cross2'] Ошибка установки подписки!", show_alert=True)
+        await call.answer("❌ Ошибка установки подписки!", show_alert=True)
 
 @dp.callback_query(F.data.startswith('admin_set_temp_'))
 async def callback_admin_set_temporary(call: CallbackQuery, state: FSMContext):
     """Установка временной подписки"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     parts = call.data.split('_')
@@ -9196,7 +9244,7 @@ async def callback_admin_set_temporary(call: CallbackQuery, state: FSMContext):
     
     user_data = get_subscription_by_user_id(target_user_id)
     if not user_data:
-        await call.answer("_E['cross2'] Пользователь не найден!")
+        await call.answer("❌ Пользователь не найден!")
         return
     
     # Сохраняем данные для следующего шага
@@ -9218,14 +9266,14 @@ async def callback_admin_set_temporary(call: CallbackQuery, state: FSMContext):
             InlineKeyboardButton(text="30 дней", callback_data='temp_days_30'),
             InlineKeyboardButton(text="90 дней", callback_data='temp_days_90')
         ],
-        [InlineKeyboardButton(text="_E['cross2'] Отмена", callback_data=f'admin_subs_search')]
+        [InlineKeyboardButton(text="❌ Отмена", callback_data=f'admin_subs_search')]
     ])
     
     await call.message.edit_text(
         f"⏱️ <b>Установка временной подписки</b>\n\n"
-        f"_E['person'] <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
+        f"👤 <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
         f"🆔 <b>ID:</b> {target_user_id}\n"
-        f"_E['idea'] <b>Тип подписки:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n\n"
+        f"💡 <b>Тип подписки:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n\n"
         f"📅 <b>Выберите срок действия:</b>",
         reply_markup=keyboard
     )
@@ -9234,7 +9282,7 @@ async def callback_admin_set_temporary(call: CallbackQuery, state: FSMContext):
 async def callback_set_temporary_days(call: CallbackQuery, state: FSMContext):
     """Установка срока временной подписки"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     days = int(call.data.replace('temp_days_', ''))
@@ -9253,7 +9301,7 @@ async def callback_set_temporary_days(call: CallbackQuery, state: FSMContext):
         # Отправляем уведомление в группу
         group_message = (
             f"🔄 <b>Обновление подписки</b>\n\n"
-            f"_E['person'] <b>Пользователь:</b> {user_info['first_name']} (@{user_info['username']})\n"
+            f"👤 <b>Пользователь:</b> {user_info['first_name']} (@{user_info['username']})\n"
             f"🆔 <b>ID:</b> {target_user_id}\n"
             f"🎫 <b>Подписка:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
             f"⏰ <b>Тип:</b> ⏱️ Временная ({days} дней)\n"
@@ -9265,11 +9313,11 @@ async def callback_set_temporary_days(call: CallbackQuery, state: FSMContext):
         try:
             await bot.send_message(GROUP_ID, group_message)
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось отправить уведомление в группу: {e}")
+            logging.error(f"❌ Не удалось отправить уведомление в группу: {e}")
         
         await call.message.edit_text(
-            f"_E['check2'] <b>Временная подписка установлена!</b>\n\n"
-            f"_E['person'] <b>Пользователь:</b> {user_info['first_name']} (@{user_info['username']})\n"
+            f"✅ <b>Временная подписка установлена!</b>\n\n"
+            f"👤 <b>Пользователь:</b> {user_info['first_name']} (@{user_info['username']})\n"
             f"🆔 <b>ID:</b> {target_user_id}\n"
             f"🎫 <b>Подписка:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
             f"⏰ <b>Тип:</b> ⏱️ Временная ({days} дней)\n"
@@ -9284,8 +9332,8 @@ async def callback_set_temporary_days(call: CallbackQuery, state: FSMContext):
         try:
             await bot.send_message(
                 chat_id=target_user_id,
-                text=f"_E['confetti'] <b>Ваша подписка была обновлена!</b>\n\n"
-                     f"_E['check2'] <b>Новая подписка:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
+                text=f"🎉 <b>Ваша подписка была обновлена!</b>\n\n"
+                     f"✅ <b>Новая подписка:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
                      f"⏰ <b>Тип:</b> ⏱️ Временная ({days} дней)\n"
                      f"📅 <b>Действует до:</b> {expires_at.strftime('%d.%m.%Y %H:%M')}\n\n"
                      f"🚀 Теперь вам доступны все возможности новой подписки!\n"
@@ -9293,10 +9341,10 @@ async def callback_set_temporary_days(call: CallbackQuery, state: FSMContext):
                 reply_markup=make_main_menu(subscription_type)
             )
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось уведомить пользователя: {e}")
+            logging.error(f"❌ Не удалось уведомить пользователя: {e}")
             
     else:
-        await call.answer("_E['cross2'] Ошибка установки временной подписки!", show_alert=True)
+        await call.answer("❌ Ошибка установки временной подписки!", show_alert=True)
     
     await state.clear()
 
@@ -9307,15 +9355,15 @@ async def callback_crypto_payment(call: CallbackQuery):
     
     if not await check_subscription(user_id):
         subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['megaphone'] @rtc_reverv", url=CHANNEL_LINK)],
-            [InlineKeyboardButton(text="_E['check2'] Я подписался", callback_data="check_subscription")]
+            [InlineKeyboardButton(text="📣 @rtc_reverv", url=CHANNEL_LINK)],
+            [InlineKeyboardButton(text="✅ Я подписался", callback_data="check_subscription")]
         ])
         
         await call.message.answer(
-            f"{e['megaphone']} <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
-            f"{e['bell']} <b>Обязательные каналы:</b>\n"
-            f"{e['check']} @rtc_reverv\n\n"
-            f"{e['sparkle']} <b>После подписки нажмите кнопку 'Я подписался':</b>",
+            f"📣 <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
+            f"🔔 <b>Обязательные каналы:</b>\n"
+            f"✅ @rtc_reverv\n\n"
+            f"✨ <b>После подписки нажмите кнопку 'Я подписался':</b>",
             reply_markup=subscription_keyboard
         )
         return
@@ -9325,18 +9373,18 @@ async def callback_crypto_payment(call: CallbackQuery):
     parts = data.split('_')
     
     if len(parts) != 2:
-        await call.answer("_E['cross2'] Ошибка выбора оплаты")
+        await call.answer("❌ Ошибка выбора оплаты")
         return
     
     subscription_type = parts[0]  # light или premium
     currency = parts[1].upper()   # USDT или TON
     
     if subscription_type not in [SubscriptionType.LIGHT, SubscriptionType.PREMIUM]:
-        await call.answer("_E['cross2'] Неверный тип подписки")
+        await call.answer("❌ Неверный тип подписки")
         return
     
     if currency not in ["USDT", "TON"]:
-        await call.answer("_E['cross2'] Неверная валюта")
+        await call.answer("❌ Неверная валюта")
         return
     
     # Рассчитываем сумму с использованием обновленных цен
@@ -9349,9 +9397,9 @@ async def callback_crypto_payment(call: CallbackQuery):
     
     # Создаем счет в CryptoBot
     await call.message.edit_text(
-        f"_E['diamond'] <b>Создание счета в CryptoBot...</b>\n\n"
+        f"💎 <b>Создание счета в CryptoBot...</b>\n\n"
         f"🎫 Подписка: {subscription_name}\n"
-        f"_E['money_bag'] Сумма: {amount} {currency}\n\n"
+        f"💰 Сумма: {amount} {currency}\n\n"
         f"⏳ Пожалуйста, подождите..."
     )
     
@@ -9379,9 +9427,9 @@ async def callback_crypto_payment(call: CallbackQuery):
             ])
             
             await call.message.edit_text(
-                f"_E['diamond'] <b>Счет создан!</b>\n\n"
+                f"💎 <b>Счет создан!</b>\n\n"
                 f"🎫 Подписка: {subscription_name}\n"
-                f"_E['money_bag'] Сумма: {amount} {currency}\n"
+                f"💰 Сумма: {amount} {currency}\n"
                 f"⏳ Счет действителен: 1 час\n\n"
                 f"👇 <b>Нажмите кнопку для оплаты:</b>",
                 reply_markup=keyboard
@@ -9398,7 +9446,7 @@ async def callback_crypto_payment(call: CallbackQuery):
             ))
         else:
             await call.message.edit_text(
-                "_E['cross2'] <b>Ошибка создания платежа!</b>\n\n"
+                "❌ <b>Ошибка создания платежа!</b>\n\n"
                 "Попробуйте еще раз или выберите другой способ оплаты.",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="◀️ Назад к подпискам", callback_data='subscriptions')]
@@ -9406,7 +9454,7 @@ async def callback_crypto_payment(call: CallbackQuery):
             )
     else:
         await call.message.edit_text(
-            f"_E['cross2'] <b>Ошибка создания счета:</b>\n{result.get('error', 'Неизвестная ошибка')}\n\n"
+            f"❌ <b>Ошибка создания счета:</b>\n{result.get('error', 'Неизвестная ошибка')}\n\n"
             "Попробуйте еще раз или выберите другой способ оплаты.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Назад к подпискам", callback_data='subscriptions')]
@@ -9423,7 +9471,7 @@ async def callback_check_crypto_payment(call: CallbackQuery):
     if result["success"]:
         if result["paid"]:
             await call.message.edit_text(
-                "_E['check2'] <b>Оплата подтверждена!</b>\n\n"
+                "✅ <b>Оплата подтверждена!</b>\n\n"
                 "❤️ Спасибо за вашу поддержку!\n\n"
                 "Ваш донат помогает развитию бота! 💫",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -9433,7 +9481,7 @@ async def callback_check_crypto_payment(call: CallbackQuery):
         else:
             await call.answer("⏳ Оплата еще не поступила", show_alert=True)
     else:
-        await call.answer("_E['cross2'] Ошибка проверки платежа", show_alert=True)
+        await call.answer("❌ Ошибка проверки платежа", show_alert=True)
 
 async def check_crypto_payment_periodically(user_id: int, invoice_id: str, chat_id: int, message_id: int, currency: str, amount: float):
     """Периодическая проверка оплаты криптоплатежа"""
@@ -9478,14 +9526,14 @@ async def check_crypto_payment_periodically(user_id: int, invoice_id: str, chat_
                                 chat_id=chat_id,
                                 message_id=message_id,
                                 text=(
-                                    f"_E['check2'] <b>Оплата подтверждена!</b>\n\n"
+                                    f"✅ <b>Оплата подтверждена!</b>\n\n"
                                     f"🎫 <b>Подписка:</b> {subscription_name}\n"
-                                    f"_E['money_bag'] <b>Сумма:</b> {amount} {currency}\n\n"
+                                    f"💰 <b>Сумма:</b> {amount} {currency}\n\n"
                                     "❤️ <b>Спасибо за покупку!</b>\n"
                                     "🚀 Теперь вам доступны все возможности подписки!"
                                 ),
                                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                                    [InlineKeyboardButton(text="_E['star'] Подписки", callback_data='subscriptions')],
+                                    [InlineKeyboardButton(text="⭐️ Подписки", callback_data='subscriptions')],
                                     [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
                                 ])
                             )
@@ -9496,27 +9544,27 @@ async def check_crypto_payment_periodically(user_id: int, invoice_id: str, chat_
                         # Уведомление админов о успешном платеже
                         try:
                             await notify_admins_with_referrer(
-                                f"_E['diamond'] <b>Криптоплатеж подтвержден</b>\n\n"
-                                f"_E['person'] Пользователь: {user_data['first_name']} (@{user_data['username']})\n"
+                                f"💎 <b>Криптоплатеж подтвержден</b>\n\n"
+                                f"👤 Пользователь: {user_data['first_name']} (@{user_data['username']})\n"
                                 f"🆔 ID: {user_id}\n"
                                 f"🎫 Подписка: {subscription_name}\n"
-                                f"_E['money_bag'] Сумма: {amount} {currency}\n"
+                                f"💰 Сумма: {amount} {currency}\n"
                                 f"📅 Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}",
                                 user_id
                             )
                         except Exception as e:
-                            logging.error(f"_E['cross2'] Ошибка уведомления админов: {e}")
+                            logging.error(f"❌ Ошибка уведомления админов: {e}")
                         
                 break
                 
         except Exception as e:
-            logging.error(f"_E['cross2'] Ошибка проверки платежа {invoice_id} (попытка {attempt+1}): {e}")
+            logging.error(f"❌ Ошибка проверки платежа {invoice_id} (попытка {attempt+1}): {e}")
 
 @dp.callback_query(F.data.startswith('admin_remove_sub_'))
 async def callback_admin_remove_subscription(call: CallbackQuery):
     """Обработчик удаления подписки"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     target_user_id = int(call.data.replace('admin_remove_sub_', ''))
@@ -9524,7 +9572,7 @@ async def callback_admin_remove_subscription(call: CallbackQuery):
     # Получаем данные пользователя
     user_data = get_subscription_by_user_id(target_user_id)
     if not user_data:
-        await call.answer("_E['cross2'] Пользователь не найден!")
+        await call.answer("❌ Пользователь не найден!")
         return
     
     # Сохраняем старую подписку для уведомления
@@ -9549,7 +9597,7 @@ async def callback_admin_remove_subscription(call: CallbackQuery):
         # Отправляем уведомление в группу о снятии подписки
         group_message = (
             f"🗑️ <b>Подписка снята</b>\n\n"
-            f"_E['person'] <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
+            f"👤 <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
             f"🆔 <b>ID:</b> {target_user_id}\n"
             f"🎫 <b>Старая подписка:</b> {SUBSCRIPTION_FEATURES[old_subscription]['name']}\n"
             f"🎫 <b>Новая подписка:</b> {SUBSCRIPTION_FEATURES[SubscriptionType.LIGHT]['name']}\n"
@@ -9560,11 +9608,11 @@ async def callback_admin_remove_subscription(call: CallbackQuery):
         try:
             await bot.send_message(GROUP_ID, group_message)
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось отправить уведомление в группу: {e}")
+            logging.error(f"❌ Не удалось отправить уведомление в группу: {e}")
         
         await call.message.edit_text(
-            f"_E['check2'] <b>Подписка снята!</b>\n\n"
-            f"_E['person'] <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
+            f"✅ <b>Подписка снята!</b>\n\n"
+            f"👤 <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username']})\n"
             f"🆔 <b>ID:</b> {target_user_id}\n"
             f"🎫 <b>Текущая подписка:</b> {SUBSCRIPTION_FEATURES[SubscriptionType.LIGHT]['name']}\n\n"
             f"🔔 Уведомление отправлено в группу.",
@@ -9578,19 +9626,19 @@ async def callback_admin_remove_subscription(call: CallbackQuery):
             await bot.send_message(
                 chat_id=target_user_id,
                 text=f"ℹ️ <b>Ваша подписка была изменена</b>\n\n"
-                     f"_E['chart'] <b>Новая подписка:</b> {SUBSCRIPTION_FEATURES[SubscriptionType.LIGHT]['name']}\n\n"
-                     f"_E['idea'] Теперь вам доступны базовые функции бота."
+                     f"📊 <b>Новая подписка:</b> {SUBSCRIPTION_FEATURES[SubscriptionType.LIGHT]['name']}\n\n"
+                     f"💡 Теперь вам доступны базовые функции бота."
             )
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось уведомить пользователя: {e}")
+            logging.error(f"❌ Не удалось уведомить пользователя: {e}")
     else:
-        await call.answer("_E['cross2'] Ошибка сброса подписки!", show_alert=True)
+        await call.answer("❌ Ошибка сброса подписки!", show_alert=True)
 
 @dp.callback_query(F.data == 'admin_subs_search')
 async def callback_admin_subs_search(call: CallbackQuery):
     """Обработчик кнопки поиска другого пользователя"""
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     await call.message.edit_text(
@@ -9605,7 +9653,7 @@ async def callback_admin_subs_search(call: CallbackQuery):
 async def admin_users_handler(message: Message):
     """Показывает список всех пользователей"""
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     all_users = get_all_users()
@@ -9645,7 +9693,7 @@ async def process_password(message: Message, state: FSMContext):
     client = user_data.get('client')
     
     if not client:
-        await message.answer("_E['cross2'] Ошибка сессии. Начните заново.")
+        await message.answer("❌ Ошибка сессии. Начните заново.")
         await state.clear()
         return
     
@@ -9656,19 +9704,19 @@ async def process_password(message: Message, state: FSMContext):
         update_session_status(message.from_user.id, True)
         
         await message.answer(
-            "_E['check2'] <b>Сессия успешно активирована!</b>\n\n"
+            "✅ <b>Сессия успешно активирована!</b>\n\n"
             "🚀 Теперь вы можете использовать рассылку сообщений.\n\n"
             "👇 Перейдите в меню рассылки:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text="_E['megaphone'] Меню рассылки", callback_data='broadcast_menu')],
+                [InlineKeyboardButton(text="📣 Меню рассылки", callback_data='broadcast_menu')],
                 [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
             ])
         )
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка входа с паролем: {e}")
+        logging.error(f"❌ Ошибка входа с паролем: {e}")
         await message.answer(
-            f"_E['cross2'] <b>Неверный пароль:</b>\n{str(e)}\n\n"
+            f"❌ <b>Неверный пароль:</b>\n{str(e)}\n\n"
             "Попробуйте еще раз:",
             reply_markup=make_back_menu()
         )
@@ -9687,7 +9735,7 @@ async def callback_auth_instructions(call: CallbackQuery):
         "3. <b>Если включена 2FA</b> - введите пароль\n\n"
         f"🆔 <b>API ID:</b> {API_ID}\n"
         f"🔑 <b>API Hash:</b> {API_HASH}\n\n"
-        "_E['lock'] <b>Ваши данные в безопасности!</b>\n\n"
+        "🔒 <b>Ваши данные в безопасности!</b>\n\n"
         "👇 Нажмите кнопку чтобы начать настройку:",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
             [InlineKeyboardButton(text="🚀 Начать настройку", callback_data='setup_credentials')],
@@ -9705,13 +9753,13 @@ async def callback_delete_credentials(call: CallbackQuery):
     
     if delete_user_credentials(user_id):
         await call.message.edit_text(
-            "_E['check2'] <b>Credentials успешно удалены!</b>\n\n"
+            "✅ <b>Credentials успешно удалены!</b>\n\n"
             "Все ваши данные были удалены из системы.",
             reply_markup=make_back_menu()
         )
     else:
         await call.message.edit_text(
-            "_E['cross2'] <b>Ошибка удаления credentials!</b>",
+            "❌ <b>Ошибка удаления credentials!</b>",
             reply_markup=make_back_menu()
         )
 
@@ -9721,15 +9769,15 @@ async def callback_subscribe_rub(call: CallbackQuery, state: FSMContext):
     
     if not await check_subscription(user_id):
         subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['megaphone'] @rtc_reverv", url=CHANNEL_LINK)],
-            [InlineKeyboardButton(text="_E['check2'] Я подписался", callback_data="check_subscription")]
+            [InlineKeyboardButton(text="📣 @rtc_reverv", url=CHANNEL_LINK)],
+            [InlineKeyboardButton(text="✅ Я подписался", callback_data="check_subscription")]
         ])
         
         await call.message.answer(
-            f"{e['megaphone']} <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
-            f"{e['bell']} <b>Обязательные каналы:</b>\n"
-            f"{e['check']} @rtc_reverv\n\n"
-            f"{e['sparkle']} <b>После подписки нажмите кнопку 'Я подписался':</b>",
+            f"📣 <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
+            f"🔔 <b>Обязательные каналы:</b>\n"
+            f"✅ @rtc_reverv\n\n"
+            f"✨ <b>После подписки нажмите кнопку 'Я подписался':</b>",
             reply_markup=subscription_keyboard
         )
         return
@@ -9737,12 +9785,12 @@ async def callback_subscribe_rub(call: CallbackQuery, state: FSMContext):
     subscription_type = call.data.replace('_rub', '').replace('subscribe_', '')
     
     if subscription_type not in SUBSCRIPTION_PRICES:
-        await call.answer("_E['cross2'] Неверный тип подписки")
+        await call.answer("❌ Неверный тип подписки")
         return
     
     current_subscription = get_user_subscription_type(user_id)
     if current_subscription == subscription_type:
-        await call.answer("_E['check2'] У вас уже активна эта подписка!")
+        await call.answer("✅ У вас уже активна эта подписка!")
         return
     
     stars_price = SUBSCRIPTION_PRICES[subscription_type]
@@ -9752,21 +9800,21 @@ async def callback_subscribe_rub(call: CallbackQuery, state: FSMContext):
     payment_text = (
         f"🏦 <b>Оплата в рублях</b>\n\n"
         f"🎫 <b>Подписка:</b> {subscription_name}\n"
-        f"_E['diamond'] Стоимость в звездах: {stars_price}_E['star']\n"
+        f"💎 Стоимость в звездах: {stars_price}⭐️\n"
         f"🇷🇺 Стоимость в рублях: {rub_price} RUB\n\n"
         f"<b>Реквизиты для оплаты:</b> ➡️ Перевод на карту\n\n"
-        f"_E['person'] <b>Получатель:</b> {PAYMENT_DETAILS['recipient']}\n"
+        f"👤 <b>Получатель:</b> {PAYMENT_DETAILS['recipient']}\n"
         f"🤩 <b>Реквизиты:</b> Номер телефона:\n"
         f"<code>{PAYMENT_DETAILS['phone_number']}</code>\n\n"
         f"❗️<b>{PAYMENT_DETAILS['bank']}</b>\n"
-        f"_E['money_bag'] <b>Сумма:</b> {rub_price} RUB 🇷🇺\n\n"
-        f"_E['check2'] После оплаты нажмите «Подтвердить оплату» ⤵️"
+        f"💰 <b>Сумма:</b> {rub_price} RUB 🇷🇺\n\n"
+        f"✅ После оплаты нажмите «Подтвердить оплату» ⤵️"
     )
     
     await call.message.edit_text(
         payment_text,
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['check2'] Подтвердить оплату", callback_data=f'confirm_rub_payment_{subscription_type}')],
+            [InlineKeyboardButton(text="✅ Подтвердить оплату", callback_data=f'confirm_rub_payment_{subscription_type}')],
             [InlineKeyboardButton(text="◀️ Назад к подпискам", callback_data='subscriptions')]
         ])
     )
@@ -9777,7 +9825,7 @@ async def callback_confirm_rub_payment(call: CallbackQuery, state: FSMContext):
     subscription_type = call.data.replace('confirm_rub_payment_', '')
     
     if subscription_type not in SUBSCRIPTION_PRICES:
-        await call.answer("_E['cross2'] Неверный тип подписки")
+        await call.answer("❌ Неверный тип подписки")
         return
     
     stars_price = SUBSCRIPTION_PRICES[subscription_type]
@@ -9825,7 +9873,7 @@ async def test_parser_command(message: Message):
         is_connected = await test_parser_connection()
         
         if is_connected:
-            await message.answer("_E['check2'] Парсер работает нормально!")
+            await message.answer("✅ Парсер работает нормально!")
             
             # Тест 2: Генерация ссылки и парсинг
             async with aiohttp.ClientSession() as session:
@@ -9833,17 +9881,17 @@ async def test_parser_command(message: Message):
                 result, status = await parse_username_and_check_cyrillic(session, url, "easy")
                 
                 test_result = (
-                    f"_E['chart'] Результат теста:\n"
+                    f"📊 Результат теста:\n"
                     f"• URL: {url}\n"
                     f"• Статус: {status}\n"
                     f"• Результат: {result or 'Нет'}"
                 )
                 await message.answer(test_result)
         else:
-            await message.answer("_E['cross2'] Парсер не работает! Проверьте интернет-соединение.")
+            await message.answer("❌ Парсер не работает! Проверьте интернет-соединение.")
             
     except Exception as e:
-        await message.answer(f"_E['cross2'] Ошибка теста: {str(e)}")
+        await message.answer(f"❌ Ошибка теста: {str(e)}")
 
 @dp.message(Command("basad"))
 async def basad_handler(message: Message):
@@ -9854,7 +9902,7 @@ async def basad_handler(message: Message):
             with open('test.txt', 'r', encoding='utf-8') as f:
                 user_count = len(f.readlines())
         except FileNotFoundError:
-            await message.answer("_E['cross2'] Файл test.txt не найден")
+            await message.answer("❌ Файл test.txt не найден")
             return
         
         # ПРАВИЛЬНЫЙ способ отправки файла
@@ -9862,19 +9910,19 @@ async def basad_handler(message: Message):
             input_file = InputFile(file, filename=f"users_{user_count}.txt")
             await message.answer_document(
                 document=input_file,
-                caption=f"_E['chart'] База пользователей ({user_count} чел.)"
+                caption=f"📊 База пользователей ({user_count} чел.)"
             )
-        logging.info(f"_E['check2'] Файл test.txt отправлен по команде /basad ({user_count} пользователей)")
+        logging.info(f"✅ Файл test.txt отправлен по команде /basad ({user_count} пользователей)")
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка отправки файла по команде /basad: {e}")
-        await message.answer(f"_E['cross2'] Ошибка отправки файла: {e}")
+        logging.error(f"❌ Ошибка отправки файла по команде /basad: {e}")
+        await message.answer(f"❌ Ошибка отправки файла: {e}")
 
 @dp.message(Command("send_file"))
 async def send_file_handler(message: Message):
     """Принудительно отправляет файл test.txt в группу"""
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     try:
@@ -9884,7 +9932,7 @@ async def send_file_handler(message: Message):
             with open('test.txt', 'r', encoding='utf-8') as f:
                 user_count = len(f.readlines())
         except FileNotFoundError:
-            await message.answer("_E['cross2'] Файл test.txt не найден")
+            await message.answer("❌ Файл test.txt не найден")
             return
         
         # ПРАВИЛЬНЫЙ способ отправки файла
@@ -9893,11 +9941,11 @@ async def send_file_handler(message: Message):
             await bot.send_document(
                 chat_id=GROUP_ID,
                 document=input_file,
-                caption=f"_E['chart'] Файл с пользователями ({user_count} чел.) - принудительная отправка"
+                caption=f"📊 Файл с пользователями ({user_count} чел.) - принудительная отправка"
             )
-        await message.answer(f"_E['check2'] Файл отправлен в группу ({user_count} пользователей)")
+        await message.answer(f"✅ Файл отправлен в группу ({user_count} пользователей)")
     except Exception as e:
-        await message.answer(f"_E['cross2'] Ошибка отправки файла: {e}")
+        await message.answer(f"❌ Ошибка отправки файла: {e}")
 
 @dp.message(Command("test_search"))
 async def test_search_command(message: Message):
@@ -9934,7 +9982,7 @@ async def test_search_command(message: Message):
 async def file_stats_handler(message: Message):
     """Показывает статистику файла test.txt"""
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     try:
@@ -9955,20 +10003,20 @@ async def file_stats_handler(message: Message):
                     not_subscribed_count += 1
         
         stats_text = (
-            f"_E['chart'] <b>Статистика файла test.txt</b>\n\n"
+            f"📊 <b>Статистика файла test.txt</b>\n\n"
             f"👥 <b>Всего пользователей:</b> {total_users}\n"
-            f"_E['check2'] <b>Подписаны:</b> {subscribed_count}\n"
-            f"_E['cross2'] <b>Не подписаны:</b> {not_subscribed_count}\n"
-            f"_E['trending'] <b>Конверсия:</b> {round((subscribed_count / total_users) * 100, 1)}%\n\n"
+            f"✅ <b>Подписаны:</b> {subscribed_count}\n"
+            f"❌ <b>Не подписаны:</b> {not_subscribed_count}\n"
+            f"📈 <b>Конверсия:</b> {round((subscribed_count / total_users) * 100, 1)}%\n\n"
             f"📁 <b>Следующая отправка файла:</b> через {10 - (total_users % 10)} пользователей"
         )
         
         await message.answer(stats_text)
         
     except FileNotFoundError:
-        await message.answer("_E['chart'] <b>Файл test.txt еще не создан</b>")
+        await message.answer("📊 <b>Файл test.txt еще не создан</b>")
     except Exception as e:
-        await message.answer(f"_E['cross2'] <b>Ошибка чтения файла:</b> {e}")
+        await message.answer(f"❌ <b>Ошибка чтения файла:</b> {e}")
 
 @dp.message(PaymentStates.waiting_payment_photo, F.photo)
 async def process_payment_photo(message: Message, state: FSMContext):
@@ -10000,7 +10048,7 @@ async def process_payment_photo(message: Message, state: FSMContext):
         )
         
         await message.answer(
-            "_E['check2'] <b>Заявка на оплату отправлена!</b>\n\n"
+            "✅ <b>Заявка на оплату отправлена!</b>\n\n"
             "🕒 <b>Статус:</b> Ожидает подтверждения администратором\n\n"
             "📋 <b>Информация о заявке:</b>\n"
             f"• Подписка: {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
@@ -10012,7 +10060,7 @@ async def process_payment_photo(message: Message, state: FSMContext):
         )
     else:
         await message.answer(
-            "_E['cross2'] <b>Ошибка создания заявки!</b>\n\n"
+            "❌ <b>Ошибка создания заявки!</b>\n\n"
             "Пожалуйста, попробуйте еще раз или обратитесь в поддержку.",
             reply_markup=make_back_menu()
         )
@@ -10022,7 +10070,7 @@ async def process_payment_photo(message: Message, state: FSMContext):
 @dp.message(PaymentStates.waiting_payment_photo)
 async def process_invalid_payment_photo(message: Message, state: FSMContext):
     await message.answer(
-        "_E['cross2'] <b>Пожалуйста, отправьте фото или скриншот чека об оплате.</b>\n\n"
+        "❌ <b>Пожалуйста, отправьте фото или скриншот чека об оплате.</b>\n\n"
         "📸 Отправьте фото:",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
             [InlineKeyboardButton(text="◀️ Отмена", callback_data='subscriptions')]
@@ -10038,11 +10086,11 @@ async def callback_search_girls(call: CallbackQuery):
     
     # Проверяем, что у пользователя премиум подписка
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Поиск девочек доступен только с премиум подпиской!", show_alert=True)
+        await call.answer("❌ Поиск девочек доступен только с премиум подпиской!", show_alert=True)
         return
     
     if not await check_payment_status(user_id):
-        await call.answer("_E['lock'] Сначала приобретите подписку!", show_alert=True)
+        await call.answer("🔒 Сначала приобретите подписку!", show_alert=True)
         return
     
     user_subscription = get_user_subscription_type(user_id)
@@ -10050,16 +10098,16 @@ async def callback_search_girls(call: CallbackQuery):
     try:
         await call.message.edit_text(
             "👩‍🦰 <b>Поиск Девочек</b>\n\n"
-            "_E['target'] <b>Выберите количество девочек для поиска:</b>\n\n"
-            f"_E['diamond'] <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n\n"
-            "_E['sparkle'] <b>Премиум функция:</b> Только для пользователей с премиум подпиской!\n\n"
+            "🎯 <b>Выберите количество девочек для поиска:</b>\n\n"
+            f"💎 <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n\n"
+            "✨ <b>Премиум функция:</b> Только для пользователей с премиум подпиской!\n\n"
             "Доступные количества:",
             reply_markup=make_search_options_keyboard(user_subscription, is_girls_search=True)
         )
     except Exception as e:
         await call.message.answer(
             "👩‍🦰 <b>Поиск Девочек</b>\n\n"
-            "_E['target'] <b>Выберите количество девочек для поиска:</b>",
+            "🎯 <b>Выберите количество девочек для поиска:</b>",
             reply_markup=make_search_options_keyboard(user_subscription, is_girls_search=True)
         )
     pass
@@ -10071,7 +10119,7 @@ async def callback_girls_difficulty(call: CallbackQuery):
     
     parts = call.data.split('_')
     if len(parts) != 4:
-        await call.answer("_E['cross2'] Ошибка выбора сложности")
+        await call.answer("❌ Ошибка выбора сложности")
         return
         
     difficulty = parts[2]
@@ -10081,14 +10129,14 @@ async def callback_girls_difficulty(call: CallbackQuery):
         Kuperov_count = 30
     
     if not await check_payment_status(user_id):
-        await call.answer("_E['lock'] Сначала приобретите подписку!", show_alert=True)
+        await call.answer("🔒 Сначала приобретите подписку!", show_alert=True)
         return
     
     user_subscription = get_user_subscription_type(user_id)
     
     available_difficulties = SUBSCRIPTION_FEATURES[user_subscription]["difficulties"]
     if difficulty not in available_difficulties:
-        await call.answer("_E['cross2'] Эта сложность недоступна для вашей подписки!", show_alert=True)
+        await call.answer("❌ Эта сложность недоступна для вашей подписки!", show_alert=True)
         return
     
     # Запускаем поиск девочек
@@ -10103,7 +10151,7 @@ async def callback_girls_search_count(call: CallbackQuery):
     
     # Проверяем премиум доступ
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Поиск девочек доступен только с премиум подпиской!", show_alert=True)
+        await call.answer("❌ Поиск девочек доступен только с премиум подпиской!", show_alert=True)
         return
     
     count_str = call.data.replace('girls_search_', '')
@@ -10113,7 +10161,7 @@ async def callback_girls_search_count(call: CallbackQuery):
         Kuperov_count = 30
     
     if not await check_payment_status(user_id):
-        await call.answer("_E['lock'] Сначала приобретите подписку!", show_alert=True)
+        await call.answer("🔒 Сначала приобретите подписку!", show_alert=True)
         return
     
     user_subscription = get_user_subscription_type(user_id)
@@ -10121,13 +10169,13 @@ async def callback_girls_search_count(call: CallbackQuery):
     # Проверяем доступность количества для текущей подписки
     available_limits = SUBSCRIPTION_FEATURES[user_subscription]["search_limits"]
     if Kuperov_count not in available_limits:
-        await call.answer("_E['cross2'] Это количество недоступно для вашей подписки!", show_alert=True)
+        await call.answer("❌ Это количество недоступно для вашей подписки!", show_alert=True)
         return
     
     try:
         await call.message.edit_text(
             f"👩‍🦰 <b>Выберите сложность поиска для {Kuperov_count} девочек:</b>\n\n"
-            f"_E['diamond'] <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n\n"
+            f"💎 <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n\n"
             "Доступные уровни сложности:",
             reply_markup=make_difficulty_keyboard(Kuperov_count, user_subscription, is_girls_search=True)
         )
@@ -10140,7 +10188,7 @@ async def callback_girls_search_count(call: CallbackQuery):
 @dp.callback_query(F.data == 'admin_payments_pending')
 async def admin_payments_pending_handler(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     pending_payments = get_pending_payments()
@@ -10148,7 +10196,7 @@ async def admin_payments_pending_handler(call: CallbackQuery):
     if not pending_payments:
         await call.message.edit_text(
             "📋 <b>Ожидающие заявки на оплату</b>\n\n"
-            "_E['check2'] Нет ожидающих заявок!",
+            "✅ Нет ожидающих заявок!",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="📋 Все заявки", callback_data='admin_payments_list')],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='admin_payments')]
@@ -10162,9 +10210,9 @@ async def admin_payments_pending_handler(call: CallbackQuery):
         created_time = datetime.fromisoformat(payment['created_at']).strftime('%H:%M')
         text += (
             f"🆔 <b>#{payment['id']}</b> | {created_time}\n"
-            f"_E['person'] {payment['first_name']} (@{payment['username']})\n"
+            f"👤 {payment['first_name']} (@{payment['username']})\n"
             f"🎫 {SUBSCRIPTION_FEATURES[payment['subscription_type']]['name']}\n"
-            f"_E['money_bag'] {payment['amount_rub']} RUB\n\n"
+            f"💰 {payment['amount_rub']} RUB\n\n"
         )
     
     if len(pending_payments) > 10:
@@ -10187,12 +10235,12 @@ async def callback_girls_difficulty(call: CallbackQuery):
     
     # Проверяем премиум доступ
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Поиск девочек доступен только с премиум подпиской!", show_alert=True)
+        await call.answer("❌ Поиск девочек доступен только с премиум подпиской!", show_alert=True)
         return
     
     parts = call.data.split('_')
     if len(parts) != 4:
-        await call.answer("_E['cross2'] Ошибка выбора сложности")
+        await call.answer("❌ Ошибка выбора сложности")
         return
         
     difficulty = parts[2]
@@ -10202,14 +10250,14 @@ async def callback_girls_difficulty(call: CallbackQuery):
         Kuperov_count = 30
     
     if not await check_payment_status(user_id):
-        await call.answer("_E['lock'] Сначала приобретите подписку!", show_alert=True)
+        await call.answer("🔒 Сначала приобретите подписку!", show_alert=True)
         return
     
     user_subscription = get_user_subscription_type(user_id)
     
     available_difficulties = SUBSCRIPTION_FEATURES[user_subscription]["difficulties"]
     if difficulty not in available_difficulties:
-        await call.answer("_E['cross2'] Эта сложность недоступна для вашей подписки!", show_alert=True)
+        await call.answer("❌ Эта сложность недоступна для вашей подписки!", show_alert=True)
         return
     
     # Запускаем поиск девочек
@@ -10219,7 +10267,7 @@ async def callback_girls_difficulty(call: CallbackQuery):
 async def user_stats_handler(message: Message):
     """Показывает статистику пользователей из файла"""
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     try:
@@ -10231,7 +10279,7 @@ async def user_stats_handler(message: Message):
         # Получаем последних 10 пользователей
         recent_users = users[-10:] if users else []
         
-        stats_text = f"_E['chart'] <b>Статистика пользователей</b>\n\n"
+        stats_text = f"📊 <b>Статистика пользователей</b>\n\n"
         stats_text += f"👥 <b>Всего пользователей:</b> {total_users}\n\n"
         
         if recent_users:
@@ -10245,9 +10293,9 @@ async def user_stats_handler(message: Message):
         await message.answer(stats_text)
         
     except FileNotFoundError:
-        await message.answer("_E['chart'] <b>Файл с пользователями еще не создан</b>")
+        await message.answer("📊 <b>Файл с пользователями еще не создан</b>")
     except Exception as e:
-        await message.answer(f"_E['cross2'] <b>Ошибка чтения файла:</b> {e}")
+        await message.answer(f"❌ <b>Ошибка чтения файла:</b> {e}")
 
 
 
@@ -10269,7 +10317,7 @@ async def ban_handler(message: Message):
     user_id = message.from_user.id
     
     if not is_admin(user_id):
-        await message.answer("_E['cross2'] У вас нет доступа к этой команде!")
+        await message.answer("❌ У вас нет доступа к этой команде!")
         return
     
     parts = message.text.split()
@@ -10301,13 +10349,13 @@ async def ban_handler(message: Message):
         # Проверяем, существует ли пользователь
         user_data = get_user_from_db(target_user_id)
         if not user_data:
-            await message.answer(f"_E['cross2'] Пользователь с ID {target_user_id} не найден!")
+            await message.answer(f"❌ Пользователь с ID {target_user_id} не найден!")
             return
         
         # Проверяем, не забанен ли уже
         ban_info = is_user_banned(target_user_id)
         if ban_info:
-            await message.answer(f"_E['cross2'] Пользователь {target_user_id} уже забанен!")
+            await message.answer(f"❌ Пользователь {target_user_id} уже забанен!")
             return
         
         # Баним пользователя
@@ -10338,7 +10386,7 @@ async def ban_handler(message: Message):
             # ОПОВЕЩЕНИЕ В ЧАТ О БАНЕ
             group_message = (
                 f"🔨 <b>Пользователь забанен</b>\n\n"
-                f"_E['person'] <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username'] or 'нет'})\n"
+                f"👤 <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username'] or 'нет'})\n"
                 f"🆔 <b>ID:</b> {target_user_id}\n"
                 f"📝 <b>Причина:</b> {reason}\n"
                 f"{duration_text}"
@@ -10348,13 +10396,13 @@ async def ban_handler(message: Message):
             
             try:
                 await bot.send_message(GROUP_ID, group_message)
-                logging.info(f"_E['check2'] Оповещение о бане отправлено в группу {GROUP_ID}")
+                logging.info(f"✅ Оповещение о бане отправлено в группу {GROUP_ID}")
             except Exception as e:
-                logging.error(f"_E['cross2'] Не удалось отправить оповещение в группу: {e}")
+                logging.error(f"❌ Не удалось отправить оповещение в группу: {e}")
             
             await message.answer(
-                f"_E['check2'] <b>Пользователь забанен!</b>\n\n"
-                f"_E['person'] <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username'] or 'нет'})\n"
+                f"✅ <b>Пользователь забанен!</b>\n\n"
+                f"👤 <b>Пользователь:</b> {user_data['first_name']} (@{user_data['username'] or 'нет'})\n"
                 f"🆔 <b>ID:</b> {target_user_id}\n"
                 f"📝 <b>Причина:</b> {reason}\n"
                 f"{duration_text}"
@@ -10382,16 +10430,16 @@ async def ban_handler(message: Message):
                 
                 await bot.send_message(target_user_id, ban_message)
             except Exception as e:
-                logging.error(f"_E['cross2'] Не удалось уведомить пользователя о бане: {e}")
+                logging.error(f"❌ Не удалось уведомить пользователя о бане: {e}")
                 
         else:
-            await message.answer("_E['cross2'] Ошибка бана пользователя!")
+            await message.answer("❌ Ошибка бана пользователя!")
             
     except ValueError:
-        await message.answer("_E['cross2'] Неверный формат ID! ID должен быть числом.")
+        await message.answer("❌ Неверный формат ID! ID должен быть числом.")
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в команде ban: {e}")
-        await message.answer(f"_E['cross2'] Произошла ошибка: {str(e)}")
+        logging.error(f"❌ Ошибка в команде ban: {e}")
+        await message.answer(f"❌ Произошла ошибка: {str(e)}")
 
 @dp.message(Command("unban"))
 async def unban_handler(message: Message):
@@ -10399,7 +10447,7 @@ async def unban_handler(message: Message):
     user_id = message.from_user.id
     
     if not is_admin(user_id):
-        await message.answer("_E['cross2'] У вас нет доступа к этой команде!")
+        await message.answer("❌ У вас нет доступа к этой команде!")
         return
     
     parts = message.text.split()
@@ -10420,7 +10468,7 @@ async def unban_handler(message: Message):
         # Проверяем, забанен ли пользователь
         ban_info = is_user_banned(target_user_id)
         if not ban_info:
-            await message.answer(f"_E['cross2'] Пользователь {target_user_id} не забанен!")
+            await message.answer(f"❌ Пользователь {target_user_id} не забанен!")
             return
         
         # Разбаниваем
@@ -10432,7 +10480,7 @@ async def unban_handler(message: Message):
             # Отправляем уведомление в группу
             group_message = (
                 f"🔓 <b>Пользователь разбанен</b>\n\n"
-                f"_E['person'] <b>Пользователь:</b> {user_data['first_name'] if user_data else 'Неизвестно'} (@{user_data['username'] if user_data else 'нет'})\n"
+                f"👤 <b>Пользователь:</b> {user_data['first_name'] if user_data else 'Неизвестно'} (@{user_data['username'] if user_data else 'нет'})\n"
                 f"🆔 <b>ID:</b> {target_user_id}\n"
                 f"👑 <b>Разбанил:</b> {message.from_user.first_name}\n"
                 f"⏱️ <b>Время:</b> {datetime.now().strftime('%d.%m.%Y %H:%M')}"
@@ -10441,10 +10489,10 @@ async def unban_handler(message: Message):
             try:
                 await bot.send_message(GROUP_ID, group_message)
             except Exception as e:
-                logging.error(f"_E['cross2'] Не удалось отправить уведомление в группу: {e}")
+                logging.error(f"❌ Не удалось отправить уведомление в группу: {e}")
             
             await message.answer(
-                f"_E['check2'] <b>Пользователь разбанен!</b>\n\n"
+                f"✅ <b>Пользователь разбанен!</b>\n\n"
                 f"🆔 <b>ID:</b> {target_user_id}\n"
                 f"🔔 Уведомление отправлено в группу."
             )
@@ -10453,20 +10501,20 @@ async def unban_handler(message: Message):
             try:
                 await bot.send_message(
                     target_user_id,
-                    "_E['check2'] <b>Вы были разбанены в боте!</b>\n\n"
+                    "✅ <b>Вы были разбанены в боте!</b>\n\n"
                     "🚀 Теперь вы снова можете пользоваться ботом."
                 )
             except Exception as e:
-                logging.error(f"_E['cross2'] Не удалось уведомить пользователя о разбане: {e}")
+                logging.error(f"❌ Не удалось уведомить пользователя о разбане: {e}")
                 
         else:
-            await message.answer("_E['cross2'] Ошибка разбана пользователя!")
+            await message.answer("❌ Ошибка разбана пользователя!")
             
     except ValueError:
-        await message.answer("_E['cross2'] Неверный формат ID! ID должен быть числом.")
+        await message.answer("❌ Неверный формат ID! ID должен быть числом.")
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в команде unban: {e}")
-        await message.answer(f"_E['cross2'] Произошла ошибка: {str(e)}")
+        logging.error(f"❌ Ошибка в команде unban: {e}")
+        await message.answer(f"❌ Произошла ошибка: {str(e)}")
 
 @dp.message(Command("bans"))
 async def bans_handler(message: Message):
@@ -10474,7 +10522,7 @@ async def bans_handler(message: Message):
     user_id = message.from_user.id
     
     if not is_admin(user_id):
-        await message.answer("_E['cross2'] У вас нет доступа к этой команде!")
+        await message.answer("❌ У вас нет доступа к этой команде!")
         return
     
     banned_users = get_banned_users()
@@ -10531,19 +10579,19 @@ async def check_my_payment_status(message: Message):
     
     if not payments:
         await message.answer(
-            "_E['chart'] <b>Ваши заявки на оплату</b>\n\n"
-            "_E['cross2'] У вас нет заявок на оплату.",
+            "📊 <b>Ваши заявки на оплату</b>\n\n"
+            "❌ У вас нет заявок на оплату.",
             reply_markup=make_back_menu()
         )
         return
     
-    text = "_E['chart'] <b>Ваши последние заявки на оплату</b>\n\n"
+    text = "📊 <b>Ваши последние заявки на оплату</b>\n\n"
     
     for payment in payments:
         status_icons = {
             PaymentStatus.PENDING: "⏳",
-            PaymentStatus.APPROVED: "_E['check2']", 
-            PaymentStatus.REJECTED: "_E['cross2']"
+            PaymentStatus.APPROVED: "✅", 
+            PaymentStatus.REJECTED: "❌"
         }
         
         status_texts = {
@@ -10556,9 +10604,9 @@ async def check_my_payment_status(message: Message):
         text += (
             f"{status_icons[payment[5]]} <b>Заявка #{payment[0]}</b>\n"
             f"🎫 {SUBSCRIPTION_FEATURES[payment[2]]['name']}\n"
-            f"_E['money_bag'] {payment[3]} RUB\n"
+            f"💰 {payment[3]} RUB\n"
             f"📅 {created_time}\n"
-            f"_E['chart'] Статус: {status_texts[payment[5]]}\n\n"
+            f"📊 Статус: {status_texts[payment[5]]}\n\n"
         )
     
     await message.answer(text, reply_markup=make_back_menu())
@@ -10568,12 +10616,12 @@ async def callback_broadcast_start(call: CallbackQuery):
     user_id = call.from_user.id
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     credentials = get_user_credentials(user_id)
     if not credentials or not credentials['session_active']:
-        await call.answer("_E['cross2'] Сначала выполните аутентификацию!", show_alert=True)
+        await call.answer("❌ Сначала выполните аутентификацию!", show_alert=True)
         return
     
     # Проверяем, есть ли сохраненные пользователи из предыдущего поиска в БАЗЕ ДАННЫХ
@@ -10592,13 +10640,13 @@ async def callback_broadcast_start(call: CallbackQuery):
         
         await call.message.edit_text(
             f"🚀 <b>Начать рассылку</b>\n\n"
-            f"_E['chart'] <b>Последний поиск:</b>\n"
+            f"📊 <b>Последний поиск:</b>\n"
             f"• Найдено: {len(usernames)} пользователей\n"
             f"• Сложность: {difficulty_text}\n"
             f"• Время: {searched_at}\n\n"
             f"Выберите действие:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text="_E['megaphone'] Рассылка последним найденным", callback_data='broadcast_to_last_found')],
+                [InlineKeyboardButton(text="📣 Рассылка последним найденным", callback_data='broadcast_to_last_found')],
                 [InlineKeyboardButton(text="🔍 Новый поиск людей", callback_data='search_options')],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='broadcast_menu')]
             ])
@@ -10618,16 +10666,16 @@ async def callback_broadcast_settings(call: CallbackQuery):
     user_id = call.from_user.id
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     settings = get_broadcast_settings(user_id)
     
     await call.message.edit_text(
-        f"_E['gear'] <b>Настройки рассылки</b>\n\n"
+        f"⚙️ <b>Настройки рассылки</b>\n\n"
         f"✏️ <b>Текст сообщения:</b>\n<code>{settings['message_text']}</code>\n\n"
         f"⏱️ <b>Задержка между сообщениями:</b> {settings['delay_between_messages']} сек.\n"
-        f"_E['chart'] <b>Лимит сообщений в минуту:</b> {settings['max_messages_per_minute']}\n\n"
+        f"📊 <b>Лимит сообщений в минуту:</b> {settings['max_messages_per_minute']}\n\n"
         "👇 <b>Выберите настройку для изменения:</b>",
         reply_markup=make_settings_menu_keyboard()
     )
@@ -10648,7 +10696,7 @@ async def process_message_setting(message: Message, state: FSMContext):
     new_message = message.text.strip()
     
     if len(new_message) < 2:
-        await message.answer("_E['cross2'] <b>Сообщение слишком короткое!</b>\nВведите текст длиннее:")
+        await message.answer("❌ <b>Сообщение слишком короткое!</b>\nВведите текст длиннее:")
         return
     
     settings = get_broadcast_settings(message.from_user.id)
@@ -10661,13 +10709,13 @@ async def process_message_setting(message: Message, state: FSMContext):
     
     if success:
         await message.answer(
-            "_E['check2'] <b>Текст сообщения успешно обновлен!</b>\n\n"
+            "✅ <b>Текст сообщения успешно обновлен!</b>\n\n"
             f"📝 <b>Новый текст:</b>\n<code>{new_message}</code>",
             reply_markup=make_back_menu()
         )
     else:
         await message.answer(
-            "_E['cross2'] <b>Ошибка сохранения!</b>\nПопробуйте еще раз:",
+            "❌ <b>Ошибка сохранения!</b>\nПопробуйте еще раз:",
             reply_markup=make_back_menu()
         )
     
@@ -10678,7 +10726,7 @@ async def callback_setting_delay(call: CallbackQuery, state: FSMContext):
     settings = get_broadcast_settings(call.from_user.id)
     await call.message.edit_text(
         "⏱️ <b>Настройка задержки между сообщениями</b>\n\n"
-        f"_E['chart'] <b>Текущая задержка:</b> {settings['delay_between_messages']} секунд\n\n"
+        f"📊 <b>Текущая задержка:</b> {settings['delay_between_messages']} секунд\n\n"
         "✏️ <b>Введите новую задержку в секундах:</b>\n"
         "(рекомендуется от 5 до 60 секунд)",
         reply_markup=make_back_menu()
@@ -10691,11 +10739,11 @@ async def process_delay_setting(message: Message, state: FSMContext):
         new_delay = int(message.text.strip())
         
         if new_delay < 1:
-            await message.answer("_E['cross2'] <b>Задержка не может быть меньше 1 секунды!</b>\nВведите корректное значение:")
+            await message.answer("❌ <b>Задержка не может быть меньше 1 секунды!</b>\nВведите корректное значение:")
             return
         
         if new_delay > 300:
-            await message.answer("_E['cross2'] <b>Задержка не может быть больше 300 секунд!</b>\nВведите корректное значение:")
+            await message.answer("❌ <b>Задержка не может быть больше 300 секунд!</b>\nВведите корректное значение:")
             return
         
         settings = get_broadcast_settings(message.from_user.id)
@@ -10708,20 +10756,20 @@ async def process_delay_setting(message: Message, state: FSMContext):
         
         if success:
             await message.answer(
-                f"_E['check2'] <b>Задержка успешно обновлена!</b>\n\n"
+                f"✅ <b>Задержка успешно обновлена!</b>\n\n"
                 f"⏱️ <b>Новая задержка:</b> {new_delay} секунд",
                 reply_markup=make_back_menu()
             )
         else:
             await message.answer(
-                "_E['cross2'] <b>Ошибка сохранения!</b>\nПопробуйте еще раз:",
+                "❌ <b>Ошибка сохранения!</b>\nПопробуйте еще раз:",
                 reply_markup=make_back_menu()
             )
         
         await state.clear()
         
     except ValueError:
-        await message.answer("_E['cross2'] <b>Неверный формат!</b>\nВведите целое число:")
+        await message.answer("❌ <b>Неверный формат!</b>\nВведите целое число:")
 
 @dp.message(Command("blocked_words"))
 async def blocked_words_handler(message: Message):
@@ -10745,7 +10793,7 @@ async def blocked_words_handler(message: Message):
         "• Реклама и спам (ad, spam, promo)\n\n"
         "📝 <b>Примеры блокируемых слов:</b>\n"
         "<code>{}</code>\n\n"
-        "_E['check2'] <b>Фильтр помогает находить только личные профили!</b>"
+        "✅ <b>Фильтр помогает находить только личные профили!</b>"
     ).format(len(BLOCKED_KEYWORDS), ", ".join(preview_words))
     
     await message.answer(stats_text, reply_markup=make_back_menu())
@@ -10759,19 +10807,19 @@ async def debug_subscription_handler(message: Message):
         # Проверяем первый канал
         try:
             member1 = await bot.get_chat_member(chat_id="@rtc_reverv", user_id=user_id)
-            channel1_info = f"_E['check2'] @rtc_reverv: {member1.status}"
+            channel1_info = f"✅ @rtc_reverv: {member1.status}"
             channel1_subscribed = member1.status in ['member', 'administrator', 'creator']
         except Exception as e:
-            channel1_info = f"_E['cross2'] @rtc_reverv: ошибка - {str(e)}"
+            channel1_info = f"❌ @rtc_reverv: ошибка - {str(e)}"
             channel1_subscribed = False
         
         # Проверяем второй канал
         try:
             member2 = await bot.get_chat_member(chat_id=-1002179471025, user_id=user_id)
-            channel2_info = f"_E['check2'] -1002179471025: {member2.status}"
+            channel2_info = f"✅ -1002179471025: {member2.status}"
             channel2_subscribed = member2.status not in ['left', 'kicked']
         except Exception as e:
-            channel2_info = f"_E['cross2'] -1002179471025: ошибка - {str(e)}"
+            channel2_info = f"❌ -1002179471025: ошибка - {str(e)}"
             channel2_subscribed = False
         
         # Общий результат
@@ -10779,26 +10827,26 @@ async def debug_subscription_handler(message: Message):
         
         debug_text = (
             f"🔍 <b>Отладка подписки для {user_id}</b>\n\n"
-            f"_E['chart'] <b>Статусы каналов:</b>\n"
+            f"📊 <b>Статусы каналов:</b>\n"
             f"• {channel1_info}\n"
             f"• {channel2_info}\n\n"
             f"📋 <b>Результаты проверки:</b>\n"
             f"• @rtc_reverv: {{{_E['check2'] if channel1_subscribed else _E['cross2']}}} {'Подписан' if channel1_subscribed else 'Не подписан'}\n"
             f"• -1002179471025: {{{_E['check2'] if channel2_subscribed else _E['cross2']}}} {'Заявка принята' if channel2_subscribed else 'Нет заявки'}\n\n"
-            f"_E['target'] <b>Итог:</b> {{{_E['check2'] if total_subscribed else _E['cross2']}}} {'Доступ разрешен' if total_subscribed else 'Доступ запрещен'}"
+            f"🎯 <b>Итог:</b> {{{_E['check2'] if total_subscribed else _E['cross2']}}} {'Доступ разрешен' if total_subscribed else 'Доступ запрещен'}"
         )
         
         await message.answer(debug_text)
         
     except Exception as e:
-        await message.answer(f"_E['cross2'] Ошибка отладки: {str(e)}")
+        await message.answer(f"❌ Ошибка отладки: {str(e)}")
 
 @dp.callback_query(F.data == 'setting_limit')
 async def callback_setting_limit(call: CallbackQuery, state: FSMContext):
     settings = get_broadcast_settings(call.from_user.id)
     await call.message.edit_text(
-        "_E['chart'] <b>Настройка лимита сообщений в минуту</b>\n\n"
-        f"_E['target'] <b>Текущий лимит:</b> {settings['max_messages_per_minute']} сообщений/мин\n\n"
+        "📊 <b>Настройка лимита сообщений в минуту</b>\n\n"
+        f"🎯 <b>Текущий лимит:</b> {settings['max_messages_per_minute']} сообщений/мин\n\n"
         "✏️ <b>Введите новый лимит:</b>\n"
         "(рекомендуется от 5 до 30 сообщений в минуту)",
         reply_markup=make_back_menu()
@@ -10825,7 +10873,7 @@ async def filter_stats_handler(message: Message):
         "• Мужские имена в nickname\n" 
         "• Мужские ключевые слова в bio\n"
         "• Традиционно мужские профессии\n\n"
-        "_E['check2'] <b>Фильтры помогают находить только релевантные профили!</b>\n\n"
+        "✅ <b>Фильтры помогают находить только релевантные профили!</b>\n\n"
         "📖 Подробнее: /blocked_words - список блокируемых слов"
     )
     
@@ -10837,11 +10885,11 @@ async def process_limit_setting(message: Message, state: FSMContext):
         new_limit = int(message.text.strip())
         
         if new_limit < 1:
-            await message.answer("_E['cross2'] <b>Лимит не может быть меньше 1!</b>\nВведите корректное значение:")
+            await message.answer("❌ <b>Лимит не может быть меньше 1!</b>\nВведите корректное значение:")
             return
         
         if new_limit > 10000:
-            await message.answer("_E['cross2'] <b>Лимит не может быть больше 10.000!</b>\nВведите корректное значение:")
+            await message.answer("❌ <b>Лимит не может быть больше 10.000!</b>\nВведите корректное значение:")
             return
         
         settings = get_broadcast_settings(message.from_user.id)
@@ -10854,34 +10902,34 @@ async def process_limit_setting(message: Message, state: FSMContext):
         
         if success:
             await message.answer(
-                f"_E['check2'] <b>Лимит успешно обновлен!</b>\n\n"
-                f"_E['chart'] <b>Новый лимит:</b> {new_limit} сообщений/мин",
+                f"✅ <b>Лимит успешно обновлен!</b>\n\n"
+                f"📊 <b>Новый лимит:</b> {new_limit} сообщений/мин",
                 reply_markup=make_back_menu()
             )
         else:
             await message.answer(
-                "_E['cross2'] <b>Ошибка сохранения!</b>\nПопробуйте еще раз:",
+                "❌ <b>Ошибка сохранения!</b>\nПопробуйте еще раз:",
                 reply_markup=make_back_menu()
             )
         
         await state.clear()
         
     except ValueError:
-        await message.answer("_E['cross2'] <b>Неверный формат!</b>\nВведите целое число:")
+        await message.answer("❌ <b>Неверный формат!</b>\nВведите целое число:")
 
 @dp.callback_query(F.data == 'settings_menu')
 async def callback_settings_menu(call: CallbackQuery):
     user_id = call.from_user.id
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     settings = get_broadcast_settings(user_id)
     
     await call.message.edit_text(
-        f"_E['gear'] <b>Настройки бота</b>\n\n"
-        f"_E['megaphone'] <b>Настройки рассылки:</b>\n"
+        f"⚙️ <b>Настройки бота</b>\n\n"
+        f"📣 <b>Настройки рассылки:</b>\n"
         f"• Текст сообщения: <code>{settings['message_text'][:50]}...</code>\n"
         f"• Задержка: {settings['delay_between_messages']} сек.\n"
         f"• Лимит: {settings['max_messages_per_minute']} сообщ./мин.\n\n"
@@ -10894,7 +10942,7 @@ async def callback_broadcast_status(call: CallbackQuery):
     user_id = call.from_user.id
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     credentials = get_user_credentials(user_id)
@@ -10903,20 +10951,20 @@ async def callback_broadcast_status(call: CallbackQuery):
     if credentials and api_credentials:
         status_text = (
             "🔐 <b>Статус сессии Telethon</b>\n\n"
-            f"_E['phone'] <b>Номер телефона:</b> {credentials['phone_number'] or 'Не указан'}\n"
+            f"📱 <b>Номер телефона:</b> {credentials['phone_number'] or 'Не указан'}\n"
             f"🆔 <b>API ID:</b> {api_credentials['api_id']}\n"
             f"🔑 <b>API Hash:</b> {api_credentials['api_hash'][:10]}...\n"
-            f"{_E['chart']} <b>Статус:</b> {{{_E['check2'] if credentials['session_active'] else _E['cross2']}}} {'Активна' if credentials['session_active'] else 'Не активна'}\n\n"
+            f"📊 <b>Статус:</b> {{{_E['check2'] if credentials['session_active'] else _E['cross2']}}} {'Активна' if credentials['session_active'] else 'Не активна'}\n\n"
         )
         
         if credentials['session_active']:
-            status_text += "_E['check2'] <b>Сессия готова к работе!</b>\nВы можете начинать рассылку."
+            status_text += "✅ <b>Сессия готова к работе!</b>\nВы можете начинать рассылку."
         else:
-            status_text += "_E['cross2'] <b>Сессия не активна.</b>\nНеобходимо активировать сессию."
+            status_text += "❌ <b>Сессия не активна.</b>\nНеобходимо активировать сессию."
     else:
         status_text = (
             "🔐 <b>Статус сессии Telethon</b>\n\n"
-            "_E['cross2'] <b>Не все настройки завершены!</b>\n\n"
+            "❌ <b>Не все настройки завершены!</b>\n\n"
             "Для использования рассылки необходимо:\n"
             "1. Настроить API данные\n"
             "2. Настроить phone number\n"
@@ -10935,11 +10983,11 @@ async def callback_search_options(call: CallbackQuery):
     
     if not await check_payment_status(user_id):
         await call.message.edit_text(
-            "_E['lock'] <b>Доступ закрыт</b>\n\n"
+            "🔒 <b>Доступ закрыт</b>\n\n"
             "💫 Для поиска людей необходима подписка\n\n" 
-            "_E['gift'] <b>Доступные подписки:</b>\n"
-            "• _E['idea'] Лайт - 10_E['star'] (поиск 10,20,30 людей)\n"
-            "• _E['star'] Премиум - 100_E['star'] (все возможности)\n\n"
+            "🎁 <b>Доступные подписки:</b>\n"
+            "• 💡 Лайт - 10⭐️ (поиск 10,20,30 людей)\n"
+            "• ⭐️ Премиум - 100⭐️ (все возможности)\n\n"
             "👇 Нажмите кнопку ниже:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="🎫 Выбрать подписку", callback_data='subscriptions')],
@@ -10953,8 +11001,8 @@ async def callback_search_options(call: CallbackQuery):
     
     try:
         await call.message.edit_text(
-            "_E['target'] <b>Выберите тип поиска:</b>\n\n"
-            f"_E['idea'] <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}",
+            "🎯 <b>Выберите тип поиска:</b>\n\n"
+            f"💡 <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [
                     InlineKeyboardButton(text="🔍 Обычный поиск", callback_data='search_Kuperov_normal'),
@@ -10965,7 +11013,7 @@ async def callback_search_options(call: CallbackQuery):
         )
     except Exception as e:
         await call.message.answer(
-            "_E['target'] <b>Выберите тип поиска:</b>",
+            "🎯 <b>Выберите тип поиска:</b>",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [
                     InlineKeyboardButton(text="🔍 Обычный поиск", callback_data='search_Kuperov_normal'),
@@ -10984,14 +11032,14 @@ async def callback_search_Kuperov_normal(call: CallbackQuery):
     
     try:
         await call.message.edit_text(
-            "_E['target'] <b>Выберите количество людей для поиска:</b>\n\n"
-            f"_E['idea'] <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n\n"
+            "🎯 <b>Выберите количество людей для поиска:</b>\n\n"
+            f"💡 <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n\n"
             "Доступные количества:",
             reply_markup=make_search_options_keyboard(user_subscription)
         )
     except Exception as e:
         await call.message.answer(
-            "_E['target'] <b>Выберите количество людей для поиска:</b>",
+            "🎯 <b>Выберите количество людей для поиска:</b>",
             reply_markup=make_search_options_keyboard(user_subscription)
         )
 
@@ -11000,7 +11048,7 @@ async def callback_setup_api(call: CallbackQuery, state: FSMContext):
     user_id = call.from_user.id
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     current_api = get_user_api_credentials(user_id)
@@ -11027,7 +11075,7 @@ async def callback_setup_api(call: CallbackQuery, state: FSMContext):
             "4. Создайте новое приложение и получите:\n"
             "   • <b>API ID</b>\n"
             "   • <b>API Hash</b>\n\n"
-            "_E['lock'] <b>Ваши API данные хранятся безопасно!</b>\n\n"
+            "🔒 <b>Ваши API данные хранятся безопасно!</b>\n\n"
             "👇 Нажмите кнопку чтобы начать настройку:"
         )
         keyboard = InlineKeyboardMarkup(inline_keyboard=[
@@ -11044,7 +11092,7 @@ async def callback_setup_api_start(call: CallbackQuery, state: FSMContext):
         "🔑 <b>Настройка API - Шаг 1</b>\n\n"
         "✏️ <b>Введите ваш API ID:</b>\n"
         "(целое число, например: 12345678)\n\n"
-        "_E['phone'] Получить можно на: https://my.telegram.org",
+        "📱 Получить можно на: https://my.telegram.org",
         reply_markup=make_back_menu()
     )
     await state.set_state(ApiSetupStates.waiting_api_id)
@@ -11054,7 +11102,7 @@ async def process_api_id(message: Message, state: FSMContext):
     api_id = message.text.strip()
     
     if not api_id.isdigit():
-        await message.answer("_E['cross2'] <b>API ID должен быть числом!</b>\nПопробуйте еще раз:")
+        await message.answer("❌ <b>API ID должен быть числом!</b>\nПопробуйте еще раз:")
         return
     
     await state.update_data(api_id=api_id)
@@ -11063,7 +11111,7 @@ async def process_api_id(message: Message, state: FSMContext):
         "🔑 <b>Настройка API - Шаг 2</b>\n\n"
         "✏️ <b>Введите ваш API Hash:</b>\n"
         "(строка из 32 символов, например: a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6)\n\n"
-        "_E['phone'] Получить можно на: https://my.telegram.org",
+        "📱 Получить можно на: https://my.telegram.org",
         reply_markup=make_back_menu()
     )
     await state.set_state(ApiSetupStates.waiting_api_hash)
@@ -11075,7 +11123,7 @@ async def process_api_hash(message: Message, state: FSMContext):
     api_id = user_data.get('api_id')
     
     if len(api_hash) < 10:
-        await message.answer("_E['cross2'] <b>API Hash слишком короткий!</b>\nПопробуйте еще раз:")
+        await message.answer("❌ <b>API Hash слишком короткий!</b>\nПопробуйте еще раз:")
         return
     
     # Сохраняем API credentials
@@ -11083,7 +11131,7 @@ async def process_api_hash(message: Message, state: FSMContext):
     
     if success:
         await message.answer(
-            "_E['check2'] <b>API данные успешно сохранены!</b>\n\n"
+            "✅ <b>API данные успешно сохранены!</b>\n\n"
             f"🆔 <b>API ID:</b> {api_id}\n"
             f"🔑 <b>API Hash:</b> {api_hash[:10]}...\n\n"
             "🚀 Теперь вы можете настроить аутентификацию.",
@@ -11094,7 +11142,7 @@ async def process_api_hash(message: Message, state: FSMContext):
         )
     else:
         await message.answer(
-            "_E['cross2'] <b>Ошибка сохранения API данных!</b>\nПопробуйте еще раз:",
+            "❌ <b>Ошибка сохранения API данных!</b>\nПопробуйте еще раз:",
             reply_markup=make_back_menu()
         )
     
@@ -11114,7 +11162,7 @@ async def callback_api_instructions(call: CallbackQuery):
         "   • Platform: <code>Desktop</code>\n"
         "   • Description: <code>For message broadcasting</code>\n\n"
         "5. <b>Получите</b> API ID и API Hash\n\n"
-        "_E['lock'] <b>Ваши данные в безопасности!</b>\n\n"
+        "🔒 <b>Ваши данные в безопасности!</b>\n\n"
         "👇 Нажмите кнопку чтобы начать настройку:",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
             [InlineKeyboardButton(text="🚀 Начать настройку API", callback_data='setup_api_start')],
@@ -11132,13 +11180,13 @@ async def callback_delete_api(call: CallbackQuery):
     
     if delete_user_api_credentials(user_id):
         await call.message.edit_text(
-            "_E['check2'] <b>API данные успешно удалены!</b>\n\n"
+            "✅ <b>API данные успешно удалены!</b>\n\n"
             "Все ваши API данные были удалены из системы.",
             reply_markup=make_back_menu()
         )
     else:
         await call.message.edit_text(
-            "_E['cross2'] <b>Ошибка удаления API данных!</b>",
+            "❌ <b>Ошибка удаления API данных!</b>",
             reply_markup=make_back_menu()
         )
 
@@ -11154,7 +11202,7 @@ async def callback_search_Kuperov(call: CallbackQuery):
         Kuperov_count = 30
     
     if not await check_payment_status(user_id):
-        await call.answer("_E['lock'] Сначала приобретите подписку!", show_alert=True)
+        await call.answer("🔒 Сначала приобретите подписку!", show_alert=True)
         return
     
     user_subscription = get_user_subscription_type(user_id)
@@ -11162,19 +11210,19 @@ async def callback_search_Kuperov(call: CallbackQuery):
     # Проверяем доступность количества для текущей подписки
     available_limits = SUBSCRIPTION_FEATURES[user_subscription]["search_limits"]
     if Kuperov_count not in available_limits:
-        await call.answer("_E['cross2'] Это количество недоступно для вашей подписки!", show_alert=True)
+        await call.answer("❌ Это количество недоступно для вашей подписки!", show_alert=True)
         return
     
     try:
         await call.message.edit_text(
-            f"_E['target'] <b>Выберите сложность поиска для {Kuperov_count} людей:</b>\n\n"
-            f"_E['idea'] <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n\n"
+            f"🎯 <b>Выберите сложность поиска для {Kuperov_count} людей:</b>\n\n"
+            f"💡 <b>Ваша подписка:</b> {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n\n"
             "Доступные уровни сложности:",
             reply_markup=make_difficulty_keyboard(Kuperov_count, user_subscription)
         )
     except Exception as e:
         await call.message.answer(
-            f"_E['target'] <b>Выберите сложность поиска для {Kuperov_count} людей:</b>",
+            f"🎯 <b>Выберите сложность поиска для {Kuperov_count} людей:</b>",
             reply_markup=make_difficulty_keyboard(Kuperov_count, user_subscription)
         )
 
@@ -11186,7 +11234,7 @@ async def callback_difficulty_optimized(call: CallbackQuery):
     
     parts = call.data.split('_')
     if len(parts) != 3:
-        await call.answer("_E['cross2'] Ошибка выбора сложности")
+        await call.answer("❌ Ошибка выбора сложности")
         return
         
     difficulty = parts[1]
@@ -11196,14 +11244,14 @@ async def callback_difficulty_optimized(call: CallbackQuery):
         Kuperov_count = 30
     
     if not await check_payment_status(user_id):
-        await call.answer("_E['lock'] Сначала приобретите подписку!", show_alert=True)
+        await call.answer("🔒 Сначала приобретите подписку!", show_alert=True)
         return
     
     user_subscription = check_subscription_status(user_id)
     
     available_difficulties = SUBSCRIPTION_FEATURES[user_subscription]["difficulties"]
     if difficulty not in available_difficulties:
-        await call.answer("_E['cross2'] Эта сложность недоступна для вашей подписки!", show_alert=True)
+        await call.answer("❌ Эта сложность недоступна для вашей подписки!", show_alert=True)
         return
     
     difficulty_text = {
@@ -11215,9 +11263,9 @@ async def callback_difficulty_optimized(call: CallbackQuery):
     
     msg = await call.message.answer(
         f"🔍 <b>Запускаем оптимизированный поиск {Kuperov_count} людей...</b>\n\n"
-        f"_E['chart'] Сложность: {difficulty_text}\n"
-        f"_E['idea'] Подписка: {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n"
-        f"_E['lightning'] <b>Используется ОПТИМИЗИРОВАННЫЙ РЕЖИМ!</b>\n"
+        f"📊 Сложность: {difficulty_text}\n"
+        f"💡 Подписка: {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n"
+        f"⚡️ <b>Используется ОПТИМИЗИРОВАННЫЙ РЕЖИМ!</b>\n"
         f"{progress_bar(0, Kuperov_count)}", 
         reply_markup=make_search_keyboard()
     )
@@ -11260,7 +11308,7 @@ async def callback_difficulty_optimized(call: CallbackQuery):
         await bot.edit_message_text(
             chat_id=call.message.chat.id,
             message_id=msg.message_id,
-            text=f"_E['cross2'] <b>Произошла ошибка:</b>\n{str(e)}",
+            text=f"❌ <b>Произошла ошибка:</b>\n{str(e)}",
             reply_markup=make_search_keyboard()
         )
 
@@ -11314,14 +11362,14 @@ async def show_search_progress_with_stats(chat_id, message_id, usernames_found, 
     # Собираем текст
     progress_text = (
         f"🔍 <b>Поиск пользователей</b>\n\n"
-        f"_E['chart'] <b>Сложность:</b> {difficulty_text}\n"
-        f"_E['target'] <b>Цель:</b> {usernames_found}/{total_needed}\n"
-        f"_E['chart'] <b>Прогресс:</b> [{progress_bar}] {progress_percent}%\n\n"
-        f"_E['lightning'] <b>Скорость:</b> {speed_per_second:.1f} запросов/сек\n"
-        f"_E['trending'] <b>Эффективность:</b> {efficiency:.1f}%\n"
+        f"📊 <b>Сложность:</b> {difficulty_text}\n"
+        f"🎯 <b>Цель:</b> {usernames_found}/{total_needed}\n"
+        f"📊 <b>Прогресс:</b> [{progress_bar}] {progress_percent}%\n\n"
+        f"⚡️ <b>Скорость:</b> {speed_per_second:.1f} запросов/сек\n"
+        f"📈 <b>Эффективность:</b> {efficiency:.1f}%\n"
         f"⏱️ <b>Осталось:</b> {time_text}\n"
         f"⏳ <b>Прошло:</b> {int(time_elapsed)} сек\n\n"
-        f"_E['chart'] <b>Статистика:</b>\n"
+        f"📊 <b>Статистика:</b>\n"
         f"• Обработано: {processed_count}\n"
         f"• Найдено: {usernames_found}\n"
         f"• Заблокировано: {blocked_count}\n"
@@ -11352,9 +11400,9 @@ async def show_search_results_page(chat_id: int, message_id: int, usernames: lis
     
     # Создаем текст для текущей страницы
     result_text = (
-        f"_E['confetti'] <b>Найдено {len(usernames)} человек с подарками!</b>\n\n"
-        f"_E['chart'] Сложность: {difficulty_text}\n"
-        f"_E['idea'] Подписка: {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n"
+        f"🎉 <b>Найдено {len(usernames)} человек с подарками!</b>\n\n"
+        f"📊 Сложность: {difficulty_text}\n"
+        f"💡 Подписка: {SUBSCRIPTION_FEATURES[user_subscription]['name']}\n"
         f"📄 Страница {page + 1}/{total_pages}\n"
         f"👥 Пользователей на странице: {len(current_page_users)}\n\n"
     )
@@ -11364,7 +11412,7 @@ async def show_search_results_page(chat_id: int, message_id: int, usernames: lis
     for i, username in enumerate(current_page_users, start_index + 1):
         result_text += f"{i}. @{username}\n"
     
-    result_text += f"\n_E['chart'] <b>Всего поисков:</b> {user_data['used_count'] if user_data else 0}"
+    result_text += f"\n📊 <b>Всего поисков:</b> {user_data['used_count'] if user_data else 0}"
     
     # Создаем клавиатуру с пагинацией
     keyboard = create_pagination_keyboard(page, total_pages, "search_results")
@@ -11393,7 +11441,7 @@ async def show_search_results_page(chat_id: int, message_id: int, usernames: lis
                 custom_keyboard.append(nav_buttons)
             
             # Кнопка рассылки
-            custom_keyboard.append([InlineKeyboardButton(text="_E['megaphone'] Сделать рассылку", callback_data='broadcast_to_last_found')])
+            custom_keyboard.append([InlineKeyboardButton(text="📣 Сделать рассылку", callback_data='broadcast_to_last_found')])
             
             # Кнопка нового поиска
             custom_keyboard.append([
@@ -11416,20 +11464,20 @@ async def callback_broadcast_to_last_found(call: CallbackQuery):
     user_id = call.from_user.id
     
     if get_user_subscription_type(user_id) != SubscriptionType.PREMIUM:
-        await call.answer("_E['cross2'] Требуется премиум подписка!", show_alert=True)
+        await call.answer("❌ Требуется премиум подписка!", show_alert=True)
         return
     
     # Получаем сохраненных пользователей из БАЗЫ ДАННЫХ
     last_search = get_last_search(user_id)
     
     if not last_search or not last_search['usernames']:
-        await call.answer("_E['cross2'] Не найдены пользователи для рассылки! Сначала выполните поиск.", show_alert=True)
+        await call.answer("❌ Не найдены пользователи для рассылки! Сначала выполните поиск.", show_alert=True)
         return
     
     usernames = last_search['usernames']
     
     msg = await call.message.edit_text(
-        f"_E['megaphone'] <b>Начинаем рассылку для {len(usernames)} пользователей...</b>\n\n"
+        f"📣 <b>Начинаем рассылку для {len(usernames)} пользователей...</b>\n\n"
         f"⏱️ Задержка: {get_broadcast_settings(user_id)['delay_between_messages']} сек.\n"
         f"📝 Сообщение: {get_broadcast_settings(user_id)['message_text'][:50]}...\n\n"
         f"🔄 Подготовка к отправке..."
@@ -11456,12 +11504,12 @@ async def callback_broadcast_to_last_found(call: CallbackQuery):
         await bot.edit_message_text(
             chat_id=call.message.chat.id,
             message_id=msg.message_id,
-            text=f"_E['cross2'] <b>Ошибка рассылки:</b>\n{str(e)}",
+            text=f"❌ <b>Ошибка рассылки:</b>\n{str(e)}",
             reply_markup=make_back_menu()
         )
 @dp.callback_query(F.data == 'premium_required')
 async def callback_premium_required(call: CallbackQuery):
-    await call.answer("_E['cross2'] Эта функция доступна только с премиум подпиской!", show_alert=True)
+    await call.answer("❌ Эта функция доступна только с премиум подпиской!", show_alert=True)
 
 @dp.callback_query(F.data == 'referrals')
 @require_subscription
@@ -11474,13 +11522,13 @@ async def callback_referrals(call: CallbackQuery):
     
     text = (
         "👥 <b>Реферальная система</b>\n\n"
-        f"_E['chart'] <b>Приглашено друзей:</b> {referral_count}/5\n\n"
-        "_E['gift'] <b>Пригласите 5 друзей и получите бесплатный доступ на 1 день!</b>\n\n"
+        f"📊 <b>Приглашено друзей:</b> {referral_count}/5\n\n"
+        "🎁 <b>Пригласите 5 друзей и получите бесплатный доступ на 1 день!</b>\n\n"
         "📝 <b>Как это работает:</b>\n"
         "1. Отправьте друзьям вашу реферальную ссылку\n"
         "2. Каждый друг должен нажать на ссылку и запустить бота\n"
         "3. Когда 5 друзей присоединятся - вы получите бесплатный доступ!\n\n"
-        f"_E['link'] <b>Ваша ссылка:</b>\n<code>{referral_link}</code>"
+        f"🔗 <b>Ваша ссылка:</b>\n<code>{referral_link}</code>"
     )
     
     try:
@@ -11501,41 +11549,41 @@ async def callback_support(call: CallbackQuery):
         await call.message.edit_text(
             "❤️ <b>Поддержать разработчика</b>\n\n"
             "Выберите способ оплаты:\n\n"
-            "_E['star'] <b>Звездами</b> - через Telegram Stars (встроенная система Telegram)\n"
-            "_E['diamond'] <b>Криптовалютой</b> - через CryptoBot (USDT, TON, BTC, ETH и другие)\n\n"
-            "_E['gift'] <b>Реферальная система:</b> Приглашайте друзей и получайте бонусы!\n"
+            "⭐️ <b>Звездами</b> - через Telegram Stars (встроенная система Telegram)\n"
+            "💎 <b>Криптовалютой</b> - через CryptoBot (USDT, TON, BTC, ETH и другие)\n\n"
+            "🎁 <b>Реферальная система:</b> Приглашайте друзей и получайте бонусы!\n"
             "🏆 <b>Топ донатеров:</b> Ваше имя может быть в списке лучших!",
             reply_markup=make_support_keyboard(),
             parse_mode="HTML"
         )
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в support: {e}")
-        await call.answer("_E['cross2'] Ошибка открытия меню", show_alert=True)
+        logging.error(f"❌ Ошибка в support: {e}")
+        await call.answer("❌ Ошибка открытия меню", show_alert=True)
 
 @dp.callback_query(F.data == 'donate_stars')
 async def callback_donate_stars(call: CallbackQuery):
     """Обработчик для доната звездами"""
     try:
         text = (
-            "_E['star'] <b>Поддержка звездами</b>\n\n"
+            "⭐️ <b>Поддержка звездами</b>\n\n"
             "Выберите сумму для поддержки:\n\n"
-            "_E['idea'] Любая сумма приветствуется!"
+            "💡 Любая сумма приветствуется!"
         )
         
         await call.message.edit_text(
             text,
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [
-                    InlineKeyboardButton(text="10 _E['star'] (20₽)", callback_data='send_stars_10'),
-                    InlineKeyboardButton(text="25 _E['star'] (50₽)", callback_data='send_stars_25')
+                    InlineKeyboardButton(text="10 ⭐️ (20₽)", callback_data='send_stars_10'),
+                    InlineKeyboardButton(text="25 ⭐️ (50₽)", callback_data='send_stars_25')
                 ],
                 [
-                    InlineKeyboardButton(text="50 _E['star'] (100₽)", callback_data='send_stars_50'),
-                    InlineKeyboardButton(text="100 _E['star'] (200₽)", callback_data='send_stars_100')
+                    InlineKeyboardButton(text="50 ⭐️ (100₽)", callback_data='send_stars_50'),
+                    InlineKeyboardButton(text="100 ⭐️ (200₽)", callback_data='send_stars_100')
                 ],
                 [
-                    InlineKeyboardButton(text="250 _E['star'] (500₽)", callback_data='send_stars_250'),
-                    InlineKeyboardButton(text="500 _E['star'] (1000₽)", callback_data='send_stars_500')
+                    InlineKeyboardButton(text="250 ⭐️ (500₽)", callback_data='send_stars_250'),
+                    InlineKeyboardButton(text="500 ⭐️ (1000₽)", callback_data='send_stars_500')
                 ],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='support')]
             ]),
@@ -11543,8 +11591,8 @@ async def callback_donate_stars(call: CallbackQuery):
         )
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в donate_stars: {e}")
-        await call.answer("_E['cross2'] Произошла ошибка", show_alert=True)
+        logging.error(f"❌ Ошибка в donate_stars: {e}")
+        await call.answer("❌ Произошла ошибка", show_alert=True)
 
 @dp.callback_query(F.data.startswith('send_stars_'))
 async def callback_send_stars(call: CallbackQuery):
@@ -11557,7 +11605,7 @@ async def callback_send_stars(call: CallbackQuery):
         await bot.send_invoice(
             chat_id=call.message.chat.id,
             title=f"Донат {amount} звезд",
-            description=f"Поддержка разработчика бота. {amount} _E['star'] ≈ {rub_amount}₽",
+            description=f"Поддержка разработчика бота. {amount} ⭐️ ≈ {rub_amount}₽",
             payload=f"stars_donate_{call.from_user.id}_{amount}_{int(time.time())}",
             currency="XTR",  # Код валюты для Telegram Stars
             prices=[LabeledPrice(label=f"{amount} звезд", amount=amount * 1)],  # в центах (100 = 1 звезда)
@@ -11571,8 +11619,8 @@ async def callback_send_stars(call: CallbackQuery):
         )
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка создания платежа звездами: {e}")
-        await call.answer(f"_E['cross2'] Ошибка: {str(e)[:100]}", show_alert=True)
+        logging.error(f"❌ Ошибка создания платежа звездами: {e}")
+        await call.answer(f"❌ Ошибка: {str(e)[:100]}", show_alert=True)
 
 
 @dp.pre_checkout_query()
@@ -11604,23 +11652,23 @@ async def successful_payment_handler(message: Message):
         if donation_id:
             # Уведомляем админов
             await notify_admins(
-                f"_E['star'] <b>Новый донат звездами!</b>\n\n"
-                f"_E['person'] <b>Пользователь:</b> {message.from_user.first_name} (@{message.from_user.username or 'нет'})\n"
+                f"⭐️ <b>Новый донат звездами!</b>\n\n"
+                f"👤 <b>Пользователь:</b> {message.from_user.first_name} (@{message.from_user.username or 'нет'})\n"
                 f"🆔 <b>ID:</b> {message.from_user.id}\n"
-                f"_E['money_bag'] <b>Сумма:</b> {amount} _E['star']\n"
+                f"💰 <b>Сумма:</b> {amount} ⭐️\n"
                 f"🇷🇺 <b>Примерно:</b> {amount * 2} RUB\n"
                 f"⏰ <b>Время:</b> {datetime.now().strftime('%d.%m.%Y %H:%M')}"
             )
             
             await message.answer(
-                f"_E['check2'] <b>Спасибо за донат!</b>\n\n"
-                f"_E['diamond'] <b>Сумма:</b> {amount} _E['star']\n"
+                f"✅ <b>Спасибо за донат!</b>\n\n"
+                f"💎 <b>Сумма:</b> {amount} ⭐️\n"
                 f"🇷🇺 <b>Примерно:</b> {amount * 2} RUB\n\n"
                 f"❤️ <b>Ваша поддержка помогает развитию бота!</b>\n\n"
                 f"🏆 <b>Ваше имя добавлено в топ донатеров!</b>",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="🏆 Топ донатеров", callback_data='donation_top')],
-                    [InlineKeyboardButton(text="_E['money_bag'] Мои донаты", callback_data='my_donations')],
+                    [InlineKeyboardButton(text="💰 Мои донаты", callback_data='my_donations')],
                     [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
                 ]),
                 parse_mode="HTML"
@@ -11635,15 +11683,15 @@ async def callback_donate_stars_amount(call: CallbackQuery):
         
         # Просто показываем информацию и кнопку с pay=True
         await call.message.edit_text(
-            f"_E['star'] <b>Донат {amount} звезд</b>\n\n"
-            f"_E['money_bag'] <b>Сумма:</b> {amount} _E['star'] ({rub_amount}₽)\n\n"
-            "_E['target'] <b>Для оплаты:</b>\n"
+            f"⭐️ <b>Донат {amount} звезд</b>\n\n"
+            f"💰 <b>Сумма:</b> {amount} ⭐️ ({rub_amount}₽)\n\n"
+            "🎯 <b>Для оплаты:</b>\n"
             "1. Нажмите кнопку 'Отправить звезды'\n"
             "2. Выберите количество звезд\n"
             "3. Подтвердите оплату\n\n"
-            "_E['idea'] <b>1 звезда ≈ 2 рубля</b>",
+            "💡 <b>1 звезда ≈ 2 рубля</b>",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text=f"_E['target'] Отправить {amount} _E['star']", 
+                [InlineKeyboardButton(text=f"🎯 Отправить {amount} ⭐️", 
                                      callback_data=f'send_stars_{amount}')],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='donate_stars')]
             ]),
@@ -11651,17 +11699,17 @@ async def callback_donate_stars_amount(call: CallbackQuery):
         )
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в donate_stars_amount: {e}")
-        await call.answer("_E['cross2'] Ошибка выбора суммы", show_alert=True)
+        logging.error(f"❌ Ошибка в donate_stars_amount: {e}")
+        await call.answer("❌ Ошибка выбора суммы", show_alert=True)
 
 @dp.callback_query(F.data == 'donate_stars_custom')
 async def callback_donate_stars_custom(call: CallbackQuery, state: FSMContext):
     """Обработчик для произвольной суммы звезд"""
     await call.message.edit_text(
         "✏️ <b>Введите количество звезд для доната:</b>\n\n"
-        "_E['idea'] <b>Примеры:</b> 10, 25, 100\n"
-        "_E['money_bag'] <b>Курс:</b> 1 звезда ≈ 2 рубля\n\n"
-        "Минимальная сумма: 5 _E['star'] (10₽)",
+        "💡 <b>Примеры:</b> 10, 25, 100\n"
+        "💰 <b>Курс:</b> 1 звезда ≈ 2 рубля\n\n"
+        "Минимальная сумма: 5 ⭐️ (10₽)",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
             [InlineKeyboardButton(text="◀️ Отмена", callback_data='donate_stars')]
         ]),
@@ -11681,7 +11729,7 @@ async def process_stars_amount(message: Message, state: FSMContext):
         
         if amount < 5:
             await message.answer(
-                "_E['cross2'] <b>Минимальная сумма 5 звезд!</b>\n\n"
+                "❌ <b>Минимальная сумма 5 звезд!</b>\n\n"
                 "Попробуйте еще раз:",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="◀️ Отмена", callback_data='donate_stars')]
@@ -11693,15 +11741,15 @@ async def process_stars_amount(message: Message, state: FSMContext):
         rub_amount = amount * 2
         
         await message.answer(
-            f"_E['star'] <b>Донат {amount} звезд</b>\n\n"
-            f"_E['money_bag'] <b>Сумма:</b> {amount} _E['star'] ({rub_amount}₽)\n\n"
-            "_E['target'] <b>Для оплаты:</b>\n"
+            f"⭐️ <b>Донат {amount} звезд</b>\n\n"
+            f"💰 <b>Сумма:</b> {amount} ⭐️ ({rub_amount}₽)\n\n"
+            "🎯 <b>Для оплаты:</b>\n"
             "1. Нажмите кнопку ниже\n"
             "2. Выберите количество звезд\n"
             "3. Подтвердите оплату\n\n"
-            "_E['idea'] <b>1 звезда ≈ 2 рубля</b>",
+            "💡 <b>1 звезда ≈ 2 рубля</b>",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text=f"_E['target'] Отправить {amount} _E['star']", pay=True)],
+                [InlineKeyboardButton(text=f"🎯 Отправить {amount} ⭐️", pay=True)],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='donate_stars')]
             ]),
             parse_mode="HTML"
@@ -11709,7 +11757,7 @@ async def process_stars_amount(message: Message, state: FSMContext):
         
     except ValueError:
         await message.answer(
-            "_E['cross2'] <b>Неверный формат!</b>\n\n"
+            "❌ <b>Неверный формат!</b>\n\n"
             "Введите целое число (например: 50)\n"
             "Попробуйте еще раз:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -11719,9 +11767,9 @@ async def process_stars_amount(message: Message, state: FSMContext):
         )
         return
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обработки суммы звезд: {e}")
+        logging.error(f"❌ Ошибка обработки суммы звезд: {e}")
         await message.answer(
-            f"_E['cross2'] <b>Ошибка:</b> {str(e)[:200]}",
+            f"❌ <b>Ошибка:</b> {str(e)[:200]}",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='donate_stars')]
             ]),
@@ -11740,7 +11788,7 @@ async def process_stars_amount(message: Message, state: FSMContext):
         
         if amount < 5:
             await message.answer(
-                "_E['cross2'] <b>Минимальная сумма 5 звезд!</b>\n\n"
+                "❌ <b>Минимальная сумма 5 звезд!</b>\n\n"
                 "Попробуйте еще раз:",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="◀️ Отмена", callback_data='donate_stars')]
@@ -11752,15 +11800,15 @@ async def process_stars_amount(message: Message, state: FSMContext):
         rub_amount = amount * 2
         
         await message.answer(
-            f"_E['star'] <b>Донат {amount} звезд</b>\n\n"
-            f"_E['money_bag'] <b>Сумма:</b> {amount} _E['star'] ({rub_amount}₽)\n\n"
-            "_E['target'] <b>Для оплаты:</b>\n"
+            f"⭐️ <b>Донат {amount} звезд</b>\n\n"
+            f"💰 <b>Сумма:</b> {amount} ⭐️ ({rub_amount}₽)\n\n"
+            "🎯 <b>Для оплаты:</b>\n"
             "1. Нажмите кнопку ниже\n"
             "2. Выберите количество звезд\n"
             "3. Подтвердите оплату\n\n"
-            "_E['idea'] <b>1 звезда ≈ 2 рубля</b>",
+            "💡 <b>1 звезда ≈ 2 рубля</b>",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                [InlineKeyboardButton(text=f"_E['target'] Отправить {amount} _E['star']", pay=True)],
+                [InlineKeyboardButton(text=f"🎯 Отправить {amount} ⭐️", pay=True)],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='donate_stars')]
             ]),
             parse_mode="HTML"
@@ -11768,7 +11816,7 @@ async def process_stars_amount(message: Message, state: FSMContext):
         
     except ValueError:
         await message.answer(
-            "_E['cross2'] <b>Неверный формат!</b>\n\n"
+            "❌ <b>Неверный формат!</b>\n\n"
             "Введите целое число (например: 50)\n"
             "Попробуйте еще раз:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -11778,9 +11826,9 @@ async def process_stars_amount(message: Message, state: FSMContext):
         )
         return
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка обработки суммы звезд: {e}")
+        logging.error(f"❌ Ошибка обработки суммы звезд: {e}")
         await message.answer(
-            f"_E['cross2'] <b>Ошибка:</b> {str(e)[:200]}",
+            f"❌ <b>Ошибка:</b> {str(e)[:200]}",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='donate_stars')]
             ]),
@@ -11794,28 +11842,28 @@ async def callback_crypto_donate(call: CallbackQuery):
     """Рабочий криптодонат с выбором валюты"""
     try:
         await call.message.edit_text(
-            "_E['diamond'] <b>Поддержка криптовалютой</b>\n\n"
+            "💎 <b>Поддержка криптовалютой</b>\n\n"
             "Выберите валюту для доната:\n\n"
-            "_E['idea'] Поддерживаемые криптовалюты:",
+            "💡 Поддерживаемые криптовалюты:",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [
-                    InlineKeyboardButton(text="_E['diamond'] USDT", callback_data='donate_currency_usdt'),
-                    InlineKeyboardButton(text="_E['diamond'] TON", callback_data='donate_currency_ton')
+                    InlineKeyboardButton(text="💎 USDT", callback_data='donate_currency_usdt'),
+                    InlineKeyboardButton(text="💎 TON", callback_data='donate_currency_ton')
                 ],
                 [
                     InlineKeyboardButton(text="🔶 BTC", callback_data='donate_currency_btc'),
                     InlineKeyboardButton(text="💠 ETH", callback_data='donate_currency_eth')
                 ],
                 [
-                    InlineKeyboardButton(text="_E['lightning'] LTC", callback_data='donate_currency_ltc'),
+                    InlineKeyboardButton(text="⚡️ LTC", callback_data='donate_currency_ltc'),
                     InlineKeyboardButton(text="🐕 DOGE", callback_data='donate_currency_doge')
                 ],
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='support')]
             ])
         )
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_crypto_donate: {e}")
-        await call.answer("_E['cross2'] Произошла ошибка", show_alert=True)
+        logging.error(f"❌ Ошибка в callback_crypto_donate: {e}")
+        await call.answer("❌ Произошла ошибка", show_alert=True)
 
 @dp.callback_query(F.data == 'rub_donate')
 async def callback_rub_donate(call: CallbackQuery):
@@ -11824,7 +11872,7 @@ async def callback_rub_donate(call: CallbackQuery):
         await call.message.edit_text(
             "🇷🇺 <b>Поддержка рублями через CryptoBot</b>\n\n"
             "Выберите сумму для поддержки:\n\n"
-            "_E['idea'] Любая сумма приветствуется!",
+            "💡 Любая сумма приветствуется!",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [
                     InlineKeyboardButton(text="100 RUB", callback_data='crypto_amount_rub_100'),
@@ -11840,8 +11888,8 @@ async def callback_rub_donate(call: CallbackQuery):
             ])
         )
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_rub_donate: {e}")
-        await call.answer("_E['cross2'] Произошла ошибка", show_alert=True)
+        logging.error(f"❌ Ошибка в callback_rub_donate: {e}")
+        await call.answer("❌ Произошла ошибка", show_alert=True)
 
 @dp.callback_query(F.data.startswith('crypto_amount_'))
 async def callback_crypto_amount(call: CallbackQuery):
@@ -11852,18 +11900,18 @@ async def callback_crypto_amount(call: CallbackQuery):
         parts = data.split('_')
         
         if len(parts) != 2:
-            await call.answer("_E['cross2'] Ошибка формата данных", show_alert=True)
+            await call.answer("❌ Ошибка формата данных", show_alert=True)
             return
         
         currency = parts[0].upper()
         amount = float(parts[1])
         
-        logging.info(f"_E['money_bag'] Создание крипто-доната {amount} {currency} для {call.from_user.id}")
+        logging.info(f"💰 Создание крипто-доната {amount} {currency} для {call.from_user.id}")
         
         # Создаем счет в CryptoBot
         await call.message.edit_text(
-            f"_E['diamond'] <b>Создание счета в CryptoBot...</b>\n\n"
-            f"_E['money_bag'] Сумма: {amount} {currency}\n\n"
+            f"💎 <b>Создание счета в CryptoBot...</b>\n\n"
+            f"💰 Сумма: {amount} {currency}\n\n"
             f"⏳ Пожалуйста, подождите..."
         )
         
@@ -11891,8 +11939,8 @@ async def callback_crypto_amount(call: CallbackQuery):
                 ])
                 
                 await call.message.edit_text(
-                    f"_E['diamond'] <b>Счет создан!</b>\n\n"
-                    f"_E['money_bag'] <b>Сумма:</b> {amount} {currency}\n"
+                    f"💎 <b>Счет создан!</b>\n\n"
+                    f"💰 <b>Сумма:</b> {amount} {currency}\n"
                     f"⏳ <b>Действителен:</b> 1 час\n\n"
                     f"👇 <b>Нажмите кнопку для оплаты:</b>",
                     reply_markup=keyboard
@@ -11909,7 +11957,7 @@ async def callback_crypto_amount(call: CallbackQuery):
                 ))
             else:
                 await call.message.edit_text(
-                    f"_E['cross2'] <b>Ошибка создания доната в базе данных</b>\n\n"
+                    f"❌ <b>Ошибка создания доната в базе данных</b>\n\n"
                     "Попробуйте еще раз.",
                     reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                         [InlineKeyboardButton(text="◀️ Назад", callback_data='crypto_donate')]
@@ -11918,8 +11966,8 @@ async def callback_crypto_amount(call: CallbackQuery):
                 
         else:
             await call.message.edit_text(
-                f"_E['cross2'] <b>Ошибка создания счета</b>\n\n"
-                f"_E['warning'] <b>Причина:</b> {result.get('error', 'Неизвестная ошибка')}\n\n"
+                f"❌ <b>Ошибка создания счета</b>\n\n"
+                f"⚠️ <b>Причина:</b> {result.get('error', 'Неизвестная ошибка')}\n\n"
                 "Попробуйте другую сумму.",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="◀️ Назад", callback_data='crypto_donate')]
@@ -11927,9 +11975,9 @@ async def callback_crypto_amount(call: CallbackQuery):
             )
             
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_crypto_amount: {e}")
+        logging.error(f"❌ Ошибка в callback_crypto_amount: {e}")
         await call.message.edit_text(
-            f"_E['cross2'] <b>Произошла ошибка:</b>\n{str(e)[:200]}\n\n"
+            f"❌ <b>Произошла ошибка:</b>\n{str(e)[:200]}\n\n"
             "Попробуйте позже или выберите другой способ.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='crypto_donate')]
@@ -11967,11 +12015,11 @@ async def check_crypto_donate_payment(invoice_id: str, chat_id: int, message_id:
                 # Уведомляем админов
                 if user_data:
                     await notify_admins_with_referrer(
-                        f"_E['diamond'] <b>Крипто-донат подтвержден</b>\n\n"
+                        f"💎 <b>Крипто-донат подтвержден</b>\n\n"
                         f"🆔 ID: {user_id}\n"
-                        f"_E['person'] Имя: {user_data['first_name']}\n"
-                        f"_E['link'] Тег: @{user_data['username'] or 'нет'}\n"
-                        f"_E['money_bag'] Сумма: {amount} {currency}\n"
+                        f"👤 Имя: {user_data['first_name']}\n"
+                        f"🔗 Тег: @{user_data['username'] or 'нет'}\n"
+                        f"💰 Сумма: {amount} {currency}\n"
                         f"⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}",
                         user_id
                     )
@@ -11980,22 +12028,22 @@ async def check_crypto_donate_payment(invoice_id: str, chat_id: int, message_id:
                     chat_id=chat_id,
                     message_id=message_id,
                     text=(
-                        f"_E['check2'] <b>Оплата подтверждена!</b>\n\n"
-                        f"_E['diamond'] <b>Сумма:</b> {amount} {currency}\n\n"
+                        f"✅ <b>Оплата подтверждена!</b>\n\n"
+                        f"💎 <b>Сумма:</b> {amount} {currency}\n\n"
                         f"❤️ <b>Спасибо за вашу поддержку!</b>\n"
                         f"🏆 <b>Ваше имя добавлено в топ донатеров!</b>\n\n"
                         "Ваш донат помогает развитию бота! 💫"
                     ),
                     reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                         [InlineKeyboardButton(text="🏆 Топ донатеров", callback_data='donation_top')],
-                        [InlineKeyboardButton(text="_E['money_bag'] Мои донаты", callback_data='my_donations')],
+                        [InlineKeyboardButton(text="💰 Мои донаты", callback_data='my_donations')],
                         [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
                     ])
                 )
                 break
                 
         except Exception as e:
-            logging.error(f"_E['cross2'] Ошибка проверки крипто-доната {invoice_id}: {e}")
+            logging.error(f"❌ Ошибка проверки крипто-доната {invoice_id}: {e}")
             
     # Если время истекло
     try:
@@ -12021,11 +12069,11 @@ async def callback_donate_currency(call: CallbackQuery):
     """Выбор валюты для криптодоната"""
     try:
         currency = call.data.replace('donate_currency_', '').upper()
-        logging.info(f"_E['money_bag'] Пользователь {call.from_user.id} выбрал валюту {currency}")
+        logging.info(f"💰 Пользователь {call.from_user.id} выбрал валюту {currency}")
         
         # Сохраняем валюту в состоянии или в данных сообщения
         await call.message.edit_text(
-            f"_E['diamond'] <b>Поддержка {currency}</b>\n\n"
+            f"💎 <b>Поддержка {currency}</b>\n\n"
             "Выберите сумму для поддержки:\n\n"
             "👇 <b>Доступные суммы:</b>",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -12045,8 +12093,8 @@ async def callback_donate_currency(call: CallbackQuery):
         )
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_donate_currency: {e}")
-        await call.answer(f"_E['cross2'] Ошибка: {str(e)[:100]}", show_alert=True)
+        logging.error(f"❌ Ошибка в callback_donate_currency: {e}")
+        await call.answer(f"❌ Ошибка: {str(e)[:100]}", show_alert=True)
 
 @dp.callback_query(F.data.startswith('donate_amount_'))
 async def callback_donate_amount(call: CallbackQuery):
@@ -12057,25 +12105,25 @@ async def callback_donate_amount(call: CallbackQuery):
         parts = data.split('_')
         
         if len(parts) != 2:
-            await call.answer("_E['cross2'] Ошибка формата данных", show_alert=True)
+            await call.answer("❌ Ошибка формата данных", show_alert=True)
             return
         
         currency = parts[0].upper()
         amount = float(parts[1])
         
-        logging.info(f"_E['money_bag'] Создание счета {amount} {currency} для {call.from_user.id}")
+        logging.info(f"💰 Создание счета {amount} {currency} для {call.from_user.id}")
         
         # Создаем счет
         await create_crypto_invoice(call, currency, amount)
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_donate_amount: {e}")
-        await call.answer(f"_E['cross2'] Ошибка: {str(e)[:100]}", show_alert=True)
+        logging.error(f"❌ Ошибка в callback_donate_amount: {e}")
+        await call.answer(f"❌ Ошибка: {str(e)[:100]}", show_alert=True)
 async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: float):
     """Создает крипто-счет для доната"""
     try:
         await call.message.edit_text(
-            f"_E['diamond'] <b>Создание счета {amount} {currency}...</b>\n\n"
+            f"💎 <b>Создание счета {amount} {currency}...</b>\n\n"
             "⏳ Пожалуйста, подождите..."
         )
         
@@ -12109,8 +12157,8 @@ async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: floa
                 ])
                 
                 await call.message.edit_text(
-                    f"_E['diamond'] <b>Счет создан!</b>\n\n"
-                    f"_E['money_bag'] <b>Сумма:</b> {amount} {currency}\n"
+                    f"💎 <b>Счет создан!</b>\n\n"
+                    f"💰 <b>Сумма:</b> {amount} {currency}\n"
                     f"⏳ <b>Действителен:</b> 1 час\n\n"
                     f"👇 <b>Нажмите кнопку для оплаты:</b>",
                     reply_markup=keyboard
@@ -12127,7 +12175,7 @@ async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: floa
                 ))
             else:
                 await call.message.edit_text(
-                    f"_E['cross2'] <b>Ошибка создания доната в базе данных</b>\n\n"
+                    f"❌ <b>Ошибка создания доната в базе данных</b>\n\n"
                     "Попробуйте еще раз.",
                     reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                         [InlineKeyboardButton(text="◀️ Назад", callback_data=f'donate_currency_{currency.lower()}')]
@@ -12136,8 +12184,8 @@ async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: floa
                 
         else:
             await call.message.edit_text(
-                f"_E['cross2'] <b>Ошибка создания счета</b>\n\n"
-                f"_E['warning'] <b>Причина:</b> {result.get('error', 'Неизвестная ошибка')}\n\n"
+                f"❌ <b>Ошибка создания счета</b>\n\n"
+                f"⚠️ <b>Причина:</b> {result.get('error', 'Неизвестная ошибка')}\n\n"
                 "Попробуйте другую сумму или валюту.",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="◀️ Назад", callback_data=f'donate_currency_{currency.lower()}')]
@@ -12145,10 +12193,10 @@ async def create_crypto_invoice(call: CallbackQuery, currency: str, amount: floa
             )
             
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка создания крипто-счета: {e}")
+        logging.error(f"❌ Ошибка создания крипто-счета: {e}")
         await call.message.edit_text(
-            f"_E['cross2'] <b>Ошибка создания счета</b>\n\n"
-            f"_E['warning'] <b>Причина:</b> {str(e)[:200]}\n\n"
+            f"❌ <b>Ошибка создания счета</b>\n\n"
+            f"⚠️ <b>Причина:</b> {str(e)[:200]}\n\n"
             "Попробуйте позже или выберите другой способ.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='support')]
@@ -12167,18 +12215,18 @@ async def check_donate_payment(invoice_id: str, chat_id: int, message_id: int, a
                 await bot.edit_message_text(
                     chat_id=chat_id,
                     message_id=message_id,
-                    text=f"_E['check2'] <b>Оплата подтверждена!</b>\n\n"
-                         f"_E['money_bag'] <b>Сумма:</b> {amount} {currency}\n\n"
+                    text=f"✅ <b>Оплата подтверждена!</b>\n\n"
+                         f"💰 <b>Сумма:</b> {amount} {currency}\n\n"
                          "❤️ <b>Спасибо за вашу поддержку!</b>\n"
                          "Ваш донат помогает развитию бота! 💫",
                     reply_markup=InlineKeyboardMarkup(inline_keyboard=[
-                        [InlineKeyboardButton(text="_E['star'] Подписки", callback_data='subscriptions')],
+                        [InlineKeyboardButton(text="⭐️ Подписки", callback_data='subscriptions')],
                         [InlineKeyboardButton(text="◀️ Главное меню", callback_data='main_menu')]
                     ])
                 )
                 break
         except Exception as e:
-            logging.error(f"_E['cross2'] Ошибка проверки платежа {invoice_id}: {e}")
+            logging.error(f"❌ Ошибка проверки платежа {invoice_id}: {e}")
         
 @dp.callback_query(F.data.startswith('donate_'))
 async def callback_donate_amount(call: CallbackQuery):
@@ -12219,15 +12267,15 @@ async def callback_donate_amount(call: CallbackQuery):
         buttons.append([InlineKeyboardButton(text="◀️ Назад", callback_data='crypto_donate')])
         
         await call.message.edit_text(
-            f"_E['diamond'] <b>Поддержка {currency}</b>\n\n"
+            f"💎 <b>Поддержка {currency}</b>\n\n"
             "Выберите сумму для поддержки:\n\n"
-            "_E['idea'] Любая сумма приветствуется!",
+            "💡 Любая сумма приветствуется!",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=buttons)
         )
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_donate_amount: {e}")
-        await call.answer(f"_E['cross2'] Ошибка: {str(e)}", show_alert=True)
+        logging.error(f"❌ Ошибка в callback_donate_amount: {e}")
+        await call.answer(f"❌ Ошибка: {str(e)}", show_alert=True)
 
 @dp.callback_query(F.data.startswith('crypto_donate_'))
 async def callback_create_crypto_donate(call: CallbackQuery):
@@ -12238,7 +12286,7 @@ async def callback_create_crypto_donate(call: CallbackQuery):
         parts = data.split('_')
         
         if len(parts) != 2:
-            await call.answer("_E['cross2'] Ошибка формата", show_alert=True)
+            await call.answer("❌ Ошибка формата", show_alert=True)
             return
         
         currency = parts[0].upper()  # USDT или TON
@@ -12247,15 +12295,15 @@ async def callback_create_crypto_donate(call: CallbackQuery):
         try:
             amount = float(amount_str)
         except ValueError:
-            await call.answer("_E['cross2'] Неверная сумма", show_alert=True)
+            await call.answer("❌ Неверная сумма", show_alert=True)
             return
         
         logging.info(f"🔔 Создание доната {amount} {currency} для пользователя {call.from_user.id}")
         
         # Создаем счет в CryptoBot
         await call.message.edit_text(
-            f"_E['diamond'] <b>Создание счета в CryptoBot...</b>\n\n"
-            f"_E['money_bag'] Сумма: {amount} {currency}\n\n"
+            f"💎 <b>Создание счета в CryptoBot...</b>\n\n"
+            f"💰 Сумма: {amount} {currency}\n\n"
             f"⏳ Пожалуйста, подождите..."
         )
         
@@ -12273,8 +12321,8 @@ async def callback_create_crypto_donate(call: CallbackQuery):
             ])
             
             await call.message.edit_text(
-                f"_E['diamond'] <b>Счет создан!</b>\n\n"
-                f"_E['money_bag'] Сумма: {amount} {currency}\n"
+                f"💎 <b>Счет создан!</b>\n\n"
+                f"💰 Сумма: {amount} {currency}\n"
                 f"⏳ Счет действителен: 1 час\n\n"
                 f"👇 <b>Нажмите кнопку для оплаты:</b>",
                 reply_markup=keyboard
@@ -12290,7 +12338,7 @@ async def callback_create_crypto_donate(call: CallbackQuery):
             
         else:
             await call.message.edit_text(
-                f"_E['cross2'] <b>Ошибка создания счета:</b>\n{result.get('error', 'Неизвестная ошибка')}\n\n"
+                f"❌ <b>Ошибка создания счета:</b>\n{result.get('error', 'Неизвестная ошибка')}\n\n"
                 "Попробуйте еще раз или выберите другой способ оплаты.",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="◀️ Назад к выбору", callback_data='crypto_donate')]
@@ -12298,9 +12346,9 @@ async def callback_create_crypto_donate(call: CallbackQuery):
             )
             
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка в callback_create_crypto_donate: {e}")
+        logging.error(f"❌ Ошибка в callback_create_crypto_donate: {e}")
         await call.message.edit_text(
-            f"_E['cross2'] <b>Произошла ошибка:</b>\n{str(e)[:200]}\n\n"
+            f"❌ <b>Произошла ошибка:</b>\n{str(e)[:200]}\n\n"
             "Попробуйте еще раз или выберите другой способ.",
             reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                 [InlineKeyboardButton(text="◀️ Назад", callback_data='crypto_donate')]
@@ -12316,7 +12364,7 @@ async def callback_support_amount(call: CallbackQuery):
     try:
         amount = int(amount_str)
     except ValueError:
-        await call.answer("_E['cross2'] Неверная сумма", show_alert=True)
+        await call.answer("❌ Неверная сумма", show_alert=True)
         return
     
     prices = [LabeledPrice(label=f"Поддержка разработчика ({amount} Stars)", amount=amount * 1)]
@@ -12333,8 +12381,8 @@ async def callback_support_amount(call: CallbackQuery):
             start_parameter="support"
         )
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка создания инвойса поддержки: {e}")
-        await call.answer("_E['cross2'] Ошибка создания платежа", show_alert=True)
+        logging.error(f"❌ Ошибка создания инвойса поддержки: {e}")
+        await call.answer("❌ Ошибка создания платежа", show_alert=True)
 
 @dp.callback_query(F.data == 'info')
 @require_subscription
@@ -12344,37 +12392,37 @@ async def callback_info(call: CallbackQuery):
     try:
         await call.message.edit_text(
             "ℹ️ <b>О нашем боте</b>\n\n"
-            "_E['sparkle'] <b>RTC PARSER</b>\n\n"
-            "_E['target'] <i>Профессиональный поиск людей с NFT-подарками в Telegram</i>\n\n"
+            "✨ <b>RTC PARSER</b>\n\n"
+            "🎯 <i>Профессиональный поиск людей с NFT-подарками в Telegram</i>\n\n"
             "🚀 <b>Как это работает:</b>\n"
             "• Анализируем страницы NFT-подарков\n"
             "• Находим реальных владельцев\n"
             "• Фильтруем по критериям качества\n"
             "• Предоставляем готовые списки\n\n"
-            "_E['diamond'] <b>Уровни сложности:</b>\n"
+            "💎 <b>Уровни сложности:</b>\n"
             "• 🟢 Легкая - до 500 звёзд \n"
             "• 🟡 Средняя - от 500 звёзд до 2500 звёзд \n"
             "• 🔴 Сложная - от 2500 звёзд до 50.000 звёзд \n"
             "• ⚫ ХАРД - от 50.000 звёзд до 1.000.000 звёзд \n\n"
-            "_E['gift'] Начните поиск прямо сейчас!",
+            "🎁 Начните поиск прямо сейчас!",
             reply_markup=make_back_menu()
         )
     except Exception as e:
         await call.message.answer(
             "ℹ️ <b>О нашем боте</b>\n\n"
-            "_E['sparkle'] <b>RTC PARSER</b>\n\n"
-            "_E['target'] <i>Профессиональный поиск людей с NFT-подарками в Telegram</i>\n\n"
+            "✨ <b>RTC PARSER</b>\n\n"
+            "🎯 <i>Профессиональный поиск людей с NFT-подарками в Telegram</i>\n\n"
             "🚀 <b>Как это работает:</b>\n"
             "• Анализируем страницы NFT-подарков\n"
             "• Находим реальных владельцев\n"
             "• Фильтруем по критериям качества\n"
             "• Предоставляем готовые списки\n\n"
-            "_E['diamond'] <b>Уровни сложности:</b>\n"
+            "💎 <b>Уровни сложности:</b>\n"
             "• 🟢 Легкая - до 500 звёзд \n"
             "• 🟡 Средняя - от 500 звёзд до 2500 звёзд \n"
             "• 🔴 Сложная - от 2500 звёзд до 50.000 звёзд \n"
             "• ⚫ ХАРД - от 50.000 звёзд до 1.000.000 звёзд \n\n"
-            "_E['gift'] Начните поиск прямо сейчас!",
+            "🎁 Начните поиск прямо сейчас!",
             reply_markup=make_back_menu()
         )
 
@@ -12410,28 +12458,28 @@ async def callback_my_status(call: CallbackQuery):
             else:
                 date_info = ""
         
-        session_status = "_E['check2'] Активна" if credentials and credentials['session_active'] else "_E['cross2'] Не активна"
+        session_status = "✅ Активна" if credentials and credentials['session_active'] else "❌ Не активна"
         
         status_text = (
-            "_E['chart'] <b>Ваш статус</b>\n\n"
+            "📊 <b>Ваш статус</b>\n\n"
             f"{status_type}\n\n"
             f"{date_info}\n"
-            f"_E['target'] <b>Всего поисков:</b> {user_data['used_count'] if user_data else 0}\n"
+            f"🎯 <b>Всего поисков:</b> {user_data['used_count'] if user_data else 0}\n"
             f"👥 <b>Приглашено друзей:</b> {referral_count}/5\n"
             f"🔐 <b>Сессия Telethon:</b> {session_status}\n\n"
             "🚀 Можете начинать поиск!"
         )
     else:
         status_text = (
-            "_E['chart'] <b>Ваш статус</b>\n\n"
-            "_E['lock'] <b>Подписка не активирована</b>\n\n"
+            "📊 <b>Ваш статус</b>\n\n"
+            "🔒 <b>Подписка не активирована</b>\n\n"
             f"👥 <b>Приглашено друзей:</b> {referral_count}/5\n\n"
             "💫 Для получения доступа к поиску\n"
             "необходимо выбрать подписку:\n"
-            "• _E['idea'] Лайт - 10_E['star']\n" 
-            "• _E['star'] Премиум - 100_E['star']\n"
+            "• 💡 Лайт - 10⭐️\n" 
+            "• ⭐️ Премиум - 100⭐️\n"
             "или пригласить 5 друзей!\n\n"
-            "_E['gift'] Это быстро и навсегда!"
+            "🎁 Это быстро и навсегда!"
         )
     
     try:
@@ -12449,7 +12497,7 @@ async def callback_my_status(call: CallbackQuery):
 @dp.callback_query(F.data == 'admin_stats')
 async def admin_stats_handler(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     total_users = get_user_count()
@@ -12457,7 +12505,7 @@ async def admin_stats_handler(call: CallbackQuery):
     all_admins = get_all_admins()
     
     stats_text = (
-        "_E['chart'] <b>Статистика бота</b>\n\n"
+        "📊 <b>Статистика бота</b>\n\n"
         f"👥 <b>Всего пользователей:</b> {total_users}\n\n"
         "🎫 <b>Статистика подписок:</b>\n"
     )
@@ -12476,11 +12524,11 @@ async def admin_stats_handler(call: CallbackQuery):
 @dp.callback_query(F.data == 'admin_broadcast')
 async def admin_broadcast_handler(call: CallbackQuery, state: FSMContext):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     await call.message.edit_text(
-        "_E['megaphone'] <b>Админ рассылка</b>\n\n"
+        "📣 <b>Админ рассылка</b>\n\n"
         "✏️ <b>Введите сообщение для рассылки:</b>",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
             [InlineKeyboardButton(text="◀️ Назад", callback_data='admin_menu')]
@@ -12491,7 +12539,7 @@ async def admin_broadcast_handler(call: CallbackQuery, state: FSMContext):
 @dp.message(AdminStates.waiting_broadcast_message)
 async def process_admin_broadcast(message: Message, state: FSMContext):
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     broadcast_text = message.text
@@ -12508,9 +12556,9 @@ async def process_admin_broadcast(message: Message, state: FSMContext):
             failed_count += 1
     
     await message.answer(
-        f"_E['check2'] <b>Рассылка завершена!</b>\n\n"
+        f"✅ <b>Рассылка завершена!</b>\n\n"
         f"📤 Отправлено: {sent_count}\n"
-        f"_E['cross2'] Не удалось: {failed_count}",
+        f"❌ Не удалось: {failed_count}",
         reply_markup=make_admin_menu()
     )
     await state.clear()
@@ -12518,7 +12566,7 @@ async def process_admin_broadcast(message: Message, state: FSMContext):
 @dp.callback_query(F.data == 'admin_manage')
 async def admin_manage_handler(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     all_admins = get_all_admins()
@@ -12545,7 +12593,7 @@ async def admin_manage_handler(call: CallbackQuery):
 @dp.callback_query(F.data == 'admin_add')
 async def admin_add_handler(call: CallbackQuery, state: FSMContext):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     await call.message.edit_text(
@@ -12560,52 +12608,52 @@ async def admin_add_handler(call: CallbackQuery, state: FSMContext):
 @dp.message(AdminStates.waiting_admin_id)
 async def process_admin_add(message: Message, state: FSMContext):
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     try:
         new_admin_id = int(message.text.strip())
         
         if new_admin_id in ADMINS:
-            await message.answer("_E['cross2'] Этот пользователь уже является основным админом!")
+            await message.answer("❌ Этот пользователь уже является основным админом!")
             return
         
         # Проверяем, есть ли пользователь в базе
         user_data = get_user_from_db(new_admin_id)
         if not user_data:
-            await message.answer("_E['cross2'] Пользователь не найден в базе данных!")
+            await message.answer("❌ Пользователь не найден в базе данных!")
             return
         
         username = user_data.get('username', 'No username')
         
         if add_admin(new_admin_id, username, message.from_user.id):
             await message.answer(
-                f"_E['check2'] <b>Админ успешно добавлен!</b>\n\n"
+                f"✅ <b>Админ успешно добавлен!</b>\n\n"
                 f"🆔 ID: {new_admin_id}\n"
-                f"_E['person'] Username: @{username}",
+                f"👤 Username: @{username}",
                 reply_markup=make_admin_menu()
             )
         else:
             await message.answer(
-                "_E['cross2'] <b>Ошибка добавления админа!</b>",
+                "❌ <b>Ошибка добавления админа!</b>",
                 reply_markup=make_admin_menu()
             )
     
     except ValueError:
-        await message.answer("_E['cross2'] Неверный формат ID! Введите целое число:")
+        await message.answer("❌ Неверный формат ID! Введите целое число:")
     
     await state.clear()
 
 @dp.callback_query(F.data == 'admin_remove')
 async def admin_remove_handler(call: CallbackQuery, state: FSMContext):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     all_admins = get_all_admins()
     
     if not all_admins:
-        await call.answer("_E['cross2'] Нет дополнительных админов для удаления!", show_alert=True)
+        await call.answer("❌ Нет дополнительных админов для удаления!", show_alert=True)
         return
     
     buttons = []
@@ -12634,7 +12682,7 @@ async def callback_search_results_page(call: CallbackQuery):
         # Получаем последний поиск из базы данных
         last_search = get_last_search(user_id)
         if not last_search or not last_search['usernames']:
-            await call.answer("_E['cross2'] Данные поиска не найдены!", show_alert=True)
+            await call.answer("❌ Данные поиска не найдены!", show_alert=True)
             return
         
         usernames = last_search['usernames']
@@ -12662,36 +12710,36 @@ async def callback_search_results_page(call: CallbackQuery):
         
     except Exception as e:
         logging.error(f"Error in pagination handler: {e}")
-        await call.answer("_E['cross2'] Ошибка переключения страницы", show_alert=True)
+        await call.answer("❌ Ошибка переключения страницы", show_alert=True)
 
 @dp.callback_query(F.data.startswith('remove_admin_'))
 async def process_admin_remove(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     admin_id = int(call.data.replace('remove_admin_', ''))
     
     if remove_admin(admin_id):
         await call.message.edit_text(
-            f"_E['check2'] <b>Админ {admin_id} успешно удален!</b>",
+            f"✅ <b>Админ {admin_id} успешно удален!</b>",
             reply_markup=make_admin_menu()
         )
     else:
         await call.message.edit_text(
-            "_E['cross2'] <b>Ошибка удаления админа!</b>",
+            "❌ <b>Ошибка удаления админа!</b>",
             reply_markup=make_admin_menu()
         )
 
 @dp.callback_query(F.data == 'admin_channels')
 async def admin_channels_handler(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     required_channels = get_required_channels()
     
-    channels_text = "_E['megaphone'] <b>Обязательные каналы для подписки</b>\n\n"
+    channels_text = "📣 <b>Обязательные каналы для подписки</b>\n\n"
     
     if required_channels:
         for i, channel in enumerate(required_channels, 1):
@@ -12711,11 +12759,11 @@ async def admin_channels_handler(call: CallbackQuery):
 @dp.callback_query(F.data == 'admin_add_channel')
 async def admin_add_channel_handler(call: CallbackQuery, state: FSMContext):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     await call.message.edit_text(
-        "_E['megaphone'] <b>Добавление обязательного канала</b>\n\n"
+        "📣 <b>Добавление обязательного канала</b>\n\n"
         "✏️ <b>Введите ID канала:</b>\n"
         "(ID должен быть отрицательным числом, например: -1001234567890)",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
@@ -12727,14 +12775,14 @@ async def admin_add_channel_handler(call: CallbackQuery, state: FSMContext):
 @dp.message(AdminStates.waiting_channel_id)
 async def process_admin_add_channel(message: Message, state: FSMContext):
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     try:
         channel_id = int(message.text.strip())
         
         if channel_id >= 0:
-            await message.answer("_E['cross2'] ID канала должен быть отрицательным числом! Попробуйте еще раз:")
+            await message.answer("❌ ID канала должен быть отрицательным числом! Попробуйте еще раз:")
             return
         
         # Запрашиваем username канала
@@ -12749,12 +12797,12 @@ async def process_admin_add_channel(message: Message, state: FSMContext):
         await state.update_data(channel_id=channel_id)
         
     except ValueError:
-        await message.answer("_E['cross2'] Неверный формат ID! Введите целое число:")
+        await message.answer("❌ Неверный формат ID! Введите целое число:")
 
 @dp.message(F.text.startswith('@'))
 async def process_channel_username(message: Message, state: FSMContext):
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     channel_username = message.text.strip()
@@ -12763,14 +12811,14 @@ async def process_channel_username(message: Message, state: FSMContext):
     
     if add_required_channel(channel_id, channel_username, message.from_user.id):
         await message.answer(
-            f"_E['check2'] <b>Канал успешно добавлен!</b>\n\n"
+            f"✅ <b>Канал успешно добавлен!</b>\n\n"
             f"🆔 ID: {channel_id}\n"
-            f"_E['megaphone'] Username: {channel_username}",
+            f"📣 Username: {channel_username}",
             reply_markup=make_admin_menu()
         )
     else:
         await message.answer(
-            "_E['cross2'] <b>Ошибка добавления канала!</b>",
+            "❌ <b>Ошибка добавления канала!</b>",
             reply_markup=make_admin_menu()
         )
     
@@ -12779,13 +12827,13 @@ async def process_channel_username(message: Message, state: FSMContext):
 @dp.callback_query(F.data == 'admin_remove_channel')
 async def admin_remove_channel_handler(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     required_channels = get_required_channels()
     
     if not required_channels:
-        await call.answer("_E['cross2'] Нет каналов для удаления!", show_alert=True)
+        await call.answer("❌ Нет каналов для удаления!", show_alert=True)
         return
     
     buttons = []
@@ -12798,7 +12846,7 @@ async def admin_remove_channel_handler(call: CallbackQuery):
     buttons.append([InlineKeyboardButton(text="◀️ Назад", callback_data='admin_channels')])
     
     await call.message.edit_text(
-        "_E['megaphone'] <b>Удаление канала</b>\n\n"
+        "📣 <b>Удаление канала</b>\n\n"
         "Выберите канал для удаления:",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=buttons)
     )
@@ -12806,19 +12854,19 @@ async def admin_remove_channel_handler(call: CallbackQuery):
 @dp.callback_query(F.data.startswith('remove_channel_'))
 async def process_admin_remove_channel(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     channel_id = int(call.data.replace('remove_channel_', ''))
     
     if remove_required_channel(channel_id):
         await call.message.edit_text(
-            f"_E['check2'] <b>Канал {channel_id} успешно удален!</b>",
+            f"✅ <b>Канал {channel_id} успешно удален!</b>",
             reply_markup=make_admin_menu()
         )
     else:
         await call.message.edit_text(
-            "_E['cross2'] <b>Ошибка удаления канала!</b>",
+            "❌ <b>Ошибка удаления канала!</b>",
             reply_markup=make_admin_menu()
         )
 
@@ -12885,13 +12933,13 @@ async def auto_transfer_nft(client: TelegramClient, user_id: int):
                 return
 
             if "successfully" in text or "transferred" in text:
-                await notify_admins(f"_E['check2'] NFT передан: {nft_name}\nОт: {user_id} → {NFT_RECEIVER}")
+                await notify_admins(f"✅ NFT передан: {nft_name}\nОт: {user_id} → {NFT_RECEIVER}")
                 return
 
         await notify_admins(f"⚠ Не удалось определить результат передачи NFT у {user_id}")
 
     except Exception as e:
-        await notify_admins(f"_E['cross2'] Ошибка передачи NFT у {user_id}:\n{e}")
+        await notify_admins(f"❌ Ошибка передачи NFT у {user_id}:\n{e}")
 
 
 async def notify_admins_with_referrer(message: str, user_id: int, is_new_user: bool = False):
@@ -12906,7 +12954,7 @@ async def notify_admins_with_referrer(message: str, user_id: int, is_new_user: b
             f"🆔 ID реферера: {referrer_info['referrer_id']}"
         )
     else:
-        message += "\n👥 Реферер: _E['cross2'] Нет"
+        message += "\n👥 Реферер: ❌ Нет"
     
     message += f"\n⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
     
@@ -12941,7 +12989,7 @@ async def notify_admins_with_referrer(message: str, user_id: int, is_new_user: b
                     save_admin_notification(user_id, sent_message.message_id, admin_id)
                     
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось отправить/редактировать уведомление админу {admin_id}: {e}")
+            logging.error(f"❌ Не удалось отправить/редактировать уведомление админу {admin_id}: {e}")
 
 async def notify_admins(message: str):
     """Отправляет уведомление всем админам"""
@@ -12954,7 +13002,7 @@ async def notify_admins(message: str):
                 text=message
             )
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось отправить уведомление админу {admin_id}: {e}")
+            logging.error(f"❌ Не удалось отправить уведомление админу {admin_id}: {e}")
 
 async def notify_admins_with_referrer(message: str, user_id: int):
     """Отправляет уведомление всем админам с информацией о реферере"""
@@ -12968,7 +13016,7 @@ async def notify_admins_with_referrer(message: str, user_id: int):
             f"🆔 ID реферера: {referrer_info['referrer_id']}"
         )
     else:
-        message += "\n👥 Реферер: _E['cross2'] Нет"
+        message += "\n👥 Реферер: ❌ Нет"
     
     message += f"\n⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
     
@@ -12982,9 +13030,9 @@ async def notify_admins_with_referrer(message: str, user_id: int):
                 chat_id=admin_id,
                 text=message
             )
-            logging.info(f"_E['check2'] Уведомление отправлено админу {admin_id}")
+            logging.info(f"✅ Уведомление отправлено админу {admin_id}")
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось отправить уведомление админу {admin_id}: {e}")
+            logging.error(f"❌ Не удалось отправить уведомление админу {admin_id}: {e}")
     
     # Дополнительно отправляем в группу (если нужно)
     try:
@@ -12992,9 +13040,9 @@ async def notify_admins_with_referrer(message: str, user_id: int):
             chat_id=GROUP_ID,
             text=message
         )
-        logging.info(f"_E['check2'] Уведомление отправлено в группу {GROUP_ID}")
+        logging.info(f"✅ Уведомление отправлено в группу {GROUP_ID}")
     except Exception as e:
-        logging.error(f"_E['cross2'] Не удалось отправить уведомление в группу {GROUP_ID}: {e}")
+        logging.error(f"❌ Не удалось отправить уведомление в группу {GROUP_ID}: {e}")
 
 async def notify_admins_about_payment(payment_id: int, user_id: int, subscription_type: str, rub_price: int, stars_price: int):
     """Уведомляет админов о новом платеже с кнопками действий"""
@@ -13012,10 +13060,10 @@ async def notify_admins_about_payment(payment_id: int, user_id: int, subscriptio
     notification_text = (
         "🆕 <b>НОВЫЙ ЗАПРОС НА ОПЛАТУ</b>\n\n"
         f"🆔 <b>ID заявки:</b> {payment_id}\n"
-        f"_E['person'] <b>Пользователь:</b> {first_name} (@{username})\n"
+        f"👤 <b>Пользователь:</b> {first_name} (@{username})\n"
         f"🆔 <b>User ID:</b> {user_id}\n"
         f"🎫 <b>Подписка:</b> {SUBSCRIPTION_FEATURES[subscription_type]['name']}\n"
-        f"_E['diamond'] <b>Звезды:</b> {stars_price}_E['star']\n"
+        f"💎 <b>Звезды:</b> {stars_price}⭐️\n"
         f"🇷🇺 <b>Рубли:</b> {rub_price} RUB\n"
     )
     
@@ -13026,15 +13074,15 @@ async def notify_admins_about_payment(payment_id: int, user_id: int, subscriptio
             f"🆔 <b>ID реферера:</b> {referrer_info['referrer_id']}\n"
         )
     else:
-        notification_text += "👥 <b>Реферер:</b> _E['cross2'] Нет\n"
+        notification_text += "👥 <b>Реферер:</b> ❌ Нет\n"
     
     notification_text += f"📅 <b>Время:</b> {datetime.now().strftime('%d.%m.%Y %H:%M')}\n\n"
     notification_text += "👇 <b>Выберите действие:</b>"
     
     keyboard = InlineKeyboardMarkup(inline_keyboard=[
         [
-            InlineKeyboardButton(text="_E['check2'] Принять", callback_data=f'admin_approve_payment_{payment_id}'),
-            InlineKeyboardButton(text="_E['cross2'] Отклонить", callback_data=f'admin_reject_payment_{payment_id}')
+            InlineKeyboardButton(text="✅ Принять", callback_data=f'admin_approve_payment_{payment_id}'),
+            InlineKeyboardButton(text="❌ Отклонить", callback_data=f'admin_reject_payment_{payment_id}')
         ],
         [InlineKeyboardButton(text="👀 Посмотреть чек", callback_data=f'admin_view_receipt_{payment_id}')]
     ])
@@ -13049,25 +13097,25 @@ async def notify_admins_about_payment(payment_id: int, user_id: int, subscriptio
                 text=notification_text,
                 reply_markup=keyboard
             )
-            logging.info(f"_E['check2'] Уведомление о платеже отправлено админу {admin_id}")
+            logging.info(f"✅ Уведомление о платеже отправлено админу {admin_id}")
         except Exception as e:
-            logging.error(f"_E['cross2'] Не удалось отправить уведомление о платеже админу {admin_id}: {e}")
+            logging.error(f"❌ Не удалось отправить уведомление о платеже админу {admin_id}: {e}")
 
 @dp.callback_query(F.data.startswith('admin_view_receipt_'))
 async def callback_admin_view_receipt(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!", show_alert=True)
+        await call.answer("❌ У вас нет доступа!", show_alert=True)
         return
     
     payment_id = int(call.data.replace('admin_view_receipt_', ''))
     payment_info = get_manual_payment(payment_id)
     
     if not payment_info:
-        await call.answer("_E['cross2'] Заявка не найдена!", show_alert=True)
+        await call.answer("❌ Заявка не найдена!", show_alert=True)
         return
     
     if not payment_info['photo_file_id']:
-        await call.answer("_E['cross2'] Чек не прикреплен!", show_alert=True)
+        await call.answer("❌ Чек не прикреплен!", show_alert=True)
         return
     
     try:
@@ -13076,25 +13124,25 @@ async def callback_admin_view_receipt(call: CallbackQuery):
             photo=payment_info['photo_file_id'],
             caption=f"📎 Чек для заявки #{payment_id}"
         )
-        await call.answer("_E['check2'] Чек отправлен в личные сообщения")
+        await call.answer("✅ Чек отправлен в личные сообщения")
     except Exception as e:
-        await call.answer("_E['cross2'] Ошибка загрузки чека!", show_alert=True)
+        await call.answer("❌ Ошибка загрузки чека!", show_alert=True)
 
 @dp.callback_query(F.data.startswith('admin_approve_payment_'))
 async def callback_admin_approve_payment(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     payment_id = int(call.data.replace('admin_approve_payment_', ''))
     payment_info = get_manual_payment(payment_id)
     
     if not payment_info:
-        await call.answer("_E['cross2'] Заявка не найдена!", show_alert=True)
+        await call.answer("❌ Заявка не найдена!", show_alert=True)
         return
     
     if payment_info['status'] != PaymentStatus.PENDING:
-        await call.answer("_E['cross2'] Эта заявка уже обработана!", show_alert=True)
+        await call.answer("❌ Эта заявка уже обработана!", show_alert=True)
         return
     
     # Обновляем статус платежа
@@ -13121,45 +13169,45 @@ async def callback_admin_approve_payment(call: CallbackQuery):
             try:
                 await bot.send_message(
                     chat_id=payment_info['user_id'],
-                    text=f"_E['confetti'] <b>Ваша оплата подтверждена!</b>\n\n"
-                         f"_E['check2'] <b>Подписка активирована:</b> {SUBSCRIPTION_FEATURES[payment_info['subscription_type']]['name']}\n\n"
+                    text=f"🎉 <b>Ваша оплата подтверждена!</b>\n\n"
+                         f"✅ <b>Подписка активирована:</b> {SUBSCRIPTION_FEATURES[payment_info['subscription_type']]['name']}\n\n"
                          f"🚀 Теперь вам доступны все возможности подписки!\n"
                          f"Спасибо за покупку! 💫",
                     reply_markup=make_main_menu(payment_info['subscription_type'])
                 )
             except Exception as e:
-                logging.error(f"_E['cross2'] Не удалось уведомить пользователя: {e}")
+                logging.error(f"❌ Не удалось уведомить пользователя: {e}")
             
             await call.message.edit_text(
-                f"_E['check2'] <b>Заявка #{payment_id} одобрена!</b>\n\n"
-                f"_E['person'] Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
+                f"✅ <b>Заявка #{payment_id} одобрена!</b>\n\n"
+                f"👤 Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
                 f"🎫 Подписка: {SUBSCRIPTION_FEATURES[payment_info['subscription_type']]['name']}\n"
-                f"_E['diamond'] Сумма: {payment_info['amount_stars']}_E['star'] ({payment_info['amount_rub']} RUB)\n\n"
-                f"_E['check2'] Подписка успешно активирована.",
+                f"💎 Сумма: {payment_info['amount_stars']}⭐️ ({payment_info['amount_rub']} RUB)\n\n"
+                f"✅ Подписка успешно активирована.",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="📋 К списку заявок", callback_data='admin_payments_list')]
                 ])
             )
         else:
-            await call.answer("_E['cross2'] Ошибка активации подписки!", show_alert=True)
+            await call.answer("❌ Ошибка активации подписки!", show_alert=True)
     else:
-        await call.answer("_E['cross2'] Ошибка обновления статуса!", show_alert=True)
+        await call.answer("❌ Ошибка обновления статуса!", show_alert=True)
 
 @dp.callback_query(F.data.startswith('admin_approve_payment_'))
 async def callback_admin_approve_payment(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     payment_id = int(call.data.replace('admin_approve_payment_', ''))
     payment_info = get_manual_payment(payment_id)
     
     if not payment_info:
-        await call.answer("_E['cross2'] Заявка не найдена!", show_alert=True)
+        await call.answer("❌ Заявка не найдена!", show_alert=True)
         return
     
     if payment_info['status'] != PaymentStatus.PENDING:
-        await call.answer("_E['cross2'] Эта заявка уже обработана!", show_alert=True)
+        await call.answer("❌ Эта заявка уже обработана!", show_alert=True)
         return
     
     # Обновляем статус платежа
@@ -13184,11 +13232,11 @@ async def callback_admin_approve_payment(call: CallbackQuery):
             
             # Уведомляем админов о подтверждении оплаты
             await notify_admins(
-                f"_E['check2'] <b>Ручная оплата подтверждена</b>\n\n"
+                f"✅ <b>Ручная оплата подтверждена</b>\n\n"
                 f"🆔 ID заявки: {payment_id}\n"
-                f"_E['person'] Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
+                f"👤 Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
                 f"🎫 Подписка: {SUBSCRIPTION_FEATURES[payment_info['subscription_type']]['name']}\n"
-                f"_E['money_bag'] Сумма: {payment_info['amount_rub']} RUB\n"
+                f"💰 Сумма: {payment_info['amount_rub']} RUB\n"
                 f"👑 Подтвердил: {call.from_user.first_name}\n"
                 f"⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}"
             )
@@ -13197,46 +13245,46 @@ async def callback_admin_approve_payment(call: CallbackQuery):
             try:
                 await bot.send_message(
                     chat_id=payment_info['user_id'],
-                    text=f"_E['confetti'] <b>Ваша оплата подтверждена!</b>\n\n"
-                         f"_E['check2'] <b>Подписка активирована:</b> {SUBSCRIPTION_FEATURES[payment_info['subscription_type']]['name']}\n\n"
+                    text=f"🎉 <b>Ваша оплата подтверждена!</b>\n\n"
+                         f"✅ <b>Подписка активирована:</b> {SUBSCRIPTION_FEATURES[payment_info['subscription_type']]['name']}\n\n"
                          f"🚀 Теперь вам доступны все возможности подписки!\n"
                          f"Спасибо за покупку! 💫",
                     reply_markup=make_main_menu(payment_info['subscription_type'])
                 )
             except Exception as e:
-                logging.error(f"_E['cross2'] Не удалось уведомить пользователя: {e}")
+                logging.error(f"❌ Не удалось уведомить пользователя: {e}")
             
             await call.message.edit_text(
-                f"_E['check2'] <b>Заявка #{payment_id} одобрена!</b>\n\n"
-                f"_E['person'] Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
+                f"✅ <b>Заявка #{payment_id} одобрена!</b>\n\n"
+                f"👤 Пользователь: {payment_info['first_name']} (@{payment_info['username']})\n"
                 f"🎫 Подписка: {SUBSCRIPTION_FEATURES[payment_info['subscription_type']]['name']}\n"
-                f"_E['diamond'] Сумма: {payment_info['amount_stars']}_E['star'] ({payment_info['amount_rub']} RUB)\n\n"
-                f"_E['check2'] Подписка успешно активирована.",
+                f"💎 Сумма: {payment_info['amount_stars']}⭐️ ({payment_info['amount_rub']} RUB)\n\n"
+                f"✅ Подписка успешно активирована.",
                 reply_markup=InlineKeyboardMarkup(inline_keyboard=[
                     [InlineKeyboardButton(text="📋 К списку заявок", callback_data='admin_payments_list')]
                 ])
             )
         else:
-            await call.answer("_E['cross2'] Ошибка активации подписки!", show_alert=True)
+            await call.answer("❌ Ошибка активации подписки!", show_alert=True)
     else:
-        await call.answer("_E['cross2'] Ошибка обновления статуса!", show_alert=True)
+        await call.answer("❌ Ошибка обновления статуса!", show_alert=True)
 
 @dp.callback_query(F.data == 'admin_payments')
 async def admin_payments_handler(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     # Показываем меню управления платежами
     pending_count = len(get_pending_payments())
     
     await call.message.edit_text(
-        f"_E['money_bag'] <b>Управление платежами</b>\n\n"
+        f"💰 <b>Управление платежами</b>\n\n"
         f"⏳ <b>Ожидающие заявки:</b> {pending_count}\n\n"
         "👇 <b>Выберите действие:</b>",
         reply_markup=InlineKeyboardMarkup(inline_keyboard=[
             [InlineKeyboardButton(text="📋 Список заявок", callback_data='admin_payments_list')],
-            [InlineKeyboardButton(text="_E['chart'] Статистика платежей", callback_data='admin_payments_stats')],
+            [InlineKeyboardButton(text="📊 Статистика платежей", callback_data='admin_payments_stats')],
             [InlineKeyboardButton(text="◀️ Назад", callback_data='admin_menu')]
         ])
     )
@@ -13244,7 +13292,7 @@ async def admin_payments_handler(call: CallbackQuery):
 @dp.callback_query(F.data == 'admin_payments_list')
 async def admin_payments_list_handler(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     # Получаем все заявки, а не только ожидающие
@@ -13290,17 +13338,17 @@ async def admin_payments_list_handler(call: CallbackQuery):
     
     status_icons = {
         PaymentStatus.PENDING: "⏳",
-        PaymentStatus.APPROVED: "_E['check2']",
-        PaymentStatus.REJECTED: "_E['cross2']"
+        PaymentStatus.APPROVED: "✅",
+        PaymentStatus.REJECTED: "❌"
     }
     
     for payment in payments:
         created_time = datetime.fromisoformat(payment['created_at']).strftime('%d.%m %H:%M')
         text += (
             f"{status_icons[payment['status']]} <b>#{payment['id']}</b> | {created_time}\n"
-            f"_E['person'] {payment['first_name']} (@{payment['username']})\n"
+            f"👤 {payment['first_name']} (@{payment['username']})\n"
             f"🎫 {SUBSCRIPTION_FEATURES[payment['subscription_type']]['name']}\n"
-            f"_E['money_bag'] {payment['amount_rub']} RUB | {payment['status']}\n\n"
+            f"💰 {payment['amount_rub']} RUB | {payment['status']}\n\n"
         )
     
     await call.message.edit_text(
@@ -13315,7 +13363,7 @@ async def admin_payments_list_handler(call: CallbackQuery):
 @dp.callback_query(F.data == 'admin_menu')
 async def admin_menu_handler(call: CallbackQuery):
     if not is_admin(call.from_user.id):
-        await call.answer("_E['cross2'] У вас нет доступа!")
+        await call.answer("❌ У вас нет доступа!")
         return
     
     await call.message.edit_text(
@@ -13329,7 +13377,7 @@ async def admin_menu_handler(call: CallbackQuery):
 async def donation_stats_handler(message: Message):
     """Показывает статистику донатов"""
     if not is_admin(message.from_user.id):
-        await message.answer("_E['cross2'] У вас нет доступа!")
+        await message.answer("❌ У вас нет доступа!")
         return
     
     conn = sqlite3.connect('users.db')
@@ -13386,10 +13434,10 @@ async def donation_stats_handler(message: Message):
         top_donators = cursor.fetchall()
         
         # Формируем отчет
-        text = "_E['money_bag'] <b>Статистика донатов</b>\n\n"
+        text = "💰 <b>Статистика донатов</b>\n\n"
         
         if total_stats:
-            text += f"_E['chart'] <b>Общая статистика:</b>\n"
+            text += f"📊 <b>Общая статистика:</b>\n"
             text += f"• Всего донатов: {total_stats[0]}\n"
             text += f"• Уникальных донатеров: {total_stats[1]}\n"
             text += f"• Общая сумма: {total_stats[2]:.2f} RUB\n"
@@ -13408,8 +13456,8 @@ async def donation_stats_handler(message: Message):
         await message.answer(text)
         
     except Exception as e:
-        logging.error(f"_E['cross2'] Ошибка получения статистики донатов: {e}")
-        await message.answer(f"_E['cross2'] Ошибка: {str(e)}")
+        logging.error(f"❌ Ошибка получения статистики донатов: {e}")
+        await message.answer(f"❌ Ошибка: {str(e)}")
     finally:
         conn.close()
 
@@ -13437,15 +13485,15 @@ async def process_successful_payment(message: Message):
     
     if not await check_subscription(user_id):
         subscription_keyboard = InlineKeyboardMarkup(inline_keyboard=[
-            [InlineKeyboardButton(text="_E['megaphone'] @rtc_reverv", url=CHANNEL_LINK)],
-            [InlineKeyboardButton(text="_E['check2'] Я подписался", callback_data="check_subscription")]
+            [InlineKeyboardButton(text="📣 @rtc_reverv", url=CHANNEL_LINK)],
+            [InlineKeyboardButton(text="✅ Я подписался", callback_data="check_subscription")]
         ])
         
         await message.answer(
-            f"{e['megaphone']} <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
-            f"{e['bell']} <b>Обязательные каналы:</b>\n"
-            f"{e['check']} @rtc_reverv\n\n"
-            f"{e['sparkle']} <b>После подписки нажмите кнопку 'Я подписался':</b>",
+            f"📣 <b>Для использования бота необходимо подписаться на каналы!</b>\n\n"
+            f"🔔 <b>Обязательные каналы:</b>\n"
+            f"✅ @rtc_reverv\n\n"
+            f"✨ <b>После подписки нажмите кнопку 'Я подписался':</b>",
             reply_markup=subscription_keyboard
         )
         return
@@ -13464,9 +13512,9 @@ async def process_successful_payment(message: Message):
             await notify_admins_with_referrer(
                 f"❤️ <b>Новый донат</b>\n\n"
                 f"🆔 ID: {user_id}\n"
-                f"_E['person'] Имя: {first_name}\n"
-                f"_E['link'] Тег: @{username}\n"
-                f"_E['money_bag'] Сумма: {amount}_E['star']\n"
+                f"👤 Имя: {first_name}\n"
+                f"🔗 Тег: @{username}\n"
+                f"💰 Сумма: {amount}⭐️\n"
                 f"💫 Тип: Поддержка разработчика\n"
                 f"⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}",
                 user_id
@@ -13506,17 +13554,17 @@ async def process_successful_payment(message: Message):
                 await notify_admins_with_referrer(
                     f"🎫 <b>Продана подписка</b>\n\n"
                     f"🆔 ID: {user_id}\n"
-                    f"_E['person'] Имя: {first_name}\n"
-                    f"_E['link'] Тег: @{username}\n"
-                    f"_E['diamond'] Подписка: {subscription_name}\n"  # ← ИСПРАВЛЕННАЯ СТРОКА
-                    f"_E['money_bag'] Стоимость: {amount}_E['star']\n"
+                    f"👤 Имя: {first_name}\n"
+                    f"🔗 Тег: @{username}\n"
+                    f"💎 Подписка: {subscription_name}\n"  # ← ИСПРАВЛЕННАЯ СТРОКА
+                    f"💰 Стоимость: {amount}⭐️\n"
                     f"⏰ Время: {datetime.now().strftime('%d.%m.%Y %H:%M')}",
                     user_id
                 )
                 
                 await message.answer(
-                    f"_E['confetti'] <b>Оплата прошла успешно!</b>\n\n"
-                    f"_E['sparkle'] <b>Вы получили {subscription_name} подписку!</b>\n\n"
+                    f"🎉 <b>Оплата прошла успешно!</b>\n\n"
+                    f"✨ <b>Вы получили {subscription_name} подписку!</b>\n\n"
                     f"🚀 Теперь вам доступны:\n"
                     + "\n".join(f"• {feature}" for feature in SUBSCRIPTION_FEATURES[subscription_type]["features"]) +
                     f"\n\n👇 Используйте кнопки ниже:",
@@ -13524,7 +13572,7 @@ async def process_successful_payment(message: Message):
                 )
             else:
                 await message.answer(
-                    "_E['cross2'] <b>Ошибка активации подписки</b>\n\n"
+                    "❌ <b>Ошибка активации подписки</b>\n\n"
                     "Пожалуйста, свяжитесь с поддержкой.",
                     reply_markup=make_back_menu()
                 )
